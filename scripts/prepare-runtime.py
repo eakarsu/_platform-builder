@@ -1,0 +1,33 @@
+from pathlib import Path
+T=Path(__file__).resolve().parent.parent/'template'
+(T/'scripts/workspace.mjs').write_text("""import {readFile} from 'node:fs/promises';
+import {fileURLToPath} from 'node:url';
+export const ROOT=fileURLToPath(new URL('../../',import.meta.url));
+export const modules=JSON.parse(await readFile(new URL('../config/modules.json',import.meta.url)));
+export const features=JSON.parse(await readFile(new URL('../config/merged-features.json',import.meta.url)));
+export const appConfig=JSON.parse(await readFile(new URL('../config/app.json',import.meta.url)));
+export async function readiness(module){return {id:module.id,status:'Source reference; native workspace active',issues:[],listening:false};}
+""")
+p=T/'hub/server.mjs';s=p.read_text().replace('modules,features,readiness,ROOT','modules,features,readiness,ROOT,appConfig').replace('{modules,features}:','{modules,features,app:appConfig}:').replace("service:'legal-platform-hub'","service:appConfig.id").replace('process.env.HUB_PORT||43100','process.env.PORT||process.env.HUB_PORT||appConfig.port').replace('Legal Platform: http://localhost:${port}', '${appConfig.productName}: http://localhost:${port}');p.write_text(s)
+p=T/'hub/public/app.js';s=p.read_text();s=s.replace("const areas=['General practice','Family law','Estate planning','Immigration','Small claims','Tenant rights','Contracts'];", "const areas=[];")
+s=s.replace("new Set(['Practice','Documents & research'])", "new Set(['Workspace','Practice'])")
+s=s.replace("document.title=(feature?.title||'Workspace')+' · Legal Platform'", "document.title=(feature?.title||'Workspace')+' · '+catalog.app.productName")
+s=s.replace("$('#feature-total').textContent=", "areas.push(...new Set(['General',...catalog.features.map(f=>f.group)]));$('#feature-total').textContent=")
+s=s.replace("'General practice'", "'General'").replace("'Practice area'","'Area / workflow'").replace("'Practice areas'","'Workflow groups'").replace("'Practice area'","'Area / workflow'")
+s=s.replace("(['Family law','Estate planning','Immigration','Small claims','Tenant rights','Contracts'].includes(f.group)?f.group:'General')", "f.group")
+s=s.replace("['Clients',summary.counts.clients||0,'Shared across practice areas']", "[catalog.features.find(f=>f.id==='clients')?.title||'Clients',summary.counts.clients||0,'Shared across features']")
+s=s.replace("'Matters & cases'", "'Work items & projects'").replace("'Matter / case'", "'Work item / project'").replace("'One case directory'", "'Shared work directory'").replace("'+ New matter'", "'+ New work item'")
+s=s.replace("Manage your practice and specialist work through one shared set of records.", "Manage your work through one shared set of records.")
+s=s.replace("const a=link('',`/features/${id}`,'quick-link');", "if(!catalog.features.some(f=>f.id===id))continue;const a=link('',`/features/${id}`,'quick-link');")
+s=s.replace("The ${catalog.modules.length} source application copies are retained in apps/ for migration reference.", "The ${catalog.modules.length} source applications remain in their original project folders for migration reference.")
+s=s.replace("const [r,drafts,files,related]=await Promise.all([", "const [r,drafts,files,related,calculations]=await Promise.all([").replace("api(`/api/workspace/records/${id}/related`)]);", "api(`/api/workspace/records/${id}/related`),api(`/api/workspace/records/${id}/calculations`)]);")
+s=s.replace("const right=el('div');if(f.ai)", "const right=el('div');if(f.calculations?.length){const calculator=panel('Source calculations');calculator.append(el('p','','Calculations use this record’s saved inputs. Edit the record to supply all required fields.'));for(const c of f.calculations)calculator.append(button(c.feature.title+' · '+c.project,async()=>{await api(`/api/workspace/records/${id}/calculate`,{method:'POST',body:JSON.stringify({calculationId:c.id})});toast('Calculation saved');await renderRoute();}));for(const c of calculations){const result=el('section','ai-result');result.append(el('h3','',c.result.headline||'Calculation'),el('p','',c.result.executiveSummary||''));for(const metric of c.result.metrics||[])result.append(el('p','',metric.label+': '+metric.value));result.append(el('p','muted',c.result.disclaimer||'Review inputs and source assumptions.'));calculator.append(result);}right.append(calculator);}if(f.ai)")
+p.write_text(s)
+p=T/'hub/runtime/store.mjs';s=p.read_text().replace("const index=new Map", "db.exec('CREATE TABLE IF NOT EXISTS calculations(id TEXT PRIMARY KEY,record_id TEXT NOT NULL REFERENCES records(id) ON DELETE CASCADE,calculation_id TEXT NOT NULL,result TEXT NOT NULL,created_at TEXT NOT NULL)');\n const index=new Map")
+s=s.replace("feature,get,", "feature,get,\n  transaction(fn){db.exec('BEGIN IMMEDIATE');try{const result=fn();db.exec('COMMIT');return result;}catch(e){db.exec('ROLLBACK');throw e;}},\n  calculations(id){get(id);return db.prepare('SELECT * FROM calculations WHERE record_id=? ORDER BY created_at DESC').all(id).map(r=>({...r,result:JSON.parse(r.result)}));},\n  addCalculation(id,calculationId,result){const record=get(id),row={id:randomUUID(),record_id:id,calculation_id:calculationId,result,created_at:new Date().toISOString()};db.prepare('INSERT INTO calculations VALUES(?,?,?,?,?)').run(row.id,id,calculationId,JSON.stringify(result),row.created_at);log('calculation saved',record);return row;},")
+# Actual calendar validation, not just a date-shaped string.
+s=s.replace("field.type==='date'&&!/^\\d{4}-\\d{2}-\\d{2}$/.test(value)", "field.type==='date'&&(!/^\\d{4}-\\d{2}-\\d{2}$/.test(value)||!Number.isFinite(Date.parse(value))||new Date(value).toISOString().slice(0,10)!==value)")
+p.write_text(s)
+p=T/'hub/runtime/api.mjs';s=p.read_text().replace('(drafts|ai|attachments|related)', '(drafts|ai|attachments|related|calculate|calculations)')
+s=s.replace("if(action==='related'&&isGet)", "if(action==='calculations'&&isGet)return send(store.calculations(id));\n    if(action==='calculate'&&req.method==='POST'){const input=await body(req),f=store.feature(current.feature),spec=f.calculations?.find(c=>c.id===input.calculationId);if(!spec)throw new WorkspaceError('Calculation not available for this feature.',404);if(!/^[a-f0-9]{64}$/.test(spec.engine))throw new WorkspaceError('Invalid calculation adapter.');const engine=await import(new URL('../../engines/'+spec.engine+'.mjs',import.meta.url));if(engine.validateInputs)engine.validateInputs(spec.feature,current.data,true);const result=engine.calculate(spec.config,spec.feature,current.data);return send(store.addCalculation(id,spec.id,result),201);}\n    if(action==='related'&&isGet)")
+p.write_text(s)

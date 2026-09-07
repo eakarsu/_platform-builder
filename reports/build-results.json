@@ -1,0 +1,2434 @@
+[
+  {
+    "id": "legal-platform",
+    "built": {
+      "app": "legal-platform",
+      "features": 575,
+      "sourceApps": 26,
+      "calculatorEngines": 0,
+      "registryHash": "d20ba4683b9a78b2e164327e2ea14b556067ea0fd55a8abc65c7218c237bf168",
+      "builtAt": "2026-09-07T22:05:21.053Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "legal-platform",
+      "status": "passed",
+      "features": 575,
+      "editableTables": 573,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:22.372Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 573,
+      "minimumRows": 15,
+      "total": 8595
+    },
+    "status": "passed"
+  },
+  {
+    "id": "pet-services-platform",
+    "built": {
+      "app": "pet-services-platform",
+      "features": 192,
+      "sourceApps": 5,
+      "calculatorEngines": 0,
+      "registryHash": "9f904c3ef7563acdbdef7c4cc96a0a4a600c9d3ab430a337cc1e9e0554b2585b",
+      "builtAt": "2026-09-07T22:05:22.864Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "pet-services-platform",
+      "status": "passed",
+      "features": 192,
+      "editableTables": 190,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:23.279Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 190,
+      "minimumRows": 15,
+      "total": 2850
+    },
+    "status": "passed"
+  },
+  {
+    "id": "beauty-platform",
+    "built": {
+      "app": "beauty-platform",
+      "features": 164,
+      "sourceApps": 5,
+      "calculatorEngines": 0,
+      "registryHash": "3b9da80f6680e1aa3f8b636a3f08b106dd27a380f99a025b8adf0be4d4bcf92f",
+      "builtAt": "2026-09-07T22:05:23.698Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "beauty-platform",
+      "status": "passed",
+      "features": 164,
+      "editableTables": 162,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:24.062Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 162,
+      "minimumRows": 15,
+      "total": 2430
+    },
+    "status": "passed"
+  },
+  {
+    "id": "dental-platform",
+    "built": {
+      "app": "dental-platform",
+      "features": 59,
+      "sourceApps": 3,
+      "calculatorEngines": 0,
+      "registryHash": "9ca33450b27626305c191085a9d45783a911267040a614008282aa9fc6537da8",
+      "builtAt": "2026-09-07T22:05:24.400Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "dental-platform",
+      "status": "passed",
+      "features": 59,
+      "editableTables": 57,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:24.530Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 57,
+      "minimumRows": 15,
+      "total": 855
+    },
+    "status": "passed"
+  },
+  {
+    "id": "pharmacy-platform",
+    "built": {
+      "app": "pharmacy-platform",
+      "features": 125,
+      "sourceApps": 10,
+      "calculatorEngines": 0,
+      "registryHash": "fba0f973f44848f7bcfa8906ad811d90570ba184e42b7ce583ca6a3744a8ce1a",
+      "builtAt": "2026-09-07T22:05:24.836Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "pharmacy-platform",
+      "status": "passed",
+      "features": 125,
+      "editableTables": 123,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:25.092Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 123,
+      "minimumRows": 15,
+      "total": 1845
+    },
+    "status": "passed"
+  },
+  {
+    "id": "healthcare-revenue-platform",
+    "built": {
+      "app": "healthcare-revenue-platform",
+      "features": 591,
+      "sourceApps": 40,
+      "calculatorEngines": 0,
+      "registryHash": "49e6427521640fc28a297baee95249dbc756b855b5832b2dce7d49958b136cb7",
+      "builtAt": "2026-09-07T22:05:25.483Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "healthcare-revenue-platform",
+      "status": "passed",
+      "features": 591,
+      "editableTables": 589,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:26.641Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 589,
+      "minimumRows": 15,
+      "total": 8835
+    },
+    "status": "passed"
+  },
+  {
+    "id": "insurance-platform",
+    "built": {
+      "app": "insurance-platform",
+      "features": 404,
+      "sourceApps": 24,
+      "calculatorEngines": 0,
+      "registryHash": "b96cbd6f05546e8f391003139a643c5d024035c55d6356e411360ea36f06590f",
+      "builtAt": "2026-09-07T22:05:27.156Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "insurance-platform",
+      "status": "passed",
+      "features": 404,
+      "editableTables": 402,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:27.945Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 402,
+      "minimumRows": 15,
+      "total": 6030
+    },
+    "status": "passed"
+  },
+  {
+    "id": "specialty-care-platform",
+    "built": {
+      "app": "specialty-care-platform",
+      "features": 123,
+      "sourceApps": 10,
+      "calculatorEngines": 0,
+      "registryHash": "44f123c7f16c69e586de5dd299478c03eb2abad94d6c0e1a2f98a50623407d49",
+      "builtAt": "2026-09-07T22:05:28.374Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "specialty-care-platform",
+      "status": "passed",
+      "features": 123,
+      "editableTables": 121,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:28.622Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 121,
+      "minimumRows": 15,
+      "total": 1815
+    },
+    "status": "passed"
+  },
+  {
+    "id": "home-care-platform",
+    "built": {
+      "app": "home-care-platform",
+      "features": 122,
+      "sourceApps": 6,
+      "calculatorEngines": 0,
+      "registryHash": "3280c793c0fe3a5bfb9b5cdd2a45ef3d715340b0274f5f35085ea1aef225209f",
+      "builtAt": "2026-09-07T22:05:28.947Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "home-care-platform",
+      "status": "passed",
+      "features": 122,
+      "editableTables": 120,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:29.191Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 120,
+      "minimumRows": 15,
+      "total": 1800
+    },
+    "status": "passed"
+  },
+  {
+    "id": "wellness-platform",
+    "built": {
+      "app": "wellness-platform",
+      "features": 121,
+      "sourceApps": 7,
+      "calculatorEngines": 0,
+      "registryHash": "fa538d3d1dba63a40188ab4b27c673405c1f6acee14b4e7c6180084e4ce22047",
+      "builtAt": "2026-09-07T22:05:29.514Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "wellness-platform",
+      "status": "passed",
+      "features": 121,
+      "editableTables": 119,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:29.759Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 119,
+      "minimumRows": 15,
+      "total": 1785
+    },
+    "status": "passed"
+  },
+  {
+    "id": "hospital-platform",
+    "built": {
+      "app": "hospital-platform",
+      "features": 408,
+      "sourceApps": 10,
+      "calculatorEngines": 0,
+      "registryHash": "ddd62bdc0c72aef6fe02c92ab1d6b08475c90269d64797b09debc1ced31c9c6c",
+      "builtAt": "2026-09-07T22:05:30.082Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "hospital-platform",
+      "status": "passed",
+      "features": 408,
+      "editableTables": 406,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:30.863Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 406,
+      "minimumRows": 15,
+      "total": 6090
+    },
+    "status": "passed"
+  },
+  {
+    "id": "clinical-research-platform",
+    "built": {
+      "app": "clinical-research-platform",
+      "features": 268,
+      "sourceApps": 13,
+      "calculatorEngines": 0,
+      "registryHash": "a368b979e49c084a0b30e33a70c7cb837f23a23aa23fae79547b01cbc8ed24f9",
+      "builtAt": "2026-09-07T22:05:31.291Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "clinical-research-platform",
+      "status": "passed",
+      "features": 268,
+      "editableTables": 266,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:31.814Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 266,
+      "minimumRows": 15,
+      "total": 3990
+    },
+    "status": "passed"
+  },
+  {
+    "id": "lab-traceability-platform",
+    "built": {
+      "app": "lab-traceability-platform",
+      "features": 115,
+      "sourceApps": 7,
+      "calculatorEngines": 0,
+      "registryHash": "3f583fe42c5f5063c6c7e542b8fef7ece0cc47ce1db52510d9d921ebd407a88d",
+      "builtAt": "2026-09-07T22:05:32.214Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "lab-traceability-platform",
+      "status": "passed",
+      "features": 115,
+      "editableTables": 113,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:32.452Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 113,
+      "minimumRows": 15,
+      "total": 1695
+    },
+    "status": "passed"
+  },
+  {
+    "id": "medical-device-platform",
+    "built": {
+      "app": "medical-device-platform",
+      "features": 37,
+      "sourceApps": 2,
+      "calculatorEngines": 0,
+      "registryHash": "af399d0644bac9b98beaba6387fbab6371fd53762e94e3a9b6216d372ec114fe",
+      "builtAt": "2026-09-07T22:05:32.776Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "medical-device-platform",
+      "status": "passed",
+      "features": 37,
+      "editableTables": 35,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:32.862Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 35,
+      "minimumRows": 15,
+      "total": 525
+    },
+    "status": "passed"
+  },
+  {
+    "id": "tax-platform",
+    "built": {
+      "app": "tax-platform",
+      "features": 391,
+      "sourceApps": 28,
+      "calculatorEngines": 0,
+      "registryHash": "64300466e33672c3e6f3ba7c1b667ccfb189e2bb97aa3fb0211144db6bf42771",
+      "builtAt": "2026-09-07T22:05:33.155Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "tax-platform",
+      "status": "passed",
+      "features": 391,
+      "editableTables": 389,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:33.912Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 389,
+      "minimumRows": 15,
+      "total": 5835
+    },
+    "status": "passed"
+  },
+  {
+    "id": "banking-credit-platform",
+    "built": {
+      "app": "banking-credit-platform",
+      "features": 209,
+      "sourceApps": 10,
+      "calculatorEngines": 0,
+      "registryHash": "96b2a2047571a7555220d9ed24d32adad5e154615f2da6b86fada75aac47ab82",
+      "builtAt": "2026-09-07T22:05:34.356Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "banking-credit-platform",
+      "status": "passed",
+      "features": 209,
+      "editableTables": 207,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:34.769Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 207,
+      "minimumRows": 15,
+      "total": 3105
+    },
+    "status": "passed"
+  },
+  {
+    "id": "investment-platform",
+    "built": {
+      "app": "investment-platform",
+      "features": 404,
+      "sourceApps": 16,
+      "calculatorEngines": 0,
+      "registryHash": "0b90cb45849701f936b255c923c60dfef5d1ec13c2e556c3159d47065640d149",
+      "builtAt": "2026-09-07T22:05:35.131Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "investment-platform",
+      "status": "passed",
+      "features": 404,
+      "editableTables": 402,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:35.910Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 402,
+      "minimumRows": 15,
+      "total": 6030
+    },
+    "status": "passed"
+  },
+  {
+    "id": "crypto-platform",
+    "built": {
+      "app": "crypto-platform",
+      "features": 78,
+      "sourceApps": 11,
+      "calculatorEngines": 0,
+      "registryHash": "e0b7f0190ca47e78f83b397440e081b02d0a891756794e303a38b4ce0442c228",
+      "builtAt": "2026-09-07T22:05:36.343Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "crypto-platform",
+      "status": "passed",
+      "features": 78,
+      "editableTables": 76,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:36.506Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 76,
+      "minimumRows": 15,
+      "total": 1140
+    },
+    "status": "passed"
+  },
+  {
+    "id": "finance-risk-platform",
+    "built": {
+      "app": "finance-risk-platform",
+      "features": 266,
+      "sourceApps": 13,
+      "calculatorEngines": 0,
+      "registryHash": "ee17cc193ecba42bf1b0c4f59133ae8e5d6985ab5b1cb051aa711c90b1287dde",
+      "builtAt": "2026-09-07T22:05:36.813Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "finance-risk-platform",
+      "status": "passed",
+      "features": 266,
+      "editableTables": 264,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:37.340Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 264,
+      "minimumRows": 15,
+      "total": 3960
+    },
+    "status": "passed"
+  },
+  {
+    "id": "accounting-platform",
+    "built": {
+      "app": "accounting-platform",
+      "features": 239,
+      "sourceApps": 15,
+      "calculatorEngines": 0,
+      "registryHash": "d6e387c23d255ca4ab95ac6fc57a43e900a1f96d4a466a4ee2056f9755b98078",
+      "builtAt": "2026-09-07T22:05:37.723Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "accounting-platform",
+      "status": "passed",
+      "features": 239,
+      "editableTables": 237,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:38.187Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 237,
+      "minimumRows": 15,
+      "total": 3555
+    },
+    "status": "passed"
+  },
+  {
+    "id": "procurement-platform",
+    "built": {
+      "app": "procurement-platform",
+      "features": 282,
+      "sourceApps": 16,
+      "calculatorEngines": 0,
+      "registryHash": "613b610851d6653e769ea0aa70f149b0262d214fbd2d6c4dc5e9c728102d7466",
+      "builtAt": "2026-09-07T22:05:38.561Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "procurement-platform",
+      "status": "passed",
+      "features": 282,
+      "editableTables": 280,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:39.118Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 280,
+      "minimumRows": 15,
+      "total": 4200
+    },
+    "status": "passed"
+  },
+  {
+    "id": "governance-platform",
+    "built": {
+      "app": "governance-platform",
+      "features": 220,
+      "sourceApps": 12,
+      "calculatorEngines": 0,
+      "registryHash": "654a578b3ceefeccb72f52de03fccd593b7b13a0b3dbeb1b3aa48c40b225102c",
+      "builtAt": "2026-09-07T22:05:39.498Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "governance-platform",
+      "status": "passed",
+      "features": 220,
+      "editableTables": 218,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:39.932Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 218,
+      "minimumRows": 15,
+      "total": 3270
+    },
+    "status": "passed"
+  },
+  {
+    "id": "semiconductor-platform",
+    "built": {
+      "app": "semiconductor-platform",
+      "features": 142,
+      "sourceApps": 9,
+      "calculatorEngines": 0,
+      "registryHash": "813db6b416d47e9f0b57f1ec3e7277405ca39bf5fb6732cc1defa8c8e0b26b6e",
+      "builtAt": "2026-09-07T22:05:40.295Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "semiconductor-platform",
+      "status": "passed",
+      "features": 142,
+      "editableTables": 140,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:40.582Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 140,
+      "minimumRows": 15,
+      "total": 2100
+    },
+    "status": "passed"
+  },
+  {
+    "id": "manufacturing-platform",
+    "built": {
+      "app": "manufacturing-platform",
+      "features": 400,
+      "sourceApps": 20,
+      "calculatorEngines": 0,
+      "registryHash": "267321c7926d0ffeb0a6e8db09b2f8ea115f32ef653e863d42963464f40c90cd",
+      "builtAt": "2026-09-07T22:05:40.912Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "manufacturing-platform",
+      "status": "passed",
+      "features": 400,
+      "editableTables": 398,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:41.681Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 398,
+      "minimumRows": 15,
+      "total": 5970
+    },
+    "status": "passed"
+  },
+  {
+    "id": "mining-platform",
+    "built": {
+      "app": "mining-platform",
+      "features": 100,
+      "sourceApps": 4,
+      "calculatorEngines": 0,
+      "registryHash": "4e8b19bdffd34185a1b28c30095c379833ddd65c83129a46e8411ba251227033",
+      "builtAt": "2026-09-07T22:05:42.116Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "mining-platform",
+      "status": "passed",
+      "features": 100,
+      "editableTables": 98,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:42.316Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 98,
+      "minimumRows": 15,
+      "total": 1470
+    },
+    "status": "passed"
+  },
+  {
+    "id": "agriculture-platform",
+    "built": {
+      "app": "agriculture-platform",
+      "features": 338,
+      "sourceApps": 18,
+      "calculatorEngines": 0,
+      "registryHash": "d9bb5096678f2861bf32498d48542d0719d30c78551a8be2300f865a6303a783",
+      "builtAt": "2026-09-07T22:05:42.643Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "agriculture-platform",
+      "status": "passed",
+      "features": 338,
+      "editableTables": 336,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:43.292Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 336,
+      "minimumRows": 15,
+      "total": 5040
+    },
+    "status": "passed"
+  },
+  {
+    "id": "construction-platform",
+    "built": {
+      "app": "construction-platform",
+      "features": 397,
+      "sourceApps": 15,
+      "calculatorEngines": 0,
+      "registryHash": "53eedb406414f34019557ae00eb0809e61c8239ca1356ef945444171dfeb351b",
+      "builtAt": "2026-09-07T22:05:43.700Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "construction-platform",
+      "status": "passed",
+      "features": 397,
+      "editableTables": 395,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:44.461Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 395,
+      "minimumRows": 15,
+      "total": 5925
+    },
+    "status": "passed"
+  },
+  {
+    "id": "field-services-platform",
+    "built": {
+      "app": "field-services-platform",
+      "features": 224,
+      "sourceApps": 9,
+      "calculatorEngines": 0,
+      "registryHash": "28c30795e9ae3bc14c73ca78badf00186b9474e165aa8fe0e53498ac35e70536",
+      "builtAt": "2026-09-07T22:05:44.894Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "field-services-platform",
+      "status": "passed",
+      "features": 224,
+      "editableTables": 222,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:45.326Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 222,
+      "minimumRows": 15,
+      "total": 3330
+    },
+    "status": "passed"
+  },
+  {
+    "id": "property-platform",
+    "built": {
+      "app": "property-platform",
+      "features": 516,
+      "sourceApps": 21,
+      "calculatorEngines": 1,
+      "registryHash": "a6a020daef2b227d8f8e4a92ebcced94ee47d09bcbe86cda76dbf96c7eaba5cb",
+      "builtAt": "2026-09-07T22:05:45.693Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "property-platform",
+      "status": "passed",
+      "features": 516,
+      "editableTables": 514,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 20,
+      "verifiedAt": "2026-09-07T22:05:46.695Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 514,
+      "minimumRows": 15,
+      "total": 7710
+    },
+    "status": "passed"
+  },
+  {
+    "id": "energy-platform",
+    "built": {
+      "app": "energy-platform",
+      "features": 469,
+      "sourceApps": 27,
+      "calculatorEngines": 0,
+      "registryHash": "d23151fb10d27e05187fd23c5e66c33b99a00dac3e65a5cc602772dc147960fb",
+      "builtAt": "2026-09-07T22:05:47.175Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "energy-platform",
+      "status": "passed",
+      "features": 469,
+      "editableTables": 467,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:48.083Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 467,
+      "minimumRows": 15,
+      "total": 7005
+    },
+    "status": "passed"
+  },
+  {
+    "id": "environment-platform",
+    "built": {
+      "app": "environment-platform",
+      "features": 499,
+      "sourceApps": 28,
+      "calculatorEngines": 0,
+      "registryHash": "669ad68b3e5f06387820a88a33f680c34440e86a27c3519935f5b372475ca3a1",
+      "builtAt": "2026-09-07T22:05:48.542Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "environment-platform",
+      "status": "passed",
+      "features": 499,
+      "editableTables": 497,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:49.495Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 497,
+      "minimumRows": 15,
+      "total": 7455
+    },
+    "status": "passed"
+  },
+  {
+    "id": "aviation-platform",
+    "built": {
+      "app": "aviation-platform",
+      "features": 229,
+      "sourceApps": 9,
+      "calculatorEngines": 0,
+      "registryHash": "9e899ad262e246e41a89826b6b12821f14db27e648cc017b370c24a177bee576",
+      "builtAt": "2026-09-07T22:05:49.968Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "aviation-platform",
+      "status": "passed",
+      "features": 229,
+      "editableTables": 227,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:50.407Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 227,
+      "minimumRows": 15,
+      "total": 3405
+    },
+    "status": "passed"
+  },
+  {
+    "id": "space-platform",
+    "built": {
+      "app": "space-platform",
+      "features": 147,
+      "sourceApps": 5,
+      "calculatorEngines": 0,
+      "registryHash": "346e4d0d3cb4bfc8b895969bd4a8d7aa9a20032d4012e7df5868ade4b0847086",
+      "builtAt": "2026-09-07T22:05:50.774Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "space-platform",
+      "status": "passed",
+      "features": 147,
+      "editableTables": 145,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:51.062Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 145,
+      "minimumRows": 15,
+      "total": 2175
+    },
+    "status": "passed"
+  },
+  {
+    "id": "rail-platform",
+    "built": {
+      "app": "rail-platform",
+      "features": 67,
+      "sourceApps": 4,
+      "calculatorEngines": 0,
+      "registryHash": "69861c80acda73dd848053d3e685251fba5f58d48081dbdd0ee5cd6f3ffa5377",
+      "builtAt": "2026-09-07T22:05:51.393Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "rail-platform",
+      "status": "passed",
+      "features": 67,
+      "editableTables": 65,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:51.536Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 65,
+      "minimumRows": 15,
+      "total": 975
+    },
+    "status": "passed"
+  },
+  {
+    "id": "logistics-platform",
+    "built": {
+      "app": "logistics-platform",
+      "features": 565,
+      "sourceApps": 31,
+      "calculatorEngines": 1,
+      "registryHash": "69d3fa1fb9de2905b3401d0863dd2f45ef5ce3ce6a7b876a8f81499c22752bac",
+      "builtAt": "2026-09-07T22:05:51.844Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "logistics-platform",
+      "status": "passed",
+      "features": 565,
+      "editableTables": 563,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 15,
+      "verifiedAt": "2026-09-07T22:05:52.946Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 563,
+      "minimumRows": 15,
+      "total": 8445
+    },
+    "status": "passed"
+  },
+  {
+    "id": "auto-platform",
+    "built": {
+      "app": "auto-platform",
+      "features": 146,
+      "sourceApps": 7,
+      "calculatorEngines": 0,
+      "registryHash": "266f5a50400ffb91ddf60959b2ce9110ba6d86107a8e3fbe13c0c674a8a7bb62",
+      "builtAt": "2026-09-07T22:05:53.442Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "auto-platform",
+      "status": "passed",
+      "features": 146,
+      "editableTables": 144,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:53.732Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 144,
+      "minimumRows": 15,
+      "total": 2160
+    },
+    "status": "passed"
+  },
+  {
+    "id": "telecom-platform",
+    "built": {
+      "app": "telecom-platform",
+      "features": 181,
+      "sourceApps": 7,
+      "calculatorEngines": 0,
+      "registryHash": "df5eb43adcfae7c9bfd791f8b0a7fdf777b7bad3fcc281fad6f0ebe37eb4b4bb",
+      "builtAt": "2026-09-07T22:05:54.070Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "telecom-platform",
+      "status": "passed",
+      "features": 181,
+      "editableTables": 179,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:54.423Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 179,
+      "minimumRows": 15,
+      "total": 2685
+    },
+    "status": "passed"
+  },
+  {
+    "id": "security-platform",
+    "built": {
+      "app": "security-platform",
+      "features": 248,
+      "sourceApps": 10,
+      "calculatorEngines": 0,
+      "registryHash": "23d5ca8b8cfa54c5af64e8396e9a0bc11f8a97b97279ec701063e4778138c2b4",
+      "builtAt": "2026-09-07T22:05:54.779Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "security-platform",
+      "status": "passed",
+      "features": 248,
+      "editableTables": 246,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:55.255Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 246,
+      "minimumRows": 15,
+      "total": 3690
+    },
+    "status": "passed"
+  },
+  {
+    "id": "civic-platform",
+    "built": {
+      "app": "civic-platform",
+      "features": 320,
+      "sourceApps": 14,
+      "calculatorEngines": 0,
+      "registryHash": "3a44c2d89048bc6f14b7cd121ac41cf6cca5dad133df5b253675160147b905f7",
+      "builtAt": "2026-09-07T22:05:55.629Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "civic-platform",
+      "status": "passed",
+      "features": 320,
+      "editableTables": 318,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:56.242Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 318,
+      "minimumRows": 15,
+      "total": 4770
+    },
+    "status": "passed"
+  },
+  {
+    "id": "safety-platform",
+    "built": {
+      "app": "safety-platform",
+      "features": 167,
+      "sourceApps": 6,
+      "calculatorEngines": 0,
+      "registryHash": "8a0f6c17d8b685e407d5cfd5ccc300cdf66382f0be953c21b66c87124c37e9d7",
+      "builtAt": "2026-09-07T22:05:56.646Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "safety-platform",
+      "status": "passed",
+      "features": 167,
+      "editableTables": 165,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:56.970Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 165,
+      "minimumRows": 15,
+      "total": 2475
+    },
+    "status": "passed"
+  },
+  {
+    "id": "nonprofit-platform",
+    "built": {
+      "app": "nonprofit-platform",
+      "features": 311,
+      "sourceApps": 14,
+      "calculatorEngines": 0,
+      "registryHash": "3616011160d40fa1595e0317a93fc458267fd045f2af47bbf59fad41a0e84053",
+      "builtAt": "2026-09-07T22:05:57.310Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "nonprofit-platform",
+      "status": "passed",
+      "features": 311,
+      "editableTables": 309,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:57.911Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 309,
+      "minimumRows": 15,
+      "total": 4635
+    },
+    "status": "passed"
+  },
+  {
+    "id": "education-platform",
+    "built": {
+      "app": "education-platform",
+      "features": 425,
+      "sourceApps": 24,
+      "calculatorEngines": 0,
+      "registryHash": "f5540b8696b3e9d18d293d2e05a0d8d1c8dac08185929d9b50db7c88662ef115",
+      "builtAt": "2026-09-07T22:05:58.315Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "education-platform",
+      "status": "passed",
+      "features": 425,
+      "editableTables": 423,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:59.120Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 423,
+      "minimumRows": 15,
+      "total": 6345
+    },
+    "status": "passed"
+  },
+  {
+    "id": "childcare-platform",
+    "built": {
+      "app": "childcare-platform",
+      "features": 83,
+      "sourceApps": 2,
+      "calculatorEngines": 0,
+      "registryHash": "d78cb0949a15ecc202ddd13a9d37338f2182a35d3f5151cd762863fa3be5eb51",
+      "builtAt": "2026-09-07T22:05:59.557Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "childcare-platform",
+      "status": "passed",
+      "features": 83,
+      "editableTables": 81,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:05:59.735Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 81,
+      "minimumRows": 15,
+      "total": 1215
+    },
+    "status": "passed"
+  },
+  {
+    "id": "sports-fitness-platform",
+    "built": {
+      "app": "sports-fitness-platform",
+      "features": 196,
+      "sourceApps": 6,
+      "calculatorEngines": 0,
+      "registryHash": "a1e1f0375c065f46861f1c84530ac22fd8b18927f4e314bc24d246fcd793443a",
+      "builtAt": "2026-09-07T22:06:00.044Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "sports-fitness-platform",
+      "status": "passed",
+      "features": 196,
+      "editableTables": 194,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:00.421Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 194,
+      "minimumRows": 15,
+      "total": 2910
+    },
+    "status": "passed"
+  },
+  {
+    "id": "restaurant-platform",
+    "built": {
+      "app": "restaurant-platform",
+      "features": 346,
+      "sourceApps": 21,
+      "calculatorEngines": 1,
+      "registryHash": "5f76be899fc09e5f71c3320c17e0da6310021115f6fe83503176995f1337c11d",
+      "builtAt": "2026-09-07T22:06:00.776Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "restaurant-platform",
+      "status": "passed",
+      "features": 346,
+      "editableTables": 344,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 16,
+      "verifiedAt": "2026-09-07T22:06:01.445Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 344,
+      "minimumRows": 15,
+      "total": 5160
+    },
+    "status": "passed"
+  },
+  {
+    "id": "hospitality-platform",
+    "built": {
+      "app": "hospitality-platform",
+      "features": 249,
+      "sourceApps": 8,
+      "calculatorEngines": 0,
+      "registryHash": "cec73caa0ecf99d75a33639e9773f37bfb13b0eb5ead7f41925c4307decf86c2",
+      "builtAt": "2026-09-07T22:06:01.855Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "hospitality-platform",
+      "status": "passed",
+      "features": 249,
+      "editableTables": 247,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:02.333Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 247,
+      "minimumRows": 15,
+      "total": 3705
+    },
+    "status": "passed"
+  },
+  {
+    "id": "events-platform",
+    "built": {
+      "app": "events-platform",
+      "features": 186,
+      "sourceApps": 7,
+      "calculatorEngines": 0,
+      "registryHash": "3c13008b9aecfb1bc627dcb23d44b7302445a380436701a7ba8239bbe1fb1e82",
+      "builtAt": "2026-09-07T22:06:02.715Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "events-platform",
+      "status": "passed",
+      "features": 186,
+      "editableTables": 184,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:03.083Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 184,
+      "minimumRows": 15,
+      "total": 2760
+    },
+    "status": "passed"
+  },
+  {
+    "id": "memorial-platform",
+    "built": {
+      "app": "memorial-platform",
+      "features": 109,
+      "sourceApps": 4,
+      "calculatorEngines": 0,
+      "registryHash": "f8a4c7b78dce29600f31f231b282ec821f3c5bb3def8c20dfd87ae606def707f",
+      "builtAt": "2026-09-07T22:06:03.444Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "memorial-platform",
+      "status": "passed",
+      "features": 109,
+      "editableTables": 107,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:03.665Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 107,
+      "minimumRows": 15,
+      "total": 1605
+    },
+    "status": "passed"
+  },
+  {
+    "id": "retail-platform",
+    "built": {
+      "app": "retail-platform",
+      "features": 364,
+      "sourceApps": 18,
+      "calculatorEngines": 0,
+      "registryHash": "11dc1c64771086aeae286babbb598b90b7ef82f0ee1f0247d6dca532fa24cfc4",
+      "builtAt": "2026-09-07T22:06:03.986Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "retail-platform",
+      "status": "passed",
+      "features": 364,
+      "editableTables": 362,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:04.676Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 362,
+      "minimumRows": 15,
+      "total": 5430
+    },
+    "status": "passed"
+  },
+  {
+    "id": "commerce-platform",
+    "built": {
+      "app": "commerce-platform",
+      "features": 308,
+      "sourceApps": 13,
+      "calculatorEngines": 1,
+      "registryHash": "a1a2dcb76e9a21a3e2b2c7c04a462879fb76e1c6f3be797aea8f24b60ee09b04",
+      "builtAt": "2026-09-07T22:06:05.092Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "commerce-platform",
+      "status": "passed",
+      "features": 308,
+      "editableTables": 306,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 15,
+      "verifiedAt": "2026-09-07T22:06:05.689Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 306,
+      "minimumRows": 15,
+      "total": 4590
+    },
+    "status": "passed"
+  },
+  {
+    "id": "design-platform",
+    "built": {
+      "app": "design-platform",
+      "features": 191,
+      "sourceApps": 8,
+      "calculatorEngines": 0,
+      "registryHash": "35bab06c95fb2d87cc7a0c2a20cdaabac88e0b41fc4425508be0ff09084627cb",
+      "builtAt": "2026-09-07T22:06:06.086Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "design-platform",
+      "status": "passed",
+      "features": 191,
+      "editableTables": 189,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:06.465Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 189,
+      "minimumRows": 15,
+      "total": 2835
+    },
+    "status": "passed"
+  },
+  {
+    "id": "media-platform",
+    "built": {
+      "app": "media-platform",
+      "features": 497,
+      "sourceApps": 23,
+      "calculatorEngines": 0,
+      "registryHash": "68bf937617a8a3ea4217c0c6a4ab1093fecee4e62171a51e98c7c36e1598e627",
+      "builtAt": "2026-09-07T22:06:06.819Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "media-platform",
+      "status": "passed",
+      "features": 497,
+      "editableTables": 495,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:07.756Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 495,
+      "minimumRows": 15,
+      "total": 7425
+    },
+    "status": "passed"
+  },
+  {
+    "id": "games-platform",
+    "built": {
+      "app": "games-platform",
+      "features": 90,
+      "sourceApps": 6,
+      "calculatorEngines": 0,
+      "registryHash": "0370f85cfbe6d9c8af8b21c8b18a22d5417634e79fe64367cb3637f2c9457696",
+      "builtAt": "2026-09-07T22:06:08.232Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "games-platform",
+      "status": "passed",
+      "features": 90,
+      "editableTables": 88,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:08.426Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 88,
+      "minimumRows": 15,
+      "total": 1320
+    },
+    "status": "passed"
+  },
+  {
+    "id": "marketing-platform",
+    "built": {
+      "app": "marketing-platform",
+      "features": 311,
+      "sourceApps": 16,
+      "calculatorEngines": 0,
+      "registryHash": "9a1487f4c82dc926044ceb96bb80c8cc3952dc6d3afa16ca8cbd6677175c26bb",
+      "builtAt": "2026-09-07T22:06:08.736Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "marketing-platform",
+      "status": "passed",
+      "features": 311,
+      "editableTables": 309,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:09.378Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 309,
+      "minimumRows": 15,
+      "total": 4635
+    },
+    "status": "passed"
+  },
+  {
+    "id": "sales-platform",
+    "built": {
+      "app": "sales-platform",
+      "features": 247,
+      "sourceApps": 13,
+      "calculatorEngines": 0,
+      "registryHash": "5641063ac1c196259783acdf113988ca33d20705963310968767375ca393fd7a",
+      "builtAt": "2026-09-07T22:06:09.772Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "sales-platform",
+      "status": "passed",
+      "features": 247,
+      "editableTables": 245,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:10.243Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 245,
+      "minimumRows": 15,
+      "total": 3675
+    },
+    "status": "passed"
+  },
+  {
+    "id": "workforce-platform",
+    "built": {
+      "app": "workforce-platform",
+      "features": 309,
+      "sourceApps": 12,
+      "calculatorEngines": 0,
+      "registryHash": "7c3cc7ca4e8964fe8aa4a26db9d9468751751665e5e21a800326424bf1614ac9",
+      "builtAt": "2026-09-07T22:06:10.613Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "workforce-platform",
+      "status": "passed",
+      "features": 309,
+      "editableTables": 307,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:11.205Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 307,
+      "minimumRows": 15,
+      "total": 4605
+    },
+    "status": "passed"
+  },
+  {
+    "id": "professional-services-platform",
+    "built": {
+      "app": "professional-services-platform",
+      "features": 189,
+      "sourceApps": 7,
+      "calculatorEngines": 0,
+      "registryHash": "6543f2852f7b8c8c0dae0e8d19cd54b9daf664f60c620393e3bfcc04acb7e570",
+      "builtAt": "2026-09-07T22:06:11.597Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "professional-services-platform",
+      "status": "passed",
+      "features": 189,
+      "editableTables": 187,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:11.967Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 187,
+      "minimumRows": 15,
+      "total": 2805
+    },
+    "status": "passed"
+  },
+  {
+    "id": "business-operations-platform",
+    "built": {
+      "app": "business-operations-platform",
+      "features": 159,
+      "sourceApps": 9,
+      "calculatorEngines": 0,
+      "registryHash": "ffa6d64d4bc91753577958c647b3d41969efccd5e2bed57976587d965313df7f",
+      "builtAt": "2026-09-07T22:06:12.318Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "business-operations-platform",
+      "status": "passed",
+      "features": 159,
+      "editableTables": 157,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:12.631Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 157,
+      "minimumRows": 15,
+      "total": 2355
+    },
+    "status": "passed"
+  },
+  {
+    "id": "product-platform",
+    "built": {
+      "app": "product-platform",
+      "features": 190,
+      "sourceApps": 11,
+      "calculatorEngines": 0,
+      "registryHash": "01514048d9d219f99f2325403c242733be8b77ce540433dee14cff87e55cdcde",
+      "builtAt": "2026-09-07T22:06:12.967Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "product-platform",
+      "status": "passed",
+      "features": 190,
+      "editableTables": 188,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:13.334Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 188,
+      "minimumRows": 15,
+      "total": 2820
+    },
+    "status": "passed"
+  },
+  {
+    "id": "document-platform",
+    "built": {
+      "app": "document-platform",
+      "features": 198,
+      "sourceApps": 12,
+      "calculatorEngines": 0,
+      "registryHash": "8fdc34f9c133a2e230e2f39afb5958bd79c532378f76bdf1bca5c3c2d99e2ee6",
+      "builtAt": "2026-09-07T22:06:13.703Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "document-platform",
+      "status": "passed",
+      "features": 198,
+      "editableTables": 196,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:14.091Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 196,
+      "minimumRows": 15,
+      "total": 2940
+    },
+    "status": "passed"
+  },
+  {
+    "id": "ai-data-platform",
+    "built": {
+      "app": "ai-data-platform",
+      "features": 449,
+      "sourceApps": 21,
+      "calculatorEngines": 0,
+      "registryHash": "77e2e518716fea076e9ee3acd3156ab10d54bb17ae816ad334639728901ebae5",
+      "builtAt": "2026-09-07T22:06:14.445Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "ai-data-platform",
+      "status": "passed",
+      "features": 449,
+      "editableTables": 447,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:15.306Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 447,
+      "minimumRows": 15,
+      "total": 6705
+    },
+    "status": "passed"
+  },
+  {
+    "id": "developer-platform",
+    "built": {
+      "app": "developer-platform",
+      "features": 386,
+      "sourceApps": 20,
+      "calculatorEngines": 0,
+      "registryHash": "954d0b62d6a9b76ef739578f88c65a2f43751e6564ba9bae08a94dc18f830dee",
+      "builtAt": "2026-09-07T22:06:15.753Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "developer-platform",
+      "status": "passed",
+      "features": 386,
+      "editableTables": 384,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:16.492Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 384,
+      "minimumRows": 15,
+      "total": 5760
+    },
+    "status": "passed"
+  },
+  {
+    "id": "personal-legacy-platform",
+    "built": {
+      "app": "personal-legacy-platform",
+      "features": 113,
+      "sourceApps": 4,
+      "calculatorEngines": 0,
+      "registryHash": "5ec2571de90e47559f6f0d3d2a4313ea586e4971ee349baee3de27d6cf58068c",
+      "builtAt": "2026-09-07T22:06:16.915Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "personal-legacy-platform",
+      "status": "passed",
+      "features": 113,
+      "editableTables": 111,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:17.142Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 111,
+      "minimumRows": 15,
+      "total": 1665
+    },
+    "status": "passed"
+  },
+  {
+    "id": "scientific-research-platform",
+    "built": {
+      "app": "scientific-research-platform",
+      "features": 75,
+      "sourceApps": 3,
+      "calculatorEngines": 0,
+      "registryHash": "c5500cd99e079941da54999e328b9554ef008e1b4739bff60599b1a3280954fd",
+      "builtAt": "2026-09-07T22:06:17.464Z",
+      "status": "built"
+    },
+    "verified": {
+      "id": "scientific-research-platform",
+      "status": "passed",
+      "features": 75,
+      "editableTables": 73,
+      "minimumRows": 15,
+      "repeatSeedCreated": 0,
+      "crud": true,
+      "persistence": true,
+      "relationships": true,
+      "revisions": true,
+      "attachments": true,
+      "exports": true,
+      "mockedAI": true,
+      "originProtection": true,
+      "sourceCalculationsExecuted": 0,
+      "verifiedAt": "2026-09-07T22:06:17.622Z"
+    },
+    "seeded": {
+      "created": 0,
+      "drafts": 0,
+      "editableTables": 73,
+      "minimumRows": 15,
+      "total": 1095
+    },
+    "status": "passed"
+  }
+]

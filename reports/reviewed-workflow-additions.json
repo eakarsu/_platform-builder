@@ -1,0 +1,12 @@
+{
+  "classificationCorrection": "financialServices_salesforce moved to Sales: current supported source is consented lead-to-conversion operations.",
+  "sources": [
+    "AIElderCareCompanion",
+    "AIMusicGeneration",
+    "financialServices_salesforce",
+    "referral",
+    "software-for-agents",
+    "integrator"
+  ],
+  "boundary": "Native records and request preparation added. Source tenant/role state machines, provider workers and independent-review enforcement are not claimed migrated."
+}

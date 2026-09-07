@@ -1,0 +1,16 @@
+
+
+# Local configuration, runtime data and verification images
+.env
+.env.*
+!.env.example
+node_modules/
+.runtime/
+*.log
+*.sqlite*
+*.db
+.DS_Store
+reports/**/*.png
+reports/*.png
+reports/git-publish-*.json
+reports/github-publish-*.json

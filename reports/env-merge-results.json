@@ -1,0 +1,1095 @@
+{
+  "completedAt": "2026-09-07T18:01:44.046Z",
+  "apps": 64,
+  "policy": "Preserve existing nonempty settings; merge common runtime AI settings; select source-group majority model; retain assigned ports.",
+  "results": [
+    {
+      "id": "legal-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46000,
+      "sourceEnvFiles": 25,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "pet-services-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46001,
+      "sourceEnvFiles": 5,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "beauty-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46002,
+      "sourceEnvFiles": 5,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "dental-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46003,
+      "sourceEnvFiles": 3,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "pharmacy-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "openai/gpt-5.6-terra",
+      "port": 46004,
+      "sourceEnvFiles": 2,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "healthcare-revenue-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46005,
+      "sourceEnvFiles": 5,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "insurance-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46006,
+      "sourceEnvFiles": 6,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "specialty-care-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46007,
+      "sourceEnvFiles": 4,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "home-care-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46008,
+      "sourceEnvFiles": 6,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "wellness-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46009,
+      "sourceEnvFiles": 7,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "hospital-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46010,
+      "sourceEnvFiles": 10,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "clinical-research-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46011,
+      "sourceEnvFiles": 11,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "lab-traceability-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "openai/gpt-5.6-terra",
+      "port": 46012,
+      "sourceEnvFiles": 6,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "medical-device-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46013,
+      "sourceEnvFiles": 1,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "tax-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46014,
+      "sourceEnvFiles": 3,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "banking-credit-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46015,
+      "sourceEnvFiles": 3,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "investment-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46016,
+      "sourceEnvFiles": 7,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "crypto-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46017,
+      "sourceEnvFiles": 3,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "finance-risk-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46018,
+      "sourceEnvFiles": 8,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "accounting-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46019,
+      "sourceEnvFiles": 10,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "procurement-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46020,
+      "sourceEnvFiles": 9,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "governance-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46021,
+      "sourceEnvFiles": 11,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "semiconductor-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46022,
+      "sourceEnvFiles": 5,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "manufacturing-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46023,
+      "sourceEnvFiles": 12,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "mining-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46024,
+      "sourceEnvFiles": 2,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "agriculture-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46025,
+      "sourceEnvFiles": 12,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "construction-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46026,
+      "sourceEnvFiles": 13,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "field-services-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46027,
+      "sourceEnvFiles": 9,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "property-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46028,
+      "sourceEnvFiles": 14,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "energy-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46029,
+      "sourceEnvFiles": 8,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "environment-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46030,
+      "sourceEnvFiles": 20,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "aviation-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46031,
+      "sourceEnvFiles": 6,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "space-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46032,
+      "sourceEnvFiles": 5,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "rail-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "openai/gpt-5.6-terra",
+      "port": 46033,
+      "sourceEnvFiles": 1,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "logistics-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46034,
+      "sourceEnvFiles": 13,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "auto-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46035,
+      "sourceEnvFiles": 6,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "telecom-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46036,
+      "sourceEnvFiles": 4,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "security-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46037,
+      "sourceEnvFiles": 10,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "civic-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46038,
+      "sourceEnvFiles": 11,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "safety-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46039,
+      "sourceEnvFiles": 6,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "nonprofit-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46040,
+      "sourceEnvFiles": 11,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "education-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46041,
+      "sourceEnvFiles": 20,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "childcare-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46042,
+      "sourceEnvFiles": 2,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "sports-fitness-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46043,
+      "sourceEnvFiles": 6,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "restaurant-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46044,
+      "sourceEnvFiles": 15,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "hospitality-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46045,
+      "sourceEnvFiles": 5,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "events-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46046,
+      "sourceEnvFiles": 6,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "memorial-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46047,
+      "sourceEnvFiles": 4,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "retail-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46048,
+      "sourceEnvFiles": 9,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "commerce-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46049,
+      "sourceEnvFiles": 12,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "design-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46050,
+      "sourceEnvFiles": 8,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "media-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46051,
+      "sourceEnvFiles": 19,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "games-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46052,
+      "sourceEnvFiles": 6,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "marketing-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46053,
+      "sourceEnvFiles": 11,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "sales-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46054,
+      "sourceEnvFiles": 13,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "workforce-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46055,
+      "sourceEnvFiles": 9,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "professional-services-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46056,
+      "sourceEnvFiles": 7,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "business-operations-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46057,
+      "sourceEnvFiles": 9,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "product-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46058,
+      "sourceEnvFiles": 11,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "document-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46059,
+      "sourceEnvFiles": 12,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "ai-data-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46060,
+      "sourceEnvFiles": 21,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "developer-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46061,
+      "sourceEnvFiles": 19,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "personal-legacy-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46062,
+      "sourceEnvFiles": 4,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    },
+    {
+      "id": "scientific-research-platform",
+      "status": "configured",
+      "created": true,
+      "updatedSettings": [
+        "OPENROUTER_API_KEY",
+        "OPENROUTER_MODEL",
+        "PORT"
+      ],
+      "model": "anthropic/claude-haiku-4.5",
+      "port": 46063,
+      "sourceEnvFiles": 3,
+      "modelSelection": "most common among assigned source apps",
+      "credentialSelection": "consistent source credential",
+      "permissions": "0600",
+      "gitIgnored": true
+    }
+  ]
+}

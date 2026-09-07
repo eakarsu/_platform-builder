@@ -1,0 +1,7 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {openStore} from '../template/hub/runtime/store.mjs';import {workspaceAPI} from '../template/hub/runtime/api.mjs';import http from 'node:http';
+test('Missing provider configuration returns a clear setup error and saves no fabricated answer',async()=>{
+ const key=process.env.OPENROUTER_API_KEY,model=process.env.OPENROUTER_MODEL;delete process.env.OPENROUTER_API_KEY;delete process.env.OPENROUTER_MODEL;
+ const store=openStore(':memory:',[{id:'ask',title:'Ask',group:'Tests',fields:[],ai:true,mode:'records'}]);const api=workspaceAPI(store);const server=http.createServer((req,res)=>api(req,res,new URL(req.url,`http://${req.headers.host}`)));await new Promise(r=>server.listen(0,'127.0.0.1',r));const base=`http://127.0.0.1:${server.address().port}`;
+ try{const settings=await (await fetch(base+'/api/workspace/settings')).json();assert.equal(settings.aiConfigured,false);const response=await fetch(base+'/api/workspace/features/ask/ask',{method:'POST',headers:{'Content-Type':'application/json','X-Legal-Workspace':'1'},body:JSON.stringify({question:'Give an answer'})});assert.equal(response.status,503);assert.match((await response.json()).error,/Connect AI in Settings/);assert.equal(store.answers('ask').length,0);}
+ finally{await new Promise(r=>server.close(r));store.close();if(key!==undefined)process.env.OPENROUTER_API_KEY=key;if(model!==undefined)process.env.OPENROUTER_MODEL=model;}
+});

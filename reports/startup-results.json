@@ -1,0 +1,514 @@
+[
+  {
+    "id": "legal-platform",
+    "port": 46000,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:23.387Z"
+  },
+  {
+    "id": "pet-services-platform",
+    "port": 46001,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:24.016Z"
+  },
+  {
+    "id": "beauty-platform",
+    "port": 46002,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:24.533Z"
+  },
+  {
+    "id": "dental-platform",
+    "port": 46003,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:25.056Z"
+  },
+  {
+    "id": "pharmacy-platform",
+    "port": 46004,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:25.576Z"
+  },
+  {
+    "id": "healthcare-revenue-platform",
+    "port": 46005,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:26.308Z"
+  },
+  {
+    "id": "insurance-platform",
+    "port": 46006,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:26.932Z"
+  },
+  {
+    "id": "specialty-care-platform",
+    "port": 46007,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:27.455Z"
+  },
+  {
+    "id": "home-care-platform",
+    "port": 46008,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:27.978Z"
+  },
+  {
+    "id": "wellness-platform",
+    "port": 46009,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:28.499Z"
+  },
+  {
+    "id": "hospital-platform",
+    "port": 46010,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:29.126Z"
+  },
+  {
+    "id": "clinical-research-platform",
+    "port": 46011,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:29.751Z"
+  },
+  {
+    "id": "lab-traceability-platform",
+    "port": 46012,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:30.275Z"
+  },
+  {
+    "id": "medical-device-platform",
+    "port": 46013,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:30.798Z"
+  },
+  {
+    "id": "tax-platform",
+    "port": 46014,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:31.421Z"
+  },
+  {
+    "id": "banking-credit-platform",
+    "port": 46015,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:31.945Z"
+  },
+  {
+    "id": "investment-platform",
+    "port": 46016,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:32.569Z"
+  },
+  {
+    "id": "crypto-platform",
+    "port": 46017,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:33.090Z"
+  },
+  {
+    "id": "finance-risk-platform",
+    "port": 46018,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:33.717Z"
+  },
+  {
+    "id": "accounting-platform",
+    "port": 46019,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:34.345Z"
+  },
+  {
+    "id": "procurement-platform",
+    "port": 46020,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:34.973Z"
+  },
+  {
+    "id": "governance-platform",
+    "port": 46021,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:35.598Z"
+  },
+  {
+    "id": "semiconductor-platform",
+    "port": 46022,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:36.125Z"
+  },
+  {
+    "id": "manufacturing-platform",
+    "port": 46023,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:36.853Z"
+  },
+  {
+    "id": "mining-platform",
+    "port": 46024,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:37.376Z"
+  },
+  {
+    "id": "agriculture-platform",
+    "port": 46025,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:37.997Z"
+  },
+  {
+    "id": "construction-platform",
+    "port": 46026,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:38.622Z"
+  },
+  {
+    "id": "field-services-platform",
+    "port": 46027,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:39.249Z"
+  },
+  {
+    "id": "property-platform",
+    "port": 46028,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:39.976Z"
+  },
+  {
+    "id": "energy-platform",
+    "port": 46029,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:40.601Z"
+  },
+  {
+    "id": "environment-platform",
+    "port": 46030,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:41.221Z"
+  },
+  {
+    "id": "aviation-platform",
+    "port": 46031,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:41.847Z"
+  },
+  {
+    "id": "space-platform",
+    "port": 46032,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:42.371Z"
+  },
+  {
+    "id": "rail-platform",
+    "port": 46033,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:42.891Z"
+  },
+  {
+    "id": "logistics-platform",
+    "port": 46034,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:43.617Z"
+  },
+  {
+    "id": "auto-platform",
+    "port": 46035,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:44.137Z"
+  },
+  {
+    "id": "telecom-platform",
+    "port": 46036,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:44.654Z"
+  },
+  {
+    "id": "security-platform",
+    "port": 46037,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:45.277Z"
+  },
+  {
+    "id": "civic-platform",
+    "port": 46038,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:45.901Z"
+  },
+  {
+    "id": "safety-platform",
+    "port": 46039,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:46.422Z"
+  },
+  {
+    "id": "nonprofit-platform",
+    "port": 46040,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:47.045Z"
+  },
+  {
+    "id": "education-platform",
+    "port": 46041,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:47.668Z"
+  },
+  {
+    "id": "childcare-platform",
+    "port": 46042,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:48.190Z"
+  },
+  {
+    "id": "sports-fitness-platform",
+    "port": 46043,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:48.709Z"
+  },
+  {
+    "id": "restaurant-platform",
+    "port": 46044,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:49.332Z"
+  },
+  {
+    "id": "hospitality-platform",
+    "port": 46045,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:49.957Z"
+  },
+  {
+    "id": "events-platform",
+    "port": 46046,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:50.478Z"
+  },
+  {
+    "id": "memorial-platform",
+    "port": 46047,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:50.997Z"
+  },
+  {
+    "id": "retail-platform",
+    "port": 46048,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:51.621Z"
+  },
+  {
+    "id": "commerce-platform",
+    "port": 46049,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:52.241Z"
+  },
+  {
+    "id": "design-platform",
+    "port": 46050,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:52.862Z"
+  },
+  {
+    "id": "media-platform",
+    "port": 46051,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:53.486Z"
+  },
+  {
+    "id": "games-platform",
+    "port": 46052,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:54.008Z"
+  },
+  {
+    "id": "marketing-platform",
+    "port": 46053,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:54.633Z"
+  },
+  {
+    "id": "sales-platform",
+    "port": 46054,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:55.260Z"
+  },
+  {
+    "id": "workforce-platform",
+    "port": 46055,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:55.881Z"
+  },
+  {
+    "id": "professional-services-platform",
+    "port": 46056,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:56.403Z"
+  },
+  {
+    "id": "business-operations-platform",
+    "port": 46057,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:56.927Z"
+  },
+  {
+    "id": "product-platform",
+    "port": 46058,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:57.446Z"
+  },
+  {
+    "id": "document-platform",
+    "port": 46059,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:57.969Z"
+  },
+  {
+    "id": "ai-data-platform",
+    "port": 46060,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:58.593Z"
+  },
+  {
+    "id": "developer-platform",
+    "port": 46061,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:59.216Z"
+  },
+  {
+    "id": "personal-legacy-platform",
+    "port": 46062,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:38:59.740Z"
+  },
+  {
+    "id": "scientific-research-platform",
+    "port": 46063,
+    "status": "passed",
+    "startScript": true,
+    "health": true,
+    "verifiedAt": "2026-09-07T14:39:00.266Z"
+  }
+]

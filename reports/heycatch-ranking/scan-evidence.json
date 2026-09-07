@@ -1,0 +1,4017 @@
+[
+  {
+    "id": "field-services-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/field-services-platform/README.md",
+        "sha256": "ebd57cdeacfcda0313fa299585628ff80689e7012b89384588bee7db78af486b"
+      },
+      {
+        "file": "/Volumes/external/projects/field-services-platform/FEATURE_STATUS.md",
+        "sha256": "d1282731dbe40277690b699c82f6e661eb291c24d2e9c14920c45c5712c62475"
+      },
+      {
+        "file": "/Volumes/external/projects/field-services-platform/apps.txt",
+        "sha256": "5e155b65d6d8475f032e6517d61a6b183c7a3763d81d29cc14cbac3d6360e8ca"
+      },
+      {
+        "file": "/Volumes/external/projects/field-services-platform/config/app.json",
+        "sha256": "62a5ea4ac4ab81a3777691ff7dcd8c815bcfb023fa54a76d5e60e3ddbe122353"
+      },
+      {
+        "file": "/Volumes/external/projects/field-services-platform/config/modules.json",
+        "sha256": "2f9f1d37d344df19092197435b46d58652f24c955b257d6bbe30bd7e156f81a1"
+      },
+      {
+        "file": "/Volumes/external/projects/field-services-platform/config/merged-features.json",
+        "sha256": "ce1d56dfc9d3f4214f6166ab00ecac689daa425afea57844bc174a1d3a90c393"
+      },
+      {
+        "file": "/Volumes/external/projects/field-services-platform/reports/feature-map.json",
+        "sha256": "905fb5e246356e942f406c9f2ee9ea1b8f200e67a1c14eb92457f360ef3ff0b5"
+      },
+      {
+        "file": "/Volumes/external/projects/field-services-platform/reports/build.json",
+        "sha256": "4f401eb8d72d8b99aa29fef22af970f3add31cfce0f36da0d1f756fcf891a2fb"
+      },
+      {
+        "file": "/Volumes/external/projects/field-services-platform/reports/verification.json",
+        "sha256": "9d8c7658dae385a6f78c3b5bf9cf9856a1b144c91edec57cbe7878be20429bc6"
+      },
+      {
+        "file": "/Volumes/external/projects/field-services-platform/reports/row-popup-verification.json",
+        "sha256": "92f52c97f07de9284aca1ec85ed90008a13aa7bf43ed480092f45c25448155e2"
+      }
+    ],
+    "featuresReviewed": 224,
+    "fieldDefinitionsReviewed": 668,
+    "mappedSourceEntries": 247,
+    "sources": [
+      "AICommercialCleaningOperations",
+      "AIPlumbingElectricalHVACEstimator",
+      "AIPressureWashingExteriorCleaning",
+      "homeservices",
+      "laundryServices",
+      "localServiceDirectory",
+      "movingCompany",
+      "pestControl",
+      "servicecrewai-mobile"
+    ]
+  },
+  {
+    "id": "beauty-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/beauty-platform/README.md",
+        "sha256": "1cb6a09d898262d4402c8b4ca925cfa716af70c90e754e5ee78a1934123a7a59"
+      },
+      {
+        "file": "/Volumes/external/projects/beauty-platform/FEATURE_STATUS.md",
+        "sha256": "16991d54c5258268ff872d9ed9e5f70ee76e201d0716f0cde4b9071b09b74e27"
+      },
+      {
+        "file": "/Volumes/external/projects/beauty-platform/apps.txt",
+        "sha256": "4a89f30b9a52c2f73c4c474beae91b9d9fe36085903b3300d3b44b5a51d614a0"
+      },
+      {
+        "file": "/Volumes/external/projects/beauty-platform/config/app.json",
+        "sha256": "5dbcb7e9180e14988bc31beb9186f76b32b970e0e098b4d0e89c1c9328c016e2"
+      },
+      {
+        "file": "/Volumes/external/projects/beauty-platform/config/modules.json",
+        "sha256": "6270cd23f79a60718ec6ee5238b6ad7fc7961d55b2d0756f8651d536925adec7"
+      },
+      {
+        "file": "/Volumes/external/projects/beauty-platform/config/merged-features.json",
+        "sha256": "6780c6156deb5b766a816d17fdeab5ea8f0ace19b101389b393eaca7b7d2d9ba"
+      },
+      {
+        "file": "/Volumes/external/projects/beauty-platform/reports/feature-map.json",
+        "sha256": "d491b8783b45b24951042a7edca3f5eeefc1ac630f85ae21e573406c0873a55b"
+      },
+      {
+        "file": "/Volumes/external/projects/beauty-platform/reports/build.json",
+        "sha256": "1053aedafa90f43ee59233a405a3bb4c7a592e5286a96ce649b0e66b3fcbc420"
+      },
+      {
+        "file": "/Volumes/external/projects/beauty-platform/reports/verification.json",
+        "sha256": "0dbdf736765d55f5e472549603f9d7029196d0c368e2f757f86707d6094a5c53"
+      },
+      {
+        "file": "/Volumes/external/projects/beauty-platform/reports/row-popup-verification.json",
+        "sha256": "e539f1bf7da189c834a6b9aa2549b01ee37b675b91b9e50264c81cf5411bc46f"
+      }
+    ],
+    "featuresReviewed": 164,
+    "fieldDefinitionsReviewed": 490,
+    "mappedSourceEntries": 194,
+    "sources": [
+      "AISalonSpaBookingOptimizer",
+      "AITattooBodyArtStudioManager",
+      "beautyhqio",
+      "Boulevard",
+      "hairSalon"
+    ]
+  },
+  {
+    "id": "pet-services-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/pet-services-platform/README.md",
+        "sha256": "4b4ba632d9dfb61d6ccfeed1f245dd4044ab5fc65bf4736f2260e29a2182ce37"
+      },
+      {
+        "file": "/Volumes/external/projects/pet-services-platform/FEATURE_STATUS.md",
+        "sha256": "aa351194bc5e385d9487f20bb93d45a2c59caf0187f2f9940f1a8b923f1f9bf4"
+      },
+      {
+        "file": "/Volumes/external/projects/pet-services-platform/apps.txt",
+        "sha256": "8251402c454313acb09e2582d7d5356a62cd2fb97648a2cd4bcb31b8a501ff99"
+      },
+      {
+        "file": "/Volumes/external/projects/pet-services-platform/config/app.json",
+        "sha256": "88ae3a9e06516d4fd3fbf91d1c9c6d666b7bca3a97dcc1d1035a8bb55320d8dc"
+      },
+      {
+        "file": "/Volumes/external/projects/pet-services-platform/config/modules.json",
+        "sha256": "6bc6c9dfe06ae1e317f2c803016e36ed48a4be11b35f57385b34cd2e7ce66967"
+      },
+      {
+        "file": "/Volumes/external/projects/pet-services-platform/config/merged-features.json",
+        "sha256": "d8f497a4fc2db6a08f3088ce505ebe0c7314d62408e6994fd81263a1ffb6ae2f"
+      },
+      {
+        "file": "/Volumes/external/projects/pet-services-platform/reports/feature-map.json",
+        "sha256": "4802ca11bcbdeefc96f08ade99728858113ae87bf8391846fc44bd659e556fa1"
+      },
+      {
+        "file": "/Volumes/external/projects/pet-services-platform/reports/build.json",
+        "sha256": "1c38fb7cd649379a808d87a8dca4a658330fe9234abe0c95ba748e9f39c7d5a0"
+      },
+      {
+        "file": "/Volumes/external/projects/pet-services-platform/reports/verification.json",
+        "sha256": "6d1bfac203c4a9413ef359cac5b6a677b225bf1594ca1251493e0db9db36311b"
+      },
+      {
+        "file": "/Volumes/external/projects/pet-services-platform/reports/row-popup-verification.json",
+        "sha256": "f18edc622c3dc38f01ead3a61d09a40c2037d86c81c04c1ae1accebba96d752f"
+      }
+    ],
+    "featuresReviewed": 192,
+    "fieldDefinitionsReviewed": 651,
+    "mappedSourceEntries": 217,
+    "sources": [
+      "ai-pet-travel-certificate-coordinator",
+      "AIAnimalShelterRescueManager",
+      "AIPetHealthMonitor",
+      "AIVeterinaryClinicManager",
+      "petGrooming"
+    ]
+  },
+  {
+    "id": "nonprofit-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/nonprofit-platform/README.md",
+        "sha256": "f13a71eca7934df70f9d38a6abfb615c7d4a847eec19fca6470600f4a04ae9a0"
+      },
+      {
+        "file": "/Volumes/external/projects/nonprofit-platform/FEATURE_STATUS.md",
+        "sha256": "e36cf4f73e724aca852986f30d64b496a4b64640cab7f70fbe9b7d15cdb2d97d"
+      },
+      {
+        "file": "/Volumes/external/projects/nonprofit-platform/apps.txt",
+        "sha256": "981c202627caf702752b30a80b2dc6f7f86436874be29f5e598559ddff9d1c2a"
+      },
+      {
+        "file": "/Volumes/external/projects/nonprofit-platform/config/app.json",
+        "sha256": "22d47b43e942dfcbe0b9c38306f317b4ac47dc75e75842f4ffd8bfae758b5b20"
+      },
+      {
+        "file": "/Volumes/external/projects/nonprofit-platform/config/modules.json",
+        "sha256": "38ea34ec4d51b80cebfbc117016674014091b7bef6cfd032a080ba3eaa41ee5b"
+      },
+      {
+        "file": "/Volumes/external/projects/nonprofit-platform/config/merged-features.json",
+        "sha256": "31a93914c05b896c85a25604c88b18721adb98ce4f22f26d68924de418dec540"
+      },
+      {
+        "file": "/Volumes/external/projects/nonprofit-platform/reports/feature-map.json",
+        "sha256": "2eed65c36b8f02a9be1699d28bf38b171d82de8b2e3bf9eed42d90eaef97cc44"
+      },
+      {
+        "file": "/Volumes/external/projects/nonprofit-platform/reports/build.json",
+        "sha256": "3a4676352e6941a5435e71d923f800c720b6dc9d0f37e0decdcb2be84b69c8ad"
+      },
+      {
+        "file": "/Volumes/external/projects/nonprofit-platform/reports/verification.json",
+        "sha256": "c8502598edf02b21cae154f0b6d60004311c4475f1a086cbeacd84f64644b673"
+      },
+      {
+        "file": "/Volumes/external/projects/nonprofit-platform/reports/row-popup-verification.json",
+        "sha256": "fec78d91f3b1a837af8897a3befebbb4233a7e16cf8e6d310cc51e53960ee9ce"
+      }
+    ],
+    "featuresReviewed": 311,
+    "fieldDefinitionsReviewed": 1123,
+    "mappedSourceEntries": 388,
+    "sources": [
+      "ai-fema-public-assistance-reimbursement",
+      "ai-government-grant-drawdown-reimbursement",
+      "ai-government-grant-indirect-cost-recovery",
+      "ai-proposal-grant-development-workspace",
+      "ai-research-grant-cost-transfer-compliance",
+      "AIChurchMosqueTempleManagement",
+      "AICommunityCoopTimeBankPlatform",
+      "AIFoodBankPantryManager",
+      "AIFundraisingCampaignOptimizer",
+      "AIGrantWriter",
+      "AINonprofitFieldOperationsManager",
+      "AIVolunteerMatchingManagement",
+      "NonProfitConnect",
+      "NonProfitShield"
+    ]
+  },
+  {
+    "id": "professional-services-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/professional-services-platform/README.md",
+        "sha256": "9738c0720ba79c85a056b3b3e0ce28b56a32f71c18d76d8ea72aeca0351aa3c3"
+      },
+      {
+        "file": "/Volumes/external/projects/professional-services-platform/FEATURE_STATUS.md",
+        "sha256": "33ea934eab1a3060dd96bcb1bd2c4de230f715a4475be93c0456a2ee727768ae"
+      },
+      {
+        "file": "/Volumes/external/projects/professional-services-platform/apps.txt",
+        "sha256": "b2b3f9e64f2b2f1973d9bdcdc005597a7c2017c19db781aa9f392b618ab29a26"
+      },
+      {
+        "file": "/Volumes/external/projects/professional-services-platform/config/app.json",
+        "sha256": "410e96bd80258633602a31e2ed99089d6bae056154d9a3a4e717a78242daf30d"
+      },
+      {
+        "file": "/Volumes/external/projects/professional-services-platform/config/modules.json",
+        "sha256": "14588ce927f05565c5532aed764f09b442b948ee1a6cfb98a95a9db8a5cc3014"
+      },
+      {
+        "file": "/Volumes/external/projects/professional-services-platform/config/merged-features.json",
+        "sha256": "ba1b5290d7467b7427afbf6c2c9da40ced82a767f48a42cbb3e56170dacb6693"
+      },
+      {
+        "file": "/Volumes/external/projects/professional-services-platform/reports/feature-map.json",
+        "sha256": "acf2c911a5c017e0e6d5b072266b43d06a8f396fc5c6ad8f282385d255dc38a4"
+      },
+      {
+        "file": "/Volumes/external/projects/professional-services-platform/reports/build.json",
+        "sha256": "5b2de7942aa5b9a660f6d79602ef2f54b28145e4f6f1d95ee5db3c98b393e92e"
+      },
+      {
+        "file": "/Volumes/external/projects/professional-services-platform/reports/verification.json",
+        "sha256": "eb162669379d422529e6a9317ac4a170a66532dc0d50d29ce4471036d6d0ce75"
+      },
+      {
+        "file": "/Volumes/external/projects/professional-services-platform/reports/row-popup-verification.json",
+        "sha256": "2cba9a2d53ad6001cd61fc91057e37a00fc174515bc9defe12c161d76a5794cd"
+      }
+    ],
+    "featuresReviewed": 189,
+    "fieldDefinitionsReviewed": 623,
+    "mappedSourceEntries": 204,
+    "sources": [
+      "agencyServices",
+      "ai-native-service-companies",
+      "ai-professional-services-sow-revenue-leakage",
+      "AIFreelancerBusinessManager",
+      "akarsuadvisory",
+      "alliance",
+      "noCodeAIAgency"
+    ]
+  },
+  {
+    "id": "commerce-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/commerce-platform/README.md",
+        "sha256": "4cc1a282cae81ae5ce75ef2932aec386194c19f534fb53a6b8ff8bc9147299ad"
+      },
+      {
+        "file": "/Volumes/external/projects/commerce-platform/FEATURE_STATUS.md",
+        "sha256": "1e6314c6de63f890a87886a6adb54a6efc3173cb49c9e7076a09ead98bd8bc91"
+      },
+      {
+        "file": "/Volumes/external/projects/commerce-platform/apps.txt",
+        "sha256": "2e2c68a08d3d2f8c8f0e90299cd4f0fbe4ecc59f85edbb5990b93df86d84d558"
+      },
+      {
+        "file": "/Volumes/external/projects/commerce-platform/config/app.json",
+        "sha256": "e55dbc841284ec895cc86c6ad2457bd68593d1478533ad08aeec617bdf02a6e7"
+      },
+      {
+        "file": "/Volumes/external/projects/commerce-platform/config/modules.json",
+        "sha256": "ec84e2ff8ff9a7cab19efd7dd2d854bb2e400119434e2fa74c4a79cfa7ea54a2"
+      },
+      {
+        "file": "/Volumes/external/projects/commerce-platform/config/merged-features.json",
+        "sha256": "d1fa8fc75fc06ad76e8651d35c50e93b525e23726008f92e72b7d6ea7c890511"
+      },
+      {
+        "file": "/Volumes/external/projects/commerce-platform/reports/feature-map.json",
+        "sha256": "af791cc740ac7323e74cad1595f8ac447ffe21903cb5159ba5f5c0da0ea0ce44"
+      },
+      {
+        "file": "/Volumes/external/projects/commerce-platform/reports/build.json",
+        "sha256": "269e3383070f0175c8b43442fef5f5e272992f61a46693611de5ce6ed4a4749a"
+      },
+      {
+        "file": "/Volumes/external/projects/commerce-platform/reports/verification.json",
+        "sha256": "15c4baa9098e6af55b3db4f7ce8fd8624b85ed42d8305bb3de58a86da020badf"
+      },
+      {
+        "file": "/Volumes/external/projects/commerce-platform/reports/row-popup-verification.json",
+        "sha256": "8616f9392d5c173878122e351b40e755e0952d3fb427acc939cceab2f1c735de"
+      }
+    ],
+    "featuresReviewed": 308,
+    "fieldDefinitionsReviewed": 1060,
+    "mappedSourceEntries": 381,
+    "sources": [
+      "ai-ecommerce-fulfillment-inventory-loss-recovery",
+      "ai-marketplace-seller-fee-reimbursement-recovery",
+      "ai-subscription-billing-revenue-leakage-recovery",
+      "AICircularEconomyUpcyclingMarketplace",
+      "AiECommerceAgent",
+      "AIMarketplaceBuilderPlatform",
+      "AIPricingOptimizer",
+      "AISubscriptionBoxCurator",
+      "AIVirtualShowroomBuilder",
+      "dropShipping",
+      "ebay",
+      "ebay-clone",
+      "shopify"
+    ]
+  },
+  {
+    "id": "sports-fitness-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/sports-fitness-platform/README.md",
+        "sha256": "7decc3ce334a0dd6f1876e4dc895eb6e6cce08030e391b080c7231c9f6b5496a"
+      },
+      {
+        "file": "/Volumes/external/projects/sports-fitness-platform/FEATURE_STATUS.md",
+        "sha256": "1004c230c2156c8663c769a124a8fb0ed0777541eb8038a55f36f8a06ef7a3e9"
+      },
+      {
+        "file": "/Volumes/external/projects/sports-fitness-platform/apps.txt",
+        "sha256": "ee4f5680ddd568d0f35efafaa2e4734f463a412662a105524fa489229077092b"
+      },
+      {
+        "file": "/Volumes/external/projects/sports-fitness-platform/config/app.json",
+        "sha256": "36d89c62b82f2495253640da0ff454d44fcb2f7556930a1056e96a44f64ce058"
+      },
+      {
+        "file": "/Volumes/external/projects/sports-fitness-platform/config/modules.json",
+        "sha256": "f638298d5afd9771ed790abcc2cc206a692334a7853e6e3520cd9f775c52073f"
+      },
+      {
+        "file": "/Volumes/external/projects/sports-fitness-platform/config/merged-features.json",
+        "sha256": "50719718ce51fd265b6f136933cb97310106f30c766f8c799e9269fa49f171ad"
+      },
+      {
+        "file": "/Volumes/external/projects/sports-fitness-platform/reports/feature-map.json",
+        "sha256": "659c1b1305b24b7188eef0b6f1254ea87ad66ba333554505af3629eb276c4284"
+      },
+      {
+        "file": "/Volumes/external/projects/sports-fitness-platform/reports/build.json",
+        "sha256": "f12025adc496cfeeb49c15b486100145c31938fe72ed6909e25a5dbfad34af3b"
+      },
+      {
+        "file": "/Volumes/external/projects/sports-fitness-platform/reports/verification.json",
+        "sha256": "c32cfbbc089a537226eaafea091e26d87442bf08443cb7341112016e75e73ea6"
+      },
+      {
+        "file": "/Volumes/external/projects/sports-fitness-platform/reports/row-popup-verification.json",
+        "sha256": "b71b3160cb88e969a4d09e81567f520b9e0cd330a9f2adeddf1cb4eff15dec9b"
+      }
+    ],
+    "featuresReviewed": 196,
+    "fieldDefinitionsReviewed": 601,
+    "mappedSourceEntries": 230,
+    "sources": [
+      "AIDanceStudioManager",
+      "AIFitnessCoach",
+      "AIGolfCourseOperationsManager",
+      "AIMartialArtDojoManager",
+      "AISportsAnalytics",
+      "AIYouthSportsLeagueManager"
+    ]
+  },
+  {
+    "id": "developer-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/developer-platform/README.md",
+        "sha256": "dfd940b784e81233079dd4dbb67bf35b2122030b5b16ce90a3dfd65c2ebcc49f"
+      },
+      {
+        "file": "/Volumes/external/projects/developer-platform/FEATURE_STATUS.md",
+        "sha256": "4d946b1eeac0558e73a14f517fb5bd4cd64b56045fc7389d0a16dc2eaaf3791a"
+      },
+      {
+        "file": "/Volumes/external/projects/developer-platform/apps.txt",
+        "sha256": "efcfd9c0f0320b4702aac7e7cc12be710c99a8c342c2d095513113ba62d0acb6"
+      },
+      {
+        "file": "/Volumes/external/projects/developer-platform/config/app.json",
+        "sha256": "65d4d06d0c2b02907b79352636e2148c09cfd18a7699b1f6afb00a29d767cc22"
+      },
+      {
+        "file": "/Volumes/external/projects/developer-platform/config/modules.json",
+        "sha256": "01cddb11a321c7e1a5f25c40e7ee659c15bf839078a1aaaffda46ea28fe6e7be"
+      },
+      {
+        "file": "/Volumes/external/projects/developer-platform/config/merged-features.json",
+        "sha256": "0317d6a68a68441406ace40ca03cb7f7d46750a57172f5c562764ba0b367a2fb"
+      },
+      {
+        "file": "/Volumes/external/projects/developer-platform/reports/feature-map.json",
+        "sha256": "5b50fe3633ed160858f371073e87f0442e079eb4f670fb452e092b5687007d5a"
+      },
+      {
+        "file": "/Volumes/external/projects/developer-platform/reports/build.json",
+        "sha256": "1799ec0175c3c875eb1bbe25e19bab32ae100efe1633165247792bb94f9eee99"
+      },
+      {
+        "file": "/Volumes/external/projects/developer-platform/reports/verification.json",
+        "sha256": "974c5c01b6e9c072ff10f8df64d14c57d8661df2145f09a344b158c305dcd5de"
+      },
+      {
+        "file": "/Volumes/external/projects/developer-platform/reports/row-popup-verification.json",
+        "sha256": "793f4edc4f30512ed565e0bf92fdc5cb0654baae9a03475f012b4ddfea8a87b1"
+      }
+    ],
+    "featuresReviewed": 386,
+    "fieldDefinitionsReviewed": 1187,
+    "mappedSourceEntries": 420,
+    "sources": [
+      "AIAccessibilityAuditAgent",
+      "AIADAWebsiteAccessibilityRemediator",
+      "AIAppointmentSchedulerwithNLP",
+      "AIAutonomousWebScrapingAgent",
+      "AIBrowserExtensionPlatform",
+      "AIChatbotBuilder",
+      "AICodeInterpreter",
+      "AiCodeReviewDocumentation",
+      "AIDatabaseAdminAgent",
+      "AIDevOpsInfrastructure",
+      "aIDocumentationAssistant",
+      "AISMSchatbot",
+      "AITestGenerationPlatform",
+      "aIVoiceAgent",
+      "cursor",
+      "integrator",
+      "livocloud",
+      "livomlivo",
+      "mcpServer",
+      "SOLRProject"
+    ]
+  },
+  {
+    "id": "marketing-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/marketing-platform/README.md",
+        "sha256": "1ce806fbb219d6b72c1b343fe1de4d84c1eb084806b4e2114113795293c01583"
+      },
+      {
+        "file": "/Volumes/external/projects/marketing-platform/FEATURE_STATUS.md",
+        "sha256": "62baa060c44430082112e4cac7bde18164fdb8035f002ccf9825375bff4d4f84"
+      },
+      {
+        "file": "/Volumes/external/projects/marketing-platform/apps.txt",
+        "sha256": "405c73640ce5ef8f1451fdf666037842c1319dd4c249a4e3c3598fbd55ae4603"
+      },
+      {
+        "file": "/Volumes/external/projects/marketing-platform/config/app.json",
+        "sha256": "10d57fc0074c7cfeae5fa5d68e968a35904d2e88761fb18047124af51f6d99d3"
+      },
+      {
+        "file": "/Volumes/external/projects/marketing-platform/config/modules.json",
+        "sha256": "59b71ecc9b80a3652bf74e5108d913a326fbcf2243b27dacc609d98345531284"
+      },
+      {
+        "file": "/Volumes/external/projects/marketing-platform/config/merged-features.json",
+        "sha256": "3e169787ee3e1b6e25fe29d98357d4d8804a324cb3595ab626f28b81bc3258d4"
+      },
+      {
+        "file": "/Volumes/external/projects/marketing-platform/reports/feature-map.json",
+        "sha256": "cef22fb99867e185e93325340fe37efaa316f986953d9c7aa6022b3db2943eef"
+      },
+      {
+        "file": "/Volumes/external/projects/marketing-platform/reports/build.json",
+        "sha256": "fc785b15be777b8479d3d49fd5e016b395ae3a530f6dafbb30ad947e8bed3384"
+      },
+      {
+        "file": "/Volumes/external/projects/marketing-platform/reports/verification.json",
+        "sha256": "3ae6d91e6c43f0406231a72fa3f978f3f54def060196319570bae3d42e78eb08"
+      },
+      {
+        "file": "/Volumes/external/projects/marketing-platform/reports/row-popup-verification.json",
+        "sha256": "463b763e1dbd5ce7d593862d567dfa1ee716c44639c96903d72da01a89c84ce7"
+      }
+    ],
+    "featuresReviewed": 311,
+    "fieldDefinitionsReviewed": 1176,
+    "mappedSourceEntries": 337,
+    "sources": [
+      "ai-affiliate-influencer-commission-reconciliation",
+      "ai-coop-advertising-mdf-recovery",
+      "ai-media-buying-agency-fee-reconciliation",
+      "ai-programmatic-ad-supply-path-fee-audit",
+      "ai-retail-media-network-spend-reconciliation",
+      "AIAdCopyCreativeGenerator",
+      "AIBrandVoiceConsistencyChecker",
+      "AIDynamiclocationaware",
+      "AIInfluencerManagementPlatform",
+      "aIMarketingAutomation",
+      "AiMarketingCopyGenerator",
+      "AIReviewResponseManager",
+      "AISEOContentWriter",
+      "AISocialMediaManager",
+      "AISocialProofGenerator",
+      "podcast-ad-reconciliation"
+    ]
+  },
+  {
+    "id": "media-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/media-platform/README.md",
+        "sha256": "fff926fd09099cfeef031eb043c917f9e1a36621cdd407ab25a427eb8a3f674b"
+      },
+      {
+        "file": "/Volumes/external/projects/media-platform/FEATURE_STATUS.md",
+        "sha256": "56d7e6b8a3b3fce536000653213a08f047ab2fd8eb5d38be6f1643b06ba2297a"
+      },
+      {
+        "file": "/Volumes/external/projects/media-platform/apps.txt",
+        "sha256": "7e0132b758ab9560ca2a5a8ac0a6f47271b020625d585cc64c425bc6ddeba951"
+      },
+      {
+        "file": "/Volumes/external/projects/media-platform/config/app.json",
+        "sha256": "c9049556c5522b713d747b5ef6993dbca48415dfb45c50ea57b05731fe098a5f"
+      },
+      {
+        "file": "/Volumes/external/projects/media-platform/config/modules.json",
+        "sha256": "19818cd7690b46d8a719de1b0c8998b983f05a953ad3ff14ea6523bec995fb20"
+      },
+      {
+        "file": "/Volumes/external/projects/media-platform/config/merged-features.json",
+        "sha256": "20915138a956422e3b4e082be8f0a1c136246aa0e5af007646929697446462b0"
+      },
+      {
+        "file": "/Volumes/external/projects/media-platform/reports/feature-map.json",
+        "sha256": "a91d9d0d4e9b5add0688f7d73693270b2503bcd714feae929d43f814ab788d6d"
+      },
+      {
+        "file": "/Volumes/external/projects/media-platform/reports/build.json",
+        "sha256": "6f508ff1814b1b88efaa7a610e758c3386abc6512a7c4b9e4dbfbf19b4e44861"
+      },
+      {
+        "file": "/Volumes/external/projects/media-platform/reports/verification.json",
+        "sha256": "05cd441013bfe07652a354e33ac194e2f30d814b98aa3e0de104d733d5b12cbd"
+      },
+      {
+        "file": "/Volumes/external/projects/media-platform/reports/row-popup-verification.json",
+        "sha256": "2cf0db806512654f0e4cf04ee958cb8597800ddd730a4304f98cda9df6ddecd9"
+      }
+    ],
+    "featuresReviewed": 497,
+    "fieldDefinitionsReviewed": 1672,
+    "mappedSourceEntries": 607,
+    "sources": [
+      "ai-media-royalty-participation-audit",
+      "ai-music-neighboring-rights-royalty-recovery",
+      "AIBookPublishingPipeline",
+      "AIComicBookGenerator",
+      "AIContentRepurposingEngine",
+      "AiContentStudio",
+      "AIMusicGeneration",
+      "AIMusicRightsRoyaltyTracker",
+      "AINewsletterGenerator",
+      "AINewsroomAssistant",
+      "AIPhotographyBusinessManager",
+      "AIPodcastProducer",
+      "AIRecommendationsforbroadcasters",
+      "AISlideDeckGenerator",
+      "AiSplitVideos",
+      "AIVideoGeneration",
+      "AIVideoIntelligence",
+      "AiVideoScriptContent",
+      "AIVideoTestimonialCreator",
+      "MontageForge",
+      "photoapp-eakarsu",
+      "runway",
+      "VoiceForge"
+    ]
+  },
+  {
+    "id": "document-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/document-platform/README.md",
+        "sha256": "a560e572f9330abacc13f8ea364507391145d307e911c067619272c8b8ef4e91"
+      },
+      {
+        "file": "/Volumes/external/projects/document-platform/FEATURE_STATUS.md",
+        "sha256": "90a6eb7faab1bc6d454239efb2d252fa21089e0cfbc79a0fdcac321b6918dc98"
+      },
+      {
+        "file": "/Volumes/external/projects/document-platform/apps.txt",
+        "sha256": "7e4f87d5b740cd94a9e700e1fcf479eff159d6214c42a8dd39ab35c58ddecd44"
+      },
+      {
+        "file": "/Volumes/external/projects/document-platform/config/app.json",
+        "sha256": "cc1fbcc9b03ba7e27d53c340f2eb4490b9ef500894ca601ce3887090823d534b"
+      },
+      {
+        "file": "/Volumes/external/projects/document-platform/config/modules.json",
+        "sha256": "ee82a1e4de49e662b65789495910e29fa2cde38f9dd20c47c9ccb6d4d583ff6a"
+      },
+      {
+        "file": "/Volumes/external/projects/document-platform/config/merged-features.json",
+        "sha256": "8c03a64b9b8f261e6e608a0cfbec910886ff67ad04a7e7132d9a5bc60470c239"
+      },
+      {
+        "file": "/Volumes/external/projects/document-platform/reports/feature-map.json",
+        "sha256": "fa74156d2dbc584cc9c7c648e3950470a1a929cac98f940667063eae4ec08978"
+      },
+      {
+        "file": "/Volumes/external/projects/document-platform/reports/build.json",
+        "sha256": "64e410c2a5e7f78470e42a22c7767a78c09f24babd2d52df3f4905d0b1182f86"
+      },
+      {
+        "file": "/Volumes/external/projects/document-platform/reports/verification.json",
+        "sha256": "3da21d82572c44f875776c306ef95217ffd7f4c155dfa5710601ef040cf0585d"
+      },
+      {
+        "file": "/Volumes/external/projects/document-platform/reports/row-popup-verification.json",
+        "sha256": "3882b29887668140f00e8493d0e4036f80efc5e3f8e9dd086a94b60bbb30f5a2"
+      }
+    ],
+    "featuresReviewed": 198,
+    "fieldDefinitionsReviewed": 590,
+    "mappedSourceEntries": 226,
+    "sources": [
+      "AIEmailTriageResponseAgent",
+      "AIGroundedClaims",
+      "AIKnowledgeBaseWikiGenerator",
+      "AILocalizationTranslationAgency",
+      "AiMeetingAgent",
+      "AIPlagiarismAIContentDetector",
+      "alfresco",
+      "document_management",
+      "docusign",
+      "makepdf",
+      "pdf_reader",
+      "pdfgenius"
+    ]
+  },
+  {
+    "id": "sales-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/sales-platform/README.md",
+        "sha256": "e2a6759cd30d40e5ef2f401db7ac382f692a3b95159dcb6c03b5d6b4e88b10f9"
+      },
+      {
+        "file": "/Volumes/external/projects/sales-platform/FEATURE_STATUS.md",
+        "sha256": "19bc25e82d2506bb979a6f878849cf491071ef999dd5fa79cb9e8a63af32a4ae"
+      },
+      {
+        "file": "/Volumes/external/projects/sales-platform/apps.txt",
+        "sha256": "9300b68c90df17825308cf0ca36275086762fb24ec49d2db4f0170d3d3b7dfb7"
+      },
+      {
+        "file": "/Volumes/external/projects/sales-platform/config/app.json",
+        "sha256": "d7a2cca7ebfbd832c2f3ae5ddf94278462c328fbefbc2f15998ff37bebfd24d5"
+      },
+      {
+        "file": "/Volumes/external/projects/sales-platform/config/modules.json",
+        "sha256": "b303d349d4e24788fb5fb14dbe9738017d01364535123af527eb882c0e08b192"
+      },
+      {
+        "file": "/Volumes/external/projects/sales-platform/config/merged-features.json",
+        "sha256": "88d1bd57194dcdeee202daef5ad35651dceab32f5e1c8037f77189631c4fba4c"
+      },
+      {
+        "file": "/Volumes/external/projects/sales-platform/reports/feature-map.json",
+        "sha256": "a2f8094af6ee6df1a54f2c008fce9ae01436d9ffea44c8ca3da5410584fcc90f"
+      },
+      {
+        "file": "/Volumes/external/projects/sales-platform/reports/build.json",
+        "sha256": "74828b01e32e239f722c7408a623b07189baf912e500cda834f3eebe6af8902d"
+      },
+      {
+        "file": "/Volumes/external/projects/sales-platform/reports/verification.json",
+        "sha256": "64c90701f86c2b3caa67077d0e7d9f4a4f3d0050619fb562d43ee542439aa04c"
+      },
+      {
+        "file": "/Volumes/external/projects/sales-platform/reports/row-popup-verification.json",
+        "sha256": "871e8a21887a7328ff8e638deec773263447e1e3a9f418319f91cb63fb2ba0c4"
+      }
+    ],
+    "featuresReviewed": 247,
+    "fieldDefinitionsReviewed": 784,
+    "mappedSourceEntries": 279,
+    "sources": [
+      "ai-customer-implementation-success-manager",
+      "ai-sales-commission-incentive-compensation-audit",
+      "ai-sales-outreach",
+      "AIChurnPredictionSystem",
+      "AICompetitiveAnalysisTool",
+      "AiCustomerSupportAgent",
+      "leads",
+      "linkedin",
+      "luranAI",
+      "microsoftDynamics",
+      "referral",
+      "startups-selling-to-huge-companies",
+      "financialServices_salesforce"
+    ]
+  },
+  {
+    "id": "events-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/events-platform/README.md",
+        "sha256": "46611a7dbdd3a550f767f101ea3c3c43b37e72175cb56344b6eb731cd896b71d"
+      },
+      {
+        "file": "/Volumes/external/projects/events-platform/FEATURE_STATUS.md",
+        "sha256": "57102b0cbfad4963fae0f5d43f7e79c0d73fb76d41923c120d0bf9afd50a78cb"
+      },
+      {
+        "file": "/Volumes/external/projects/events-platform/apps.txt",
+        "sha256": "e9eef405b8d78566d951459ae0c6f1d81c7cb3ae547cd2ec891f459056602eb9"
+      },
+      {
+        "file": "/Volumes/external/projects/events-platform/config/app.json",
+        "sha256": "e03e3a2ff0592d484db076afd1b0dea3fd316fc6b545f98971fe7bb36755780c"
+      },
+      {
+        "file": "/Volumes/external/projects/events-platform/config/modules.json",
+        "sha256": "4539817047d9bf8979c049dc7e2ce3a0dfc4e9af38ba0db1f22223655464d66b"
+      },
+      {
+        "file": "/Volumes/external/projects/events-platform/config/merged-features.json",
+        "sha256": "dea52bb31acebb4e1a922d5b591214b1a1563f01cf98937704f840332ee54256"
+      },
+      {
+        "file": "/Volumes/external/projects/events-platform/reports/feature-map.json",
+        "sha256": "2f382f8fc3d8a7fd4da3ad133b259cae88a31eea25bf31ab3d5f6e858da71251"
+      },
+      {
+        "file": "/Volumes/external/projects/events-platform/reports/build.json",
+        "sha256": "6ffc4f8fb4d5f50e0b263758b3163bc3c5329682cf6ee9295ba98f92fb8afa24"
+      },
+      {
+        "file": "/Volumes/external/projects/events-platform/reports/verification.json",
+        "sha256": "5414adae2060f725fd39269cc02846d17e82e3415675f5d6a3ec091ad97d9207"
+      },
+      {
+        "file": "/Volumes/external/projects/events-platform/reports/row-popup-verification.json",
+        "sha256": "c5e41d24a253627829766037e049f4cbe788102644fef95cbcbdab12f8d7f16d"
+      }
+    ],
+    "featuresReviewed": 186,
+    "fieldDefinitionsReviewed": 784,
+    "mappedSourceEntries": 213,
+    "sources": [
+      "ai-sports-ticketing-settlement-reconciliation",
+      "AIEventPlanner",
+      "AIMuseumCulturalInstitutionManager",
+      "AITheaterPerformingArtsManager",
+      "AITradeShowConferenceROIOptimizer",
+      "AIVenueManager",
+      "AIWeddingPlanner"
+    ]
+  },
+  {
+    "id": "design-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/design-platform/README.md",
+        "sha256": "52ef7d6583c0f4248ac0e6cd7761a9c576134a2c3c8fae7d93bbb5815708108a"
+      },
+      {
+        "file": "/Volumes/external/projects/design-platform/FEATURE_STATUS.md",
+        "sha256": "70a4f24f76b5f5c26da5432ad567d6bc6338f9b292fe927c4537c20301fda5b4"
+      },
+      {
+        "file": "/Volumes/external/projects/design-platform/apps.txt",
+        "sha256": "b2e5d1ede2f0b077f641446501c8f3f2b738e003c697900e97cf5dc829aa1aed"
+      },
+      {
+        "file": "/Volumes/external/projects/design-platform/config/app.json",
+        "sha256": "051595cf9ba562ffa089302ffdb3ee7c3622995db97a731feed9654c1131cdf1"
+      },
+      {
+        "file": "/Volumes/external/projects/design-platform/config/modules.json",
+        "sha256": "7f2e1636f0219d3a5f98e80bf42bddd2997df5b978e03c86bbb23123bb6a0e4f"
+      },
+      {
+        "file": "/Volumes/external/projects/design-platform/config/merged-features.json",
+        "sha256": "a4e170ac209be72fbc484736139602873e86734e0b0ea8652092d9e915562b62"
+      },
+      {
+        "file": "/Volumes/external/projects/design-platform/reports/feature-map.json",
+        "sha256": "3c6fcb097a41f70d0175f65473a87b916abf7276e9c462e978759291ec2c9cf8"
+      },
+      {
+        "file": "/Volumes/external/projects/design-platform/reports/build.json",
+        "sha256": "960d02cb47932de9ccfa5974ac0bc629070ff25154779b35420bae995e59948d"
+      },
+      {
+        "file": "/Volumes/external/projects/design-platform/reports/verification.json",
+        "sha256": "1999734cf35e3a85760646b5a280a7e34e8dc258ba34cba09a1395d7e86c87fc"
+      },
+      {
+        "file": "/Volumes/external/projects/design-platform/reports/row-popup-verification.json",
+        "sha256": "47c6505c99e91b0ab0c593200da3aa07bcddf05277b41d582110ee16c362212f"
+      }
+    ],
+    "featuresReviewed": 191,
+    "fieldDefinitionsReviewed": 616,
+    "mappedSourceEntries": 188,
+    "sources": [
+      "AI3DSpatial",
+      "AIFashionDesigner",
+      "AiImageGeneration",
+      "AiInteriorDesign",
+      "AILogoBrandKitGenerator",
+      "AIPersonalStylist",
+      "AIPersonalWardrobeOrganizer",
+      "AIProductPhotoEnhancer"
+    ]
+  },
+  {
+    "id": "property-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/property-platform/README.md",
+        "sha256": "edf3bda9aef278db7ece50fbe0d7c388ee0b90cdea29de97eac3a96cef39aa8e"
+      },
+      {
+        "file": "/Volumes/external/projects/property-platform/FEATURE_STATUS.md",
+        "sha256": "39f9785401a8e86337093f43fb3563f5d547040c1bb57ea1834aedef6cab48b6"
+      },
+      {
+        "file": "/Volumes/external/projects/property-platform/apps.txt",
+        "sha256": "b20f5bb3f7d8c143508e9d5380057771f6775c88924d623c14bddbd1ecf5faa8"
+      },
+      {
+        "file": "/Volumes/external/projects/property-platform/config/app.json",
+        "sha256": "910299bd25b313c15ff9d5df5701cf2b76e24477222cb372ddf130d9d8c8684c"
+      },
+      {
+        "file": "/Volumes/external/projects/property-platform/config/modules.json",
+        "sha256": "dac96d9c8a3387c1c8e9103b702aefa45fd345d255157494c29abf1034e9f610"
+      },
+      {
+        "file": "/Volumes/external/projects/property-platform/config/merged-features.json",
+        "sha256": "2593342e8b1e1c7c6a7e2e02365fbdac41eb215aea50370ed838385807fed9a7"
+      },
+      {
+        "file": "/Volumes/external/projects/property-platform/reports/feature-map.json",
+        "sha256": "292fbf85b307afada6d2ec80b21319bd17b1e0b7bcecc842cfa136525b95bc95"
+      },
+      {
+        "file": "/Volumes/external/projects/property-platform/reports/build.json",
+        "sha256": "7f6160dc1da2db13cd46d6b8d234c881821516126c194452a81118b633e95c6d"
+      },
+      {
+        "file": "/Volumes/external/projects/property-platform/reports/verification.json",
+        "sha256": "be21fab7c330e68b9002d33e9077a9d936d6d01da9f103a40815846166b44d23"
+      },
+      {
+        "file": "/Volumes/external/projects/property-platform/reports/row-popup-verification.json",
+        "sha256": "9e35429aa90b1d4caae3b9dca62ce560273c4cdeea3be93393b6efb9d7a715cf"
+      }
+    ],
+    "featuresReviewed": 516,
+    "fieldDefinitionsReviewed": 1960,
+    "mappedSourceEntries": 605,
+    "sources": [
+      "ai-commercial-lease-cam-reconciliation",
+      "ai-facilities-maintenance-sla-credit-recovery",
+      "ai-housing-choice-voucher-inspection",
+      "ai-lihtc-compliance",
+      "ai-property-management-vendor-sla-invoice-audit",
+      "ai-real-estate-brokerage-commission-reconciliation",
+      "ai-tenant-improvement-allowance-recovery",
+      "ai-title-escrow-fraud-curative",
+      "ai-utility-right-of-way-acquisition",
+      "AICommercialLeaseAnalyzer",
+      "AICoworkingSpaceManager",
+      "AIHOACommunityAssociationManager",
+      "AIHomeInteriorStagingRealEstate",
+      "AIIdentifymonetizeunderutilized",
+      "AIParkingManagementPlatform",
+      "AIPermitZoningCompliance",
+      "AIPropertyValuationAgent",
+      "AISelfStorageFacilityManager",
+      "AISmartBuildingManager",
+      "kastle",
+      "realEstateAgency"
+    ]
+  },
+  {
+    "id": "restaurant-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/restaurant-platform/README.md",
+        "sha256": "07725d222bd792e517868e41d1c45fe3accb36fe4c07765ab51e7331fe21cda0"
+      },
+      {
+        "file": "/Volumes/external/projects/restaurant-platform/FEATURE_STATUS.md",
+        "sha256": "f418bd375940ba176b7b3b2804114edd277fb2e71fca7914b4297182cb24b0f1"
+      },
+      {
+        "file": "/Volumes/external/projects/restaurant-platform/apps.txt",
+        "sha256": "e07e1548adc1bdc6de3ff84292543444a19e1e71d80e1a71788f46663ad2575c"
+      },
+      {
+        "file": "/Volumes/external/projects/restaurant-platform/config/app.json",
+        "sha256": "5021a54ec66290065ffa849129ffa83603e7b68e34c0eebd440af35e96f9d18c"
+      },
+      {
+        "file": "/Volumes/external/projects/restaurant-platform/config/modules.json",
+        "sha256": "9c12e09702f32580ab6bf13481ce21852e057d3e38969b25775df9ebac9e23f6"
+      },
+      {
+        "file": "/Volumes/external/projects/restaurant-platform/config/merged-features.json",
+        "sha256": "00d0e3193cc58c11d3c55d15403a693a0c54ccd2b08994ad0ef5c0b680b8c399"
+      },
+      {
+        "file": "/Volumes/external/projects/restaurant-platform/reports/feature-map.json",
+        "sha256": "84b95d3c12566c8ad89f77229da5c6b41ad2279c628246463b92d5860ac09b1f"
+      },
+      {
+        "file": "/Volumes/external/projects/restaurant-platform/reports/build.json",
+        "sha256": "494c196b17d0250864589f5352d3f6f977372d3227034421a977aaa86d39b71a"
+      },
+      {
+        "file": "/Volumes/external/projects/restaurant-platform/reports/verification.json",
+        "sha256": "f378ba502f0f1a24ab4fea8de1b9d0f1fdad92fca9e6c43ee4b467dd1e3b659e"
+      },
+      {
+        "file": "/Volumes/external/projects/restaurant-platform/reports/row-popup-verification.json",
+        "sha256": "e1b97cf5cd1c5720661cdab1f508ca60b5a7ca5fbb7a562bc958e784601acb59"
+      }
+    ],
+    "featuresReviewed": 346,
+    "fieldDefinitionsReviewed": 1412,
+    "mappedSourceEntries": 408,
+    "sources": [
+      "ai-beverage-depletion-allowance-reconciliation",
+      "ai-food-flow-order",
+      "ai-foodservice-distributor-rebate-recovery",
+      "ai-foodservice-manufacturer-broker-commission-audit",
+      "ai-restaurant-delivery-platform-commission-recovery",
+      "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "AIBakeryProductionManager",
+      "AIBreweryCraftBeverageOps",
+      "AICommercialKitchenEquipmentMaintenance",
+      "AIGhostKitchenNetworkManager",
+      "AIMenuDigitizer",
+      "AIWineSpiritsinventorySommelier",
+      "cateringService",
+      "food-safety-recall-management-suite",
+      "FoodOrderingWebSite",
+      "footTruck",
+      "GenericOrderingServiceEnhanced",
+      "genericServiceOrder",
+      "independentRestaurant",
+      "OrderingServiceText2",
+      "test_food"
+    ]
+  },
+  {
+    "id": "education-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/education-platform/README.md",
+        "sha256": "eefd3ba76f601b1f16c8ef4b937a0f82a47fd56795cb5175893798bb915e1446"
+      },
+      {
+        "file": "/Volumes/external/projects/education-platform/FEATURE_STATUS.md",
+        "sha256": "6072c28b34dd8f5121fc5d4296c727c8bbccef858e94840feaa2a6cce1f3aca6"
+      },
+      {
+        "file": "/Volumes/external/projects/education-platform/apps.txt",
+        "sha256": "a432c5376e6ae72271ab6576b36e61be3806612b5f3a22920a9157dfa7c97346"
+      },
+      {
+        "file": "/Volumes/external/projects/education-platform/config/app.json",
+        "sha256": "4fbdc81401832f7020c9cb6768af68f50180812b47787fe4429d60a7ecfd6bf6"
+      },
+      {
+        "file": "/Volumes/external/projects/education-platform/config/modules.json",
+        "sha256": "ffc1b788aa1d1ebe652034876ec5658a9cb2f0cb201f1d6374207c114ef84bd9"
+      },
+      {
+        "file": "/Volumes/external/projects/education-platform/config/merged-features.json",
+        "sha256": "f61eef97f48ca29d4686c6915455a1a3cabe566d8e2eb1b8abbadd56a0855b1a"
+      },
+      {
+        "file": "/Volumes/external/projects/education-platform/reports/feature-map.json",
+        "sha256": "3f20457404f2cbfedaa079e953c3a114584a336ff02f793b92e82eb2f3a98c44"
+      },
+      {
+        "file": "/Volumes/external/projects/education-platform/reports/build.json",
+        "sha256": "f2b0fb140eb198821c322bdf399cf12a52e4b0597f1220a050f49ea832d5bc26"
+      },
+      {
+        "file": "/Volumes/external/projects/education-platform/reports/verification.json",
+        "sha256": "7895e3fdaed7a203b0739be8c67ffd304a09d4b03025dbb5ec15adf6ebe068bd"
+      },
+      {
+        "file": "/Volumes/external/projects/education-platform/reports/row-popup-verification.json",
+        "sha256": "ea44b4c0d6b8cfd5e417a3f606f4c95099abc5a18421de2a5e1fd3546eb448c3"
+      }
+    ],
+    "featuresReviewed": 425,
+    "fieldDefinitionsReviewed": 1767,
+    "mappedSourceEntries": 477,
+    "sources": [
+      "ai-academic-accreditation-evidence-workspace",
+      "ai-academic-transfer-credit-evaluation",
+      "ai-durable-skills-assessment-center",
+      "ai-international-student-compliance-operations",
+      "ai-oral-examination-authenticity-platform",
+      "ai-registered-apprenticeship-sponsor-operations",
+      "ai-reskilling-academy",
+      "ai-school-meal-reimbursement-integrity",
+      "ai-skills-portfolio-work-simulation",
+      "ai-special-education-iep-compliance",
+      "ai-teacher-intervention-student-motivation",
+      "AICareerPathAgentForStudents",
+      "AICodingInterviewAgent",
+      "AIEducationSuite",
+      "AIExamProctoringSystem",
+      "AILabSimulationPlatform",
+      "AILanguageLearningCompanion",
+      "AILearningDevelopmentPath",
+      "AIMultiAgentClassroom",
+      "AIMusicSchoolAcademyManager",
+      "AiPersonalizedTutor",
+      "AISalesTrainingSimulator",
+      "AIVRTrainingScenarioGenerator",
+      "university-research-administration-suite"
+    ]
+  },
+  {
+    "id": "accounting-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/accounting-platform/README.md",
+        "sha256": "1332df0fb7ade7fd758cfcdfc263cdadceb3f467ed60f1d8c1055e5271825cf3"
+      },
+      {
+        "file": "/Volumes/external/projects/accounting-platform/FEATURE_STATUS.md",
+        "sha256": "06fa4fc0b4eac8387fa8a377219dcb7407a3f80496b184109d856ab0c972676d"
+      },
+      {
+        "file": "/Volumes/external/projects/accounting-platform/apps.txt",
+        "sha256": "12d78a0f3008eb3eec741f6265832e5bf83a98293718fa9a26073c235d27b9d8"
+      },
+      {
+        "file": "/Volumes/external/projects/accounting-platform/config/app.json",
+        "sha256": "93f79cf412f2095fd4f1dca859ba1c8b2fe99e60e676efa34264baa671e7556e"
+      },
+      {
+        "file": "/Volumes/external/projects/accounting-platform/config/modules.json",
+        "sha256": "2eb2f16e942505f2e7b23cd48ff3c8f8f9480a7cd1ae6c9828752cadbcac8b4a"
+      },
+      {
+        "file": "/Volumes/external/projects/accounting-platform/config/merged-features.json",
+        "sha256": "121bc97d611ccd9530b31df6019f21edbd2b8d354572228fdf766422c5df26ba"
+      },
+      {
+        "file": "/Volumes/external/projects/accounting-platform/reports/feature-map.json",
+        "sha256": "aaef5081a7c78dda4ada324148b321b209877d39639c063ec7a42f34f2689199"
+      },
+      {
+        "file": "/Volumes/external/projects/accounting-platform/reports/build.json",
+        "sha256": "83d8e92ec11df8882155afe7527ba28b8be49c35772c5e1881de75b5f5b0a64a"
+      },
+      {
+        "file": "/Volumes/external/projects/accounting-platform/reports/verification.json",
+        "sha256": "628140566a954f63da070477370418fc6c1149c46cb7cbe8778755c6605dd7c8"
+      },
+      {
+        "file": "/Volumes/external/projects/accounting-platform/reports/row-popup-verification.json",
+        "sha256": "6e4674ac973638bf324b16620c565f6cbe708983344a7b9b265efa975eaddb58"
+      }
+    ],
+    "featuresReviewed": 239,
+    "fieldDefinitionsReviewed": 1019,
+    "mappedSourceEntries": 273,
+    "sources": [
+      "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "ai-ar-short-pay-deduction-recovery",
+      "ai-managed-print-copier-lease-audit",
+      "ai-partner-revenue-share-settlement-reconciliation",
+      "ai-unapplied-cash-credit-balance-recovery",
+      "AIAPARAutomation",
+      "AIAuditWorkpaperAutomation",
+      "AIExpenseReportAuditor",
+      "AIForensicAccountingInvestigator",
+      "AIInvoiceProcessing",
+      "AIRevenueRecognitionEngine",
+      "AISOXAuditAutomation",
+      "cash_flow",
+      "finance-tracker-eakarsu",
+      "quickbooks"
+    ]
+  },
+  {
+    "id": "construction-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/construction-platform/README.md",
+        "sha256": "59340f2f899e2e014b9fde8de105ea657018ecffdc3d55e2da34dfde781f998e"
+      },
+      {
+        "file": "/Volumes/external/projects/construction-platform/FEATURE_STATUS.md",
+        "sha256": "450a6cb78de953d882e6db8eeaabeae322ddef3d40ea0afdaf4cbe8b49658893"
+      },
+      {
+        "file": "/Volumes/external/projects/construction-platform/apps.txt",
+        "sha256": "03ee1c2f455e06345769f58d8ef33e5cbfe61c86128f63fa8fc8267c92137179"
+      },
+      {
+        "file": "/Volumes/external/projects/construction-platform/config/app.json",
+        "sha256": "01ac5047f3a001fd1c3d47c412347199f0176dd8664f83f141a8a297d3035685"
+      },
+      {
+        "file": "/Volumes/external/projects/construction-platform/config/modules.json",
+        "sha256": "6ec13ab77e019451d88365ea4542ca0ca564ca3085764c0b99b5068d17bd3c84"
+      },
+      {
+        "file": "/Volumes/external/projects/construction-platform/config/merged-features.json",
+        "sha256": "69750628ee2980831e0425cff830becf95d1b627a22f7284c6518aee15fcb575"
+      },
+      {
+        "file": "/Volumes/external/projects/construction-platform/reports/feature-map.json",
+        "sha256": "205710d1bca2c2f313b5f32a2dfde300837b209746e3e9da505ba55bd3a6a48c"
+      },
+      {
+        "file": "/Volumes/external/projects/construction-platform/reports/build.json",
+        "sha256": "3a03b5b2d918cd5a7578d2ec4c0d0a1f7e02fbb35219043374b81d0b9aa98db4"
+      },
+      {
+        "file": "/Volumes/external/projects/construction-platform/reports/verification.json",
+        "sha256": "a4c88273c9a6e32dec2e2a4d0fb8c016e6d718fbee9769c4a900b342299ca8ba"
+      },
+      {
+        "file": "/Volumes/external/projects/construction-platform/reports/row-popup-verification.json",
+        "sha256": "b66106a4cd74be555b5bcc3fabb82538b107197a4d1dc19f2743413e1bce52cb"
+      }
+    ],
+    "featuresReviewed": 397,
+    "fieldDefinitionsReviewed": 1434,
+    "mappedSourceEntries": 477,
+    "sources": [
+      "ai-certified-payroll-and-prevailing-wage-control",
+      "ai-construction-change-order-revenue-recovery",
+      "ai-construction-retainage-lien-release-recovery",
+      "ai-construction-subcontractor-backcharge-recovery",
+      "ai-data-center-construction-coordinator",
+      "AIArchitecturalDesignGenerator",
+      "AIConstructionBidAnalyzer",
+      "AIConstructionManager",
+      "AIConstructionSafetyHub",
+      "AIConstructionWearableSafetyMonitor",
+      "AIFloorPlanAnalyzer",
+      "AIHomeRenovationProjectManager",
+      "AILandscapingDesignEstimator",
+      "alliance_hakedis",
+      "cabinet-shop"
+    ]
+  },
+  {
+    "id": "retail-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/retail-platform/README.md",
+        "sha256": "0e235f68d34c5cc16d1c3086745031f25efa502688c49dfe733beaf4e904980b"
+      },
+      {
+        "file": "/Volumes/external/projects/retail-platform/FEATURE_STATUS.md",
+        "sha256": "62023ff8ba36be5bee739dcb34910bf558f0a3d27c3d57842e5335570b2d14a8"
+      },
+      {
+        "file": "/Volumes/external/projects/retail-platform/apps.txt",
+        "sha256": "8946da450e910f124f7efc5493a2da96fcb6f3ff3325289a7ebd308ff5672f55"
+      },
+      {
+        "file": "/Volumes/external/projects/retail-platform/config/app.json",
+        "sha256": "35d6f6a80a86484a871c11767a19657f2b46cad0635c31f4ee66479a50954713"
+      },
+      {
+        "file": "/Volumes/external/projects/retail-platform/config/modules.json",
+        "sha256": "570b15823a01d59b7ae9c375581db61692bc0eae26f2b0b93093168ff216074c"
+      },
+      {
+        "file": "/Volumes/external/projects/retail-platform/config/merged-features.json",
+        "sha256": "742433dce5871e62431524f5c07e7bb0fe8c2d1c30a884eba05cd09ca8b5338d"
+      },
+      {
+        "file": "/Volumes/external/projects/retail-platform/reports/feature-map.json",
+        "sha256": "14433a4ebe9cfd75e2a0939643b74c1a1a6b7dd1c6d7341d5f77256dc23a8555"
+      },
+      {
+        "file": "/Volumes/external/projects/retail-platform/reports/build.json",
+        "sha256": "33d41308081fad8918d91c0cb5236947e1106f8a3c4f6260cef68cc86dc8120d"
+      },
+      {
+        "file": "/Volumes/external/projects/retail-platform/reports/verification.json",
+        "sha256": "af4afca138a1ed63c66be3b4fd4360781dc262266bc19ba94d9e7a851bcc8ba0"
+      },
+      {
+        "file": "/Volumes/external/projects/retail-platform/reports/row-popup-verification.json",
+        "sha256": "9f4e3fd141a332482493e8896bb9e1f2b2fb259afcabaf1ded28560758a19f6a"
+      }
+    ],
+    "featuresReviewed": 364,
+    "fieldDefinitionsReviewed": 1429,
+    "mappedSourceEntries": 435,
+    "sources": [
+      "ai-channel-distributor-special-pricing-recovery",
+      "ai-equipment-rental-billing-damage-recovery",
+      "ai-franchise-development-fee-territory-reconciliation",
+      "ai-franchise-royalty-ad-fund-audit",
+      "ai-gift-card-breakage-settlement-reconciliation",
+      "ai-loyalty-points-partner-settlement",
+      "ai-retail-returns-liquidation-recovery",
+      "ai-retail-slotting-scanback-allowance-recovery",
+      "ai-retail-trade-promotion-deduction-recovery",
+      "AIAuctionHousePlatform",
+      "AIEquipmentRentalPlatform",
+      "AIFranchisePerformanceBenchmarker",
+      "AIInventoryForecasting",
+      "AIPawnShopSecondhandDealer",
+      "AIVendingMachineNetworkManager",
+      "AIWholesaleDistributionOptimizer",
+      "multiLocationFranchise",
+      "pos"
+    ]
+  },
+  {
+    "id": "auto-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/auto-platform/README.md",
+        "sha256": "5067e40a84728611f9bd6a272b9e3489b966190283c76a274788405a794a611b"
+      },
+      {
+        "file": "/Volumes/external/projects/auto-platform/FEATURE_STATUS.md",
+        "sha256": "3f7f40e06349f54c44f3d21f0a78497e32d5974525622bfc98c2feaa88452baf"
+      },
+      {
+        "file": "/Volumes/external/projects/auto-platform/apps.txt",
+        "sha256": "77b72a0a0af565bfb26084785f5760d0014ab81c0e6ea6d00b92730b5ad6f88b"
+      },
+      {
+        "file": "/Volumes/external/projects/auto-platform/config/app.json",
+        "sha256": "590b5977f309ff83593b9888b1f30ad1b1ec855133d2462713b4f9ac70a921e0"
+      },
+      {
+        "file": "/Volumes/external/projects/auto-platform/config/modules.json",
+        "sha256": "ed20c287a99885cfdcc358ed520b7b7c4f8dede9a97d4310e3d434c6daea01e7"
+      },
+      {
+        "file": "/Volumes/external/projects/auto-platform/config/merged-features.json",
+        "sha256": "93cb48f388bccf1ea5f29ea1bb495404447ec7223b1aafa7156f2ac984579a18"
+      },
+      {
+        "file": "/Volumes/external/projects/auto-platform/reports/feature-map.json",
+        "sha256": "19b8a3fa12a6f8bef2549df87d4ed45dcf65249da8511c7ae4f516a3c995a9ab"
+      },
+      {
+        "file": "/Volumes/external/projects/auto-platform/reports/build.json",
+        "sha256": "b8d973f82b9eb99f2b01e2bd4cb312314a782a7ef52fbe37d1b3d1a501f52ddc"
+      },
+      {
+        "file": "/Volumes/external/projects/auto-platform/reports/verification.json",
+        "sha256": "dd061755d034772d521216953ceb4399e0a73313e033fee2c3dcc8cc5bccf8a5"
+      },
+      {
+        "file": "/Volumes/external/projects/auto-platform/reports/row-popup-verification.json",
+        "sha256": "b807873a61312b4f2f423976c46e99adecc73a43f250bf6758c94aac168cf9ac"
+      }
+    ],
+    "featuresReviewed": 146,
+    "fieldDefinitionsReviewed": 544,
+    "mappedSourceEntries": 171,
+    "sources": [
+      "ai-auto-dealer-warranty-reimbursement-recovery",
+      "AIAutoBodyCollisionEstimator",
+      "AICarDealershipSalesOptimizer",
+      "AICarWashChainOptimizer",
+      "AIpoweredinteractive",
+      "AIVehicleInspectionCertification",
+      "repairShop"
+    ]
+  },
+  {
+    "id": "hospitality-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/hospitality-platform/README.md",
+        "sha256": "a702ec1b9d41a3cc8a3575b1c4d979e60b98ed6810039936da5620d955225da6"
+      },
+      {
+        "file": "/Volumes/external/projects/hospitality-platform/FEATURE_STATUS.md",
+        "sha256": "8f51272e894adb906a65cd09161f4cb6c5d52aa60059e87255bad7210d40637a"
+      },
+      {
+        "file": "/Volumes/external/projects/hospitality-platform/apps.txt",
+        "sha256": "76caa802c435f673f24bb10caa530a32ce55c0bf7b66c0af7b13f4e52810fee8"
+      },
+      {
+        "file": "/Volumes/external/projects/hospitality-platform/config/app.json",
+        "sha256": "65714f89aecf498f3ad8e0e84d6e2b4be817b7d969d8821f9d22a69bc42e4df6"
+      },
+      {
+        "file": "/Volumes/external/projects/hospitality-platform/config/modules.json",
+        "sha256": "5ca37e36cdcec8e954f3eeacc12bca7f857ebe1ea2dc54c03a8459db282a147a"
+      },
+      {
+        "file": "/Volumes/external/projects/hospitality-platform/config/merged-features.json",
+        "sha256": "66d1dab3da8830a9db3e453ee3f8828cbda67424301ad46751ed760fec4f96d9"
+      },
+      {
+        "file": "/Volumes/external/projects/hospitality-platform/reports/feature-map.json",
+        "sha256": "894b35ed2bc8022b12c9f0b1ed1df1d6939c0c813c75ccd4f42b97473d5b5a1d"
+      },
+      {
+        "file": "/Volumes/external/projects/hospitality-platform/reports/build.json",
+        "sha256": "6d8febfbdab3c72c454a53ec77f60fb57d24cd4392b3b4449fda5c8c2273ea73"
+      },
+      {
+        "file": "/Volumes/external/projects/hospitality-platform/reports/verification.json",
+        "sha256": "375f59e0aeaff786c433a4be9051ed9f21c29ac76e9e36f2cdb7ee029d49a21b"
+      },
+      {
+        "file": "/Volumes/external/projects/hospitality-platform/reports/row-popup-verification.json",
+        "sha256": "6b78943f8a8a14f94f64dc53206aa3dfcfac48419b900a6a268a6a1e7092d7db"
+      }
+    ],
+    "featuresReviewed": 249,
+    "fieldDefinitionsReviewed": 927,
+    "mappedSourceEntries": 286,
+    "sources": [
+      "ai-hotel-brand-franchise-fee-audit",
+      "ai-hotel-group-corporate-rate-leakage-recovery",
+      "ai-hotel-ota-commission-revenue-recovery",
+      "AIHotelRevenueManager",
+      "AIMarineBoatDockManager",
+      "AIRVParkCampgroundManager",
+      "AISkiResortOperationsManager",
+      "AITravelItineraryPlanner"
+    ]
+  },
+  {
+    "id": "product-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/product-platform/README.md",
+        "sha256": "b19791539f4b50a296796c1f4028d17dcc6d8e40be35b06fd7a3cb4ee45d85ad"
+      },
+      {
+        "file": "/Volumes/external/projects/product-platform/FEATURE_STATUS.md",
+        "sha256": "f971f0474d7fd042ffccb212c33c670da59ab3f0638b7f9afb7ce4e2a1a99b73"
+      },
+      {
+        "file": "/Volumes/external/projects/product-platform/apps.txt",
+        "sha256": "adfe5407b7ee9dbc40a830f869fce02823e51e4c1e1953171d95d00ec6d60d16"
+      },
+      {
+        "file": "/Volumes/external/projects/product-platform/config/app.json",
+        "sha256": "a9c21aa2015b8a945bf1a634ddf837406d141f8c5269dfaba0da81e1ad8f6f51"
+      },
+      {
+        "file": "/Volumes/external/projects/product-platform/config/modules.json",
+        "sha256": "f07c383f35e1f969c2e9761dbfeb9c5893a38575802c2e1bb8b53c5e405f66c4"
+      },
+      {
+        "file": "/Volumes/external/projects/product-platform/config/merged-features.json",
+        "sha256": "52764901b00c99a10ee2c779accf9ff217b71a34ac25bb2bc59296a3b0825f89"
+      },
+      {
+        "file": "/Volumes/external/projects/product-platform/reports/feature-map.json",
+        "sha256": "0f1beade4bd604990bf31db7cd20785408092bfe6cc99fcc4274bdd9aea518b9"
+      },
+      {
+        "file": "/Volumes/external/projects/product-platform/reports/build.json",
+        "sha256": "c59515b29b13eb59f07f2c60e84b24d40a9bdbed0bf41ebb7d2c5c674b4cd2fd"
+      },
+      {
+        "file": "/Volumes/external/projects/product-platform/reports/verification.json",
+        "sha256": "3fa8f1bad2f4febd67bf3589087c0e0f5bbdd3017691b1bacf924d803fe3f6ab"
+      },
+      {
+        "file": "/Volumes/external/projects/product-platform/reports/row-popup-verification.json",
+        "sha256": "d6ccbd9d30701326d53c775aafe361d8cf2fdda8ff5854d2bf4c0a7512ef74f7"
+      }
+    ],
+    "featuresReviewed": 190,
+    "fieldDefinitionsReviewed": 685,
+    "mappedSourceEntries": 218,
+    "sources": [
+      "ai-engineering-productivity-command-center",
+      "ai-product-development-studio",
+      "AIProductivityHub",
+      "AIProductManagementCopilot",
+      "AIProductManagementCopilot_v2",
+      "AIProductManagementCopilot_v3",
+      "AIProjectManager",
+      "AIWorkflowCapture",
+      "dynamic-software-interfaces",
+      "saas-challengers",
+      "software-for-agents"
+    ]
+  },
+  {
+    "id": "personal-legacy-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/personal-legacy-platform/README.md",
+        "sha256": "3896702760ca2ad1934775a15f4799d44b7d49989702aaf9e706296e11514f26"
+      },
+      {
+        "file": "/Volumes/external/projects/personal-legacy-platform/FEATURE_STATUS.md",
+        "sha256": "c2860d5ee576b5b81643d0db1d5b888fe04810577a4b3420bd24a159222512f1"
+      },
+      {
+        "file": "/Volumes/external/projects/personal-legacy-platform/apps.txt",
+        "sha256": "3c4d3f7af172e710758c48fa79cd3485aea8295c06f012998919b051de0bb9ad"
+      },
+      {
+        "file": "/Volumes/external/projects/personal-legacy-platform/config/app.json",
+        "sha256": "6a18bf251cc6de4f3c5d80afd0193a43d01e66797b16bcef99c04a7d809d0cf5"
+      },
+      {
+        "file": "/Volumes/external/projects/personal-legacy-platform/config/modules.json",
+        "sha256": "6b10442cbb59c527f385f97b95831bd0424d13dd773e623b8a8d35d0357d14d4"
+      },
+      {
+        "file": "/Volumes/external/projects/personal-legacy-platform/config/merged-features.json",
+        "sha256": "08691bc7c0f10fe9dda8fa3918a5be2dea2ba8228009cc1643ac28b28e43f3a8"
+      },
+      {
+        "file": "/Volumes/external/projects/personal-legacy-platform/reports/feature-map.json",
+        "sha256": "66d8aacc1785b3de5c17fa0e85a4338d15a4885c2411a307948e2369e78a7967"
+      },
+      {
+        "file": "/Volumes/external/projects/personal-legacy-platform/reports/build.json",
+        "sha256": "124b42b0efbccbc9cc8d8ef40cb0c5019b421f8065c9e67c2be15ff054e0f5d8"
+      },
+      {
+        "file": "/Volumes/external/projects/personal-legacy-platform/reports/verification.json",
+        "sha256": "a4158243f94abeefd8470105f43c51f785048deb172c647578bc7079f5b9eef9"
+      },
+      {
+        "file": "/Volumes/external/projects/personal-legacy-platform/reports/row-popup-verification.json",
+        "sha256": "d2533bd993a4176bb3715e093dc921c2c93aeed8046819ff05c7447a66493b1d"
+      }
+    ],
+    "featuresReviewed": 113,
+    "fieldDefinitionsReviewed": 335,
+    "mappedSourceEntries": 107,
+    "sources": [
+      "AIDreamJournalAnalyzer",
+      "AIGenealogyDNAInsightAnalyzer",
+      "AIGenealogyResearcher",
+      "AIMemoryBookCreator"
+    ]
+  },
+  {
+    "id": "business-operations-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/business-operations-platform/README.md",
+        "sha256": "7d8f8d3b7ccd98ff6a5eaf45abf7ff4037e4efe59f59e96d1526a807ec2752a4"
+      },
+      {
+        "file": "/Volumes/external/projects/business-operations-platform/FEATURE_STATUS.md",
+        "sha256": "ee1aa0d67fdac812c04386baeabda77d4a9d941829c41ef8e5358bc7275c70e4"
+      },
+      {
+        "file": "/Volumes/external/projects/business-operations-platform/apps.txt",
+        "sha256": "e8bec8ee7ac7aa97a539d6695dc1e375ac9dc40b8d2e38bbc15a1adc10865190"
+      },
+      {
+        "file": "/Volumes/external/projects/business-operations-platform/config/app.json",
+        "sha256": "6c3ef843db13283bb4c36ed2081764f6283759a023e097650cf13057e7b68b11"
+      },
+      {
+        "file": "/Volumes/external/projects/business-operations-platform/config/modules.json",
+        "sha256": "519cf81d838dfb6f7cd62bc9b0af99e14891c798115c0f7ab421236774f4d645"
+      },
+      {
+        "file": "/Volumes/external/projects/business-operations-platform/config/merged-features.json",
+        "sha256": "5c6049baa4a7504290e8be3b999ff461352561105ec9fd73f4d245956e09b8a6"
+      },
+      {
+        "file": "/Volumes/external/projects/business-operations-platform/reports/feature-map.json",
+        "sha256": "3c6f19530180b29a672419bfdad3e7e455d85bea9e555fd04cfa4fff52e1d88a"
+      },
+      {
+        "file": "/Volumes/external/projects/business-operations-platform/reports/build.json",
+        "sha256": "524e477ceea4e8c9f9df900666d5b6bc69a0f0f262aed345f3ee0506281dbede"
+      },
+      {
+        "file": "/Volumes/external/projects/business-operations-platform/reports/verification.json",
+        "sha256": "4e8ef7dfc8d81499d930acab53cda0f8947e798f05b8265cc5ce94418ec51677"
+      },
+      {
+        "file": "/Volumes/external/projects/business-operations-platform/reports/row-popup-verification.json",
+        "sha256": "90df458511aac0d7d6f05fe5b0d93013ebbdc43f1945b28a4772064661b4ef60"
+      }
+    ],
+    "featuresReviewed": 159,
+    "fieldDefinitionsReviewed": 569,
+    "mappedSourceEntries": 188,
+    "sources": [
+      "ai-operating-system-for-companies",
+      "ai-operations-chief-of-staff",
+      "ai-organizational-velocity-analytics",
+      "ai_business_business_automation",
+      "AiBusinessAutomation",
+      "ameritai",
+      "company-brain",
+      "lindy-web-replica-react",
+      "sap"
+    ]
+  },
+  {
+    "id": "workforce-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/workforce-platform/README.md",
+        "sha256": "d53fe73bed1888d5701887994bc79d787639420ad788fbb734642abeeae43ec3"
+      },
+      {
+        "file": "/Volumes/external/projects/workforce-platform/FEATURE_STATUS.md",
+        "sha256": "ca7cb002c33f5dbaf07e011c617ed47030ef146859734cb8098205eaabaeea2c"
+      },
+      {
+        "file": "/Volumes/external/projects/workforce-platform/apps.txt",
+        "sha256": "4616f41c70b4589b237888ce4c0220ce99298a9feda5bf1e8f4f7928e2f78c4f"
+      },
+      {
+        "file": "/Volumes/external/projects/workforce-platform/config/app.json",
+        "sha256": "d8f9e29306478e57c624f7fc377bd8f36c9eaac49afb040cfa55ef1544c4b2c3"
+      },
+      {
+        "file": "/Volumes/external/projects/workforce-platform/config/modules.json",
+        "sha256": "6e60ba207a63de32a9b13f29681563b8904094b8550ffac20c937504a04d63d5"
+      },
+      {
+        "file": "/Volumes/external/projects/workforce-platform/config/merged-features.json",
+        "sha256": "d80d8c879915d75287d97ef6ab8f4b94ae0869d6897901949c26cd5577c35ddb"
+      },
+      {
+        "file": "/Volumes/external/projects/workforce-platform/reports/feature-map.json",
+        "sha256": "587ac446fb933a5cf9b4ed286b5a7a2a83acb3e5365796ed4c8e712f505ff968"
+      },
+      {
+        "file": "/Volumes/external/projects/workforce-platform/reports/build.json",
+        "sha256": "e6784e7d5eccbcb5f10b6967d146a4b7ef7ff6c2444cd4eca4d91ac74f514f79"
+      },
+      {
+        "file": "/Volumes/external/projects/workforce-platform/reports/verification.json",
+        "sha256": "17cd524a80046b481c8b2ee25280c8b1a6066dad5ee56f8da848525efac16621"
+      },
+      {
+        "file": "/Volumes/external/projects/workforce-platform/reports/row-popup-verification.json",
+        "sha256": "a0f63671dec81775e8a513ea05077e601f55f0a700060616c58059231b5ab772"
+      }
+    ],
+    "featuresReviewed": 309,
+    "fieldDefinitionsReviewed": 1190,
+    "mappedSourceEntries": 332,
+    "sources": [
+      "ai-employee-benefits-premium-eligibility-reconciliation",
+      "ai-job-exposure-redeployment-intelligence",
+      "ai-security-guard-overtime-invoice-audit",
+      "ai-staffing-agency-bill-rate-audit",
+      "ai-workforce-transformation-planner",
+      "AIDEIAnalyticsReporting",
+      "AIEmployeeBenefitsOptimizer",
+      "AIEmployeeSentimentAnalyzer",
+      "AIOnboardingFlowCreator",
+      "AiRecruiterScreener",
+      "AiResumeJobApplication",
+      "AIWorkforceSchedulingShiftPlanner"
+    ]
+  },
+  {
+    "id": "childcare-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/childcare-platform/README.md",
+        "sha256": "6c03fe99ef808fc49861159adff21779aa047c707ffaef82a5df95a788c832c8"
+      },
+      {
+        "file": "/Volumes/external/projects/childcare-platform/FEATURE_STATUS.md",
+        "sha256": "4a8a56587ed13346f032ebac9c48d249a2bca24ddfc25bbf052ea7519014a5b5"
+      },
+      {
+        "file": "/Volumes/external/projects/childcare-platform/apps.txt",
+        "sha256": "7cd77fa3d39aef0bb254f11a72658954176f324bf671f9ab6fa88669d47f49f0"
+      },
+      {
+        "file": "/Volumes/external/projects/childcare-platform/config/app.json",
+        "sha256": "47a732fc8879ca9c968b25f1e345dd688a04a1cfa896a1b75f7fd0ddccb608e3"
+      },
+      {
+        "file": "/Volumes/external/projects/childcare-platform/config/modules.json",
+        "sha256": "289b69f2440509c4264f8b976ced51d5e42dbdb301d477d80d3dc941149e96d6"
+      },
+      {
+        "file": "/Volumes/external/projects/childcare-platform/config/merged-features.json",
+        "sha256": "4020e87bdeb5881d4fcbaa3e4a4d341d639b5dd099dc75299e97576c82ab766e"
+      },
+      {
+        "file": "/Volumes/external/projects/childcare-platform/reports/feature-map.json",
+        "sha256": "0d6d3843be5bc2376e0ead37c168baf775427f22a3822f6e4f2273e604c03f55"
+      },
+      {
+        "file": "/Volumes/external/projects/childcare-platform/reports/build.json",
+        "sha256": "8038a8ee7d5ed2ea7e6468b9b363218bf36a5b460da6712928ca23917d68c714"
+      },
+      {
+        "file": "/Volumes/external/projects/childcare-platform/reports/verification.json",
+        "sha256": "90c3b58f69a5a08f5b0b849bdbcc8203a37bffaf092dd6abf18baf4e6be89551"
+      },
+      {
+        "file": "/Volumes/external/projects/childcare-platform/reports/row-popup-verification.json",
+        "sha256": "7da7660f96847d65395d326826e9dec867f1e321b41fb929fd461e7c4da30196"
+      }
+    ],
+    "featuresReviewed": 83,
+    "fieldDefinitionsReviewed": 306,
+    "mappedSourceEntries": 74,
+    "sources": [
+      "AIChildcareParentingAssistant",
+      "AIDaycareOperationsPlatform"
+    ]
+  },
+  {
+    "id": "wellness-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/wellness-platform/README.md",
+        "sha256": "91a845f7b1ea5830e43480d7e1fb24a59df07c231702904f9d615fcc48945ce3"
+      },
+      {
+        "file": "/Volumes/external/projects/wellness-platform/FEATURE_STATUS.md",
+        "sha256": "2bf82e740a92767035d903c71d08bd12c93705196e23489832e0a263702a36e9"
+      },
+      {
+        "file": "/Volumes/external/projects/wellness-platform/apps.txt",
+        "sha256": "e4fdf25bbc37c7d797b181790d825457cba575c9a38a1b838cbf3eb1fdfd2e40"
+      },
+      {
+        "file": "/Volumes/external/projects/wellness-platform/config/app.json",
+        "sha256": "ede2efdc7c38c51b4ae3d574853f00b6070b46e3b309f39b8d8036ec2d169886"
+      },
+      {
+        "file": "/Volumes/external/projects/wellness-platform/config/modules.json",
+        "sha256": "3d9f9910cf44782aefe823f3f5c50903c407ffd45f937bd676e9a40a71049e2e"
+      },
+      {
+        "file": "/Volumes/external/projects/wellness-platform/config/merged-features.json",
+        "sha256": "25a97a04e7b7ec919e8b1ecb29c2d7ab9772ee2b0770336b22d5fc918cf58f7a"
+      },
+      {
+        "file": "/Volumes/external/projects/wellness-platform/reports/feature-map.json",
+        "sha256": "92ca7b524446d3003b4d020765253c1a77361be27470e280cba3b42bd0ecb4c4"
+      },
+      {
+        "file": "/Volumes/external/projects/wellness-platform/reports/build.json",
+        "sha256": "a3aad4dfbe8ea6b998e9805c90c1052ea36e9f435222bedd388cbef57a35ca4a"
+      },
+      {
+        "file": "/Volumes/external/projects/wellness-platform/reports/verification.json",
+        "sha256": "270dba705ff5923463ab335ee5a2c87e6dad7731724d9a3cd139626323ae447c"
+      },
+      {
+        "file": "/Volumes/external/projects/wellness-platform/reports/row-popup-verification.json",
+        "sha256": "012f85798afbde313177766e7650357c6fa511b308e3d9ff6ff0c7a5e5f78d04"
+      }
+    ],
+    "featuresReviewed": 121,
+    "fieldDefinitionsReviewed": 357,
+    "mappedSourceEntries": 129,
+    "sources": [
+      "AIHealthcareCompanion",
+      "AIMentalHealthCompanion",
+      "AINutritionDietitianAssistant",
+      "AiRecipeMealPlanner",
+      "coaching",
+      "coaching-wellness",
+      "recipemanager"
+    ]
+  },
+  {
+    "id": "agriculture-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/agriculture-platform/README.md",
+        "sha256": "4c4824f0f6c2ea8bf35b5ca26900cfb00111a4dfa782243f67aa2a95f837151f"
+      },
+      {
+        "file": "/Volumes/external/projects/agriculture-platform/FEATURE_STATUS.md",
+        "sha256": "f60416842b73cc536266d968f90f07755266664b596e6de732752eb24f57862c"
+      },
+      {
+        "file": "/Volumes/external/projects/agriculture-platform/apps.txt",
+        "sha256": "13cc54fad4c1959b4cb75fa1c927bf10a9461c54baa5508bed9ff7078315afb7"
+      },
+      {
+        "file": "/Volumes/external/projects/agriculture-platform/config/app.json",
+        "sha256": "128fccdcfa6d701599f9cbb99ef06e247a32e196fc92f9f554a80d6267b33fb3"
+      },
+      {
+        "file": "/Volumes/external/projects/agriculture-platform/config/modules.json",
+        "sha256": "ffec2eb4e861778034c454da2e9aa597175c293667145809d5f56ddb770ecab2"
+      },
+      {
+        "file": "/Volumes/external/projects/agriculture-platform/config/merged-features.json",
+        "sha256": "af14d7034c7b8d836dced7cd95a80ab7ae339dd78aec38602f192929a5f360e6"
+      },
+      {
+        "file": "/Volumes/external/projects/agriculture-platform/reports/feature-map.json",
+        "sha256": "352a1eee08a1371b6b3d9d00c3c4948d8dcec81e838082eaaf3428e52ad3f740"
+      },
+      {
+        "file": "/Volumes/external/projects/agriculture-platform/reports/build.json",
+        "sha256": "6c9ba1ef434f75298b97a8685cea3dcc4d294910406abf12b3c262b2b7309b9a"
+      },
+      {
+        "file": "/Volumes/external/projects/agriculture-platform/reports/verification.json",
+        "sha256": "cb44dc53c1954bf093f429f3c005876ec3a414f35892f884a2c5b93efc0f54db"
+      },
+      {
+        "file": "/Volumes/external/projects/agriculture-platform/reports/row-popup-verification.json",
+        "sha256": "8d96601fd78314f1427f5cd2292ae917b53bbb71bc4280fd5261197707be6772"
+      }
+    ],
+    "featuresReviewed": 338,
+    "fieldDefinitionsReviewed": 1384,
+    "mappedSourceEntries": 390,
+    "sources": [
+      "ai-agricultural-input-rebate-recovery",
+      "ai-commercial-fishing-quota-ledger",
+      "ai-dairy-milk-component-payment-audit",
+      "ai-grain-elevator-merchandising-settlement",
+      "ai-h2a-farm-labor-compliance",
+      "ai-low-pesticide-agriculture",
+      "ai-organic-certification-evidence",
+      "ai-produce-packhouse-traceability",
+      "ai-timber-stumpage-royalty-audit",
+      "AIAgricultureAssistant",
+      "AIAquacultureFishFarm",
+      "AIBeekeepingApiary",
+      "AICannabisCultivationCompliance",
+      "AICropDiseasePestDetection",
+      "AIFisheriesAquacultureManager",
+      "AIForestryTimberManagement",
+      "AILivestockHealthMonitoring",
+      "AIYieldPredictionMarketIntel"
+    ]
+  },
+  {
+    "id": "ai-data-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/ai-data-platform/README.md",
+        "sha256": "1024bb494bbfee05e9f4d0cbbac725eb9cf308f7a7675b4e8a88f8dfa89ad5ff"
+      },
+      {
+        "file": "/Volumes/external/projects/ai-data-platform/FEATURE_STATUS.md",
+        "sha256": "fb0bc1f962e68f4bb11d3a5a5ab77cd30af97d3903b3a3c3d2e65984f84afffc"
+      },
+      {
+        "file": "/Volumes/external/projects/ai-data-platform/apps.txt",
+        "sha256": "ad29eca41aa79575c3c1227b8cc95b886ad3081c67de390ed4b9ac5dc2607459"
+      },
+      {
+        "file": "/Volumes/external/projects/ai-data-platform/config/app.json",
+        "sha256": "03d43d9a537a9136ac61a7bd43f2a32cfcfa75302c1f17e04128beddfb560399"
+      },
+      {
+        "file": "/Volumes/external/projects/ai-data-platform/config/modules.json",
+        "sha256": "4c0e53b0d33f46c8337678b918b393d494d299f381de6537a93f81c9e1549b8a"
+      },
+      {
+        "file": "/Volumes/external/projects/ai-data-platform/config/merged-features.json",
+        "sha256": "21a9eb06bb80272fc3caf5afb282b738c74839bfeb5facea13076f900ca04383"
+      },
+      {
+        "file": "/Volumes/external/projects/ai-data-platform/reports/feature-map.json",
+        "sha256": "587e60ceb98b483787172d8b137eb222b7d0adcad0f354fb2ff0877bf58d8552"
+      },
+      {
+        "file": "/Volumes/external/projects/ai-data-platform/reports/build.json",
+        "sha256": "da5a1a2dad55b63435d31608e8d87303495d1dc04912df3f144990193f6b2564"
+      },
+      {
+        "file": "/Volumes/external/projects/ai-data-platform/reports/verification.json",
+        "sha256": "fe6c2dda2be877051b445f09b05af1a7d0c771f1dea9e42c2002b8f251f93eee"
+      },
+      {
+        "file": "/Volumes/external/projects/ai-data-platform/reports/row-popup-verification.json",
+        "sha256": "207d6ca3d99a35caad07a12b268f46828254b7ff260e00fe7b00ed68996ec4ff"
+      }
+    ],
+    "featuresReviewed": 449,
+    "fieldDefinitionsReviewed": 1384,
+    "mappedSourceEntries": 529,
+    "sources": [
+      "ai-enterprise-agent-testing-sandbox",
+      "AIAgentMemoryStore",
+      "AIAgentObservabilityPlus",
+      "AIassistant",
+      "AiDataAnalyst",
+      "AIDataLabelingPlatform",
+      "AIFineTuningPlatform",
+      "AILocalFirstAgent",
+      "AIMergededuplicate",
+      "AIModelCostOrchestrator",
+      "AIMultiAgentSimulationPlatform",
+      "AIobservability",
+      "AIondistributedcloud",
+      "AIPersonalContextMCP",
+      "AIPromptEngineeringStudio",
+      "AIRAGPlatform",
+      "AISyntheticDataGenerator",
+      "multi_agents",
+      "SAMProjectRAGStudio",
+      "scale",
+      "sonic-search-replica"
+    ]
+  },
+  {
+    "id": "legal-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/legal-platform/README.md",
+        "sha256": "497fe52d1b8c6bb008fe2f267faff2e9a219c42b4b8797b19e99d6584157cbb2"
+      },
+      {
+        "file": "/Volumes/external/projects/legal-platform/FEATURE_STATUS.md",
+        "sha256": "3abd33088d23432a1cfd48571766ef1ce5e457a9704545ee450458d7d165a491"
+      },
+      {
+        "file": "/Volumes/external/projects/legal-platform/apps.txt",
+        "sha256": "4b65018ceb2895b63995c4d0c2f086f2152a977c3596860f49011e37b04f0056"
+      },
+      {
+        "file": "/Volumes/external/projects/legal-platform/config/app.json",
+        "sha256": "90c6aa6d9b968ad0963e5b5bc6f35cf099703f325153064e2604bc95a98c8c46"
+      },
+      {
+        "file": "/Volumes/external/projects/legal-platform/config/modules.json",
+        "sha256": "9302684a4d8a6ae5265a5f8e3d1e41b871989fc70a155d85c9d3e044cc894c5c"
+      },
+      {
+        "file": "/Volumes/external/projects/legal-platform/config/merged-features.json",
+        "sha256": "65d6e51a6e207eee394635e04c1068d9dfdba834e8befc0d537fd6095ba74091"
+      },
+      {
+        "file": "/Volumes/external/projects/legal-platform/reports/feature-map.json",
+        "sha256": "b3ae92d46da856c60eac23e5a9cc2c2cabe245eef19c12c3cbaf6579bab95d42"
+      },
+      {
+        "file": "/Volumes/external/projects/legal-platform/reports/build.json",
+        "sha256": "3cb79a3c75e1e7125f2a4fb064bbea8af41b699bf447edbb3ff3b84858209c7b"
+      },
+      {
+        "file": "/Volumes/external/projects/legal-platform/reports/verification.json",
+        "sha256": "9a972b4ba90c8053cf9044458fd8ce6aa7acd097e521a39991975d510c8d9da7"
+      },
+      {
+        "file": "/Volumes/external/projects/legal-platform/reports/row-popup-verification.json",
+        "sha256": "f3960054a366ff4aeef92126d44fdd3703224ceac5f8f9dd5c6068e658d736b0"
+      }
+    ],
+    "featuresReviewed": 575,
+    "fieldDefinitionsReviewed": 2119,
+    "mappedSourceEntries": 781,
+    "sources": [
+      "ai-legal-settlement-fund-distribution-reconciliation",
+      "ai-outside-counsel-legal-invoice-audit",
+      "ai-patent-license-royalty-audit",
+      "AIBailBondRiskAssessor",
+      "AIConsumerComplaintResolutionAgent",
+      "AIContractLifecycleManager",
+      "AIContractNegotiationAssistant",
+      "AICourtReportingLegalTranscription",
+      "AIDigitalcasemanager",
+      "AIDivorceFamilyLawNavigator",
+      "AIeDiscoverySystem",
+      "AIEstatePlanningDigitalLegacy",
+      "AIImmigrationCaseManager",
+      "AINotaryDocumentVerification",
+      "AIPatentResearchFiling",
+      "AIPublicRecordsSearchAgent",
+      "AIRefugeeAsylumCaseManager",
+      "AISmallClaimsCourtGuide",
+      "AISportsAgentContractAnalyzer",
+      "AITenantRightsAdvisor",
+      "AITrademarkBrandProtectionMonitor",
+      "firmflow-ai",
+      "legalForms",
+      "livomobile",
+      "smallLawFirm",
+      "smallLawFirm_salesforce"
+    ]
+  },
+  {
+    "id": "games-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/games-platform/README.md",
+        "sha256": "aa3b590387b72f5a1d2f8c36db0b14dc221576d0fd9d7039d561b741a028fdd5"
+      },
+      {
+        "file": "/Volumes/external/projects/games-platform/FEATURE_STATUS.md",
+        "sha256": "04197bbaab252a19a6c43e073a0b5535ad549efbca8e2ead5ea4416a75eca750"
+      },
+      {
+        "file": "/Volumes/external/projects/games-platform/apps.txt",
+        "sha256": "35b1ca2742722da049030adead304ddac42d2230ad54abd41c4dc4d0d606bebc"
+      },
+      {
+        "file": "/Volumes/external/projects/games-platform/config/app.json",
+        "sha256": "d35bad82b9960c455574dc70ab4944c5a769f6e91a3adfe508369d478833d4ea"
+      },
+      {
+        "file": "/Volumes/external/projects/games-platform/config/modules.json",
+        "sha256": "41a73d27b0c9fae0b4c65d3120c694379bde2e480cbb9cbe511aa8f7a49cc1a5"
+      },
+      {
+        "file": "/Volumes/external/projects/games-platform/config/merged-features.json",
+        "sha256": "42edb077f4340c487c4d6d98d999aa21ddb1431ce82aba6698b43582ddc39211"
+      },
+      {
+        "file": "/Volumes/external/projects/games-platform/reports/feature-map.json",
+        "sha256": "9e42c44615d7f9e4b77f5bf38fd1b5aae857d04a403cfa38db42b043d8374b90"
+      },
+      {
+        "file": "/Volumes/external/projects/games-platform/reports/build.json",
+        "sha256": "fd90e94d3515a3450cdba33a5624cee6f88de37c5ff685cd31f56d3061fc93ab"
+      },
+      {
+        "file": "/Volumes/external/projects/games-platform/reports/verification.json",
+        "sha256": "00f3e14cfff1239cef5ce4ff704acfffbf564216864d4dca0c4e4dc386340585"
+      },
+      {
+        "file": "/Volumes/external/projects/games-platform/reports/row-popup-verification.json",
+        "sha256": "381005e7d9c16fb0e92c759d84750d4ff91bfc533bc57e36c3a8ee1e23ba8667"
+      }
+    ],
+    "featuresReviewed": 90,
+    "fieldDefinitionsReviewed": 358,
+    "mappedSourceEntries": 78,
+    "sources": [
+      "AIBoardGameTTRPGGameMaster",
+      "AIEsportsPerformanceAnalyzer",
+      "AIGameAssetGenerator",
+      "AIGameBalancingPlaytestingAgent",
+      "tetris",
+      "tetris-game"
+    ]
+  },
+  {
+    "id": "tax-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/tax-platform/README.md",
+        "sha256": "afdc18f93b03dc2a5e7c8f08311d2b975b0d4730dc850131b4c88c9e7eb9b862"
+      },
+      {
+        "file": "/Volumes/external/projects/tax-platform/FEATURE_STATUS.md",
+        "sha256": "6f321197a8b45d5d717cb99787815e72f201eac0968fdce3047dd61a9cce8046"
+      },
+      {
+        "file": "/Volumes/external/projects/tax-platform/apps.txt",
+        "sha256": "dcfefa53e6a54e7edfd94aa9e4dda8f7be42d7a5c9f15dc944614f56b208d162"
+      },
+      {
+        "file": "/Volumes/external/projects/tax-platform/config/app.json",
+        "sha256": "ea616dd222e7fa5985370e2b450dc3e2cff88bc8b7842d3d9dba5157a255726f"
+      },
+      {
+        "file": "/Volumes/external/projects/tax-platform/config/modules.json",
+        "sha256": "75bdb8e3a063b63ac52d338260cf3b2cbceb9ba2d6a3a4ace87e004e37770e1d"
+      },
+      {
+        "file": "/Volumes/external/projects/tax-platform/config/merged-features.json",
+        "sha256": "689e6672db24bf70c556dafcf6114281409fabe04af72941ba1e1bae473f6278"
+      },
+      {
+        "file": "/Volumes/external/projects/tax-platform/reports/feature-map.json",
+        "sha256": "849d368cf5ce8a481ee9cf93daf2dd68daecdf2d070d237e254ff24a057c3e88"
+      },
+      {
+        "file": "/Volumes/external/projects/tax-platform/reports/build.json",
+        "sha256": "78ad57f22d740ed1c1706a869dab534ce7248455856bed8b895ce700b1776968"
+      },
+      {
+        "file": "/Volumes/external/projects/tax-platform/reports/verification.json",
+        "sha256": "8f3a4916a55c425d156d3068fde25ce783261246c55085b795c480c3622043dc"
+      },
+      {
+        "file": "/Volumes/external/projects/tax-platform/reports/row-popup-verification.json",
+        "sha256": "c955090f6e41c9ca237174a2af8744354648f1f7d92d0bf9f4b3b5a1ea6e4883"
+      }
+    ],
+    "featuresReviewed": 391,
+    "fieldDefinitionsReviewed": 2082,
+    "mappedSourceEntries": 456,
+    "sources": [
+      "ai-alcohol-excise-tax-drawback",
+      "ai-app-store-commission-tax-settlement",
+      "ai-asc-740-tax-provision",
+      "ai-business-personal-property-tax-recovery",
+      "ai-cross-border-vat-refund-recovery",
+      "ai-film-production-tax-incentive-recovery",
+      "ai-fixed-asset-depreciation-tax-recovery",
+      "ai-fleet-fuel-excise-tax-refund",
+      "ai-global-e-invoicing-compliance",
+      "ai-payroll-tax-credit-recovery",
+      "ai-payroll-tax-notice-suta-rate-audit",
+      "ai-pension-benefit-overpayment-prevention",
+      "ai-pillar-two-global-minimum-tax",
+      "ai-property-tax-appeal-evidence",
+      "ai-rd-tax-credit-174a-evidence-workbench",
+      "ai-rd-tax-credit-section-174a-workbench",
+      "ai-retirement-plan-forfeiture-allocation-compliance",
+      "ai-sales-tax-exemption-certificate-control",
+      "ai-sales-use-tax-reverse-audit-refund",
+      "ai-section-179d-commercial-building-tax-deduction",
+      "ai-state-tax-apportionment-nol-recovery",
+      "ai-telecom-tax-surcharge-audit",
+      "ai-unclaimed-property-escheat-compliance",
+      "ai-withholding-tax-reclaim",
+      "AICryptocurrencyTaxCalculator",
+      "AiTaxPrep",
+      "transfer-pricing-tax-documentation-suite",
+      "vat-sales-tax-compliance-suite"
+    ]
+  },
+  {
+    "id": "scientific-research-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/scientific-research-platform/README.md",
+        "sha256": "8056e556416595459fe94f3e13b723a38ea68c0c3c436fc429a0e07a018916c5"
+      },
+      {
+        "file": "/Volumes/external/projects/scientific-research-platform/FEATURE_STATUS.md",
+        "sha256": "4d9d6425b33d33b88209d95f9f8e928fbc50407873519db9cfe123ca0e9f5c70"
+      },
+      {
+        "file": "/Volumes/external/projects/scientific-research-platform/apps.txt",
+        "sha256": "e57185df6229ece336e8dd78f15457e15f189ab8e0273c45c92f7657795d80e7"
+      },
+      {
+        "file": "/Volumes/external/projects/scientific-research-platform/config/app.json",
+        "sha256": "ecb00be9a12b5d3199e800953519e89c2f32de9ffada1ac73da70484590699be"
+      },
+      {
+        "file": "/Volumes/external/projects/scientific-research-platform/config/modules.json",
+        "sha256": "49677d259b71f4240de2783e178690f12011b82ad11e270118cb380abc0c38dc"
+      },
+      {
+        "file": "/Volumes/external/projects/scientific-research-platform/config/merged-features.json",
+        "sha256": "2c214f2ebf611a4459ec92a0b866461b1d8b2b55536f4f5f959d3ec67da2a9de"
+      },
+      {
+        "file": "/Volumes/external/projects/scientific-research-platform/reports/feature-map.json",
+        "sha256": "be6ca9dd18bcd50dbe54b12d879707642d9b993c0cc0eec0b097932ada00a636"
+      },
+      {
+        "file": "/Volumes/external/projects/scientific-research-platform/reports/build.json",
+        "sha256": "902c969fe9ca4d29f9842a3579cb4b41abde5657bb5891ecb5e55e0ef3c9c196"
+      },
+      {
+        "file": "/Volumes/external/projects/scientific-research-platform/reports/verification.json",
+        "sha256": "a4fcb98206302c3404f5b20e919cde0fda293a96b75ff5642a76e9afa761749a"
+      },
+      {
+        "file": "/Volumes/external/projects/scientific-research-platform/reports/row-popup-verification.json",
+        "sha256": "5a0648d47f39759b242b47251bed630c037b5699409494d89bfbddae8d3fedc8"
+      }
+    ],
+    "featuresReviewed": 75,
+    "fieldDefinitionsReviewed": 321,
+    "mappedSourceEntries": 94,
+    "sources": [
+      "ai-native-discovery-engines",
+      "AIQuantumComputingAssistant",
+      "AIResearchLiteratureAgent"
+    ]
+  },
+  {
+    "id": "logistics-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/logistics-platform/README.md",
+        "sha256": "59fe0ceb2abe29bf534562871ae18897cebff7b38a6fa5d98555b8eb630f4645"
+      },
+      {
+        "file": "/Volumes/external/projects/logistics-platform/FEATURE_STATUS.md",
+        "sha256": "059590dea5ba7f753a953b241fd4b0319308ba43f0c56412cdbde3ffc988f469"
+      },
+      {
+        "file": "/Volumes/external/projects/logistics-platform/apps.txt",
+        "sha256": "03159124a34eb40c8b79eceddacf45e6974e901c2d54f6bb306ce328aa09bb84"
+      },
+      {
+        "file": "/Volumes/external/projects/logistics-platform/config/app.json",
+        "sha256": "16d0ee460de93d92e695f27f994f548956d364cfe60da59789dc66f5f3124438"
+      },
+      {
+        "file": "/Volumes/external/projects/logistics-platform/config/modules.json",
+        "sha256": "8a66a7260ccb2f14a430fac40d2569be61d55c35b327655f46de3b176cc37b18"
+      },
+      {
+        "file": "/Volumes/external/projects/logistics-platform/config/merged-features.json",
+        "sha256": "839dfe2c394ddf1d2f44079af00051f1ee2bd1410d6ce1bc61c8c86597078f05"
+      },
+      {
+        "file": "/Volumes/external/projects/logistics-platform/reports/feature-map.json",
+        "sha256": "b11168afb3ab75fca3888b3da8b17ceea3fd2840988cfe4c3f6dccb9398aee8a"
+      },
+      {
+        "file": "/Volumes/external/projects/logistics-platform/reports/build.json",
+        "sha256": "f877913248da8b1b12271527184c0442a0f6641a4147604ba94bfd5e8dd5756d"
+      },
+      {
+        "file": "/Volumes/external/projects/logistics-platform/reports/verification.json",
+        "sha256": "5f7692247527847e24735f219d82afb22fbc0e6b4aedb3bf204c0df29306efbc"
+      },
+      {
+        "file": "/Volumes/external/projects/logistics-platform/reports/row-popup-verification.json",
+        "sha256": "85c6264ba6da19af9689558ded8c432d829b30378ddd67d45efec57a648495e8"
+      }
+    ],
+    "featuresReviewed": 565,
+    "fieldDefinitionsReviewed": 2669,
+    "mappedSourceEntries": 673,
+    "sources": [
+      "ai-3pl-warehouse-invoice-sla-recovery",
+      "ai-air-freight-invoice-audit-recovery",
+      "ai-bonded-warehouse-duty-deferral-control",
+      "ai-cold-storage-invoice-capacity-audit",
+      "ai-customs-duty-drawback-tariff-recovery",
+      "ai-drayage-chassis-invoice-recovery",
+      "ai-fleet-fuel-card-toll-leakage-recovery",
+      "ai-foreign-trade-zone-duty-savings-compliance",
+      "ai-freight-detention-demurrage-recovery",
+      "ai-intermodal-accessorial-invoice-audit",
+      "ai-ocean-freight-contract-rate-audit",
+      "ai-pallet-pooling-reusable-packaging-recovery",
+      "ai-parcel-ltl-invoice-audit-recovery",
+      "ai-port-terminal-handling-invoice-audit",
+      "ai-reverse-logistics-vendor-credit-recovery",
+      "ai-small-parcel-guaranteed-service-refund-recovery",
+      "ai-tariff-classification-origin-refund-recovery",
+      "ai-truckload-freight-fuel-surcharge-audit",
+      "AIAnalyzetelematics",
+      "AIAutonomousVehicleSimulator",
+      "AIColdChainMonitoringCompliance",
+      "AICustoms",
+      "AIFleetElectrificationPlanner",
+      "AIFleetMaintenanceScheduler",
+      "AIFreightPricingAgent",
+      "AILast-MileDeliveryOptimizer",
+      "AIMaritimeShippingPortLogistics",
+      "AISupplyChainReshoringAdvisor",
+      "AISupplyChainTracker",
+      "AIWarehouseManager",
+      "shipping"
+    ]
+  },
+  {
+    "id": "governance-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/governance-platform/README.md",
+        "sha256": "d7143634883d007a229e756d7cdca268fc2d722c9cae7ae667992809e431e186"
+      },
+      {
+        "file": "/Volumes/external/projects/governance-platform/FEATURE_STATUS.md",
+        "sha256": "8c38d0b6f56af164eba22322642a23b05b800631a87631fb3ca86e1e7222c8d3"
+      },
+      {
+        "file": "/Volumes/external/projects/governance-platform/apps.txt",
+        "sha256": "e968fed60c5ac7b6e1e06370dd65a1fbcff33982cda4fc7b61277ac1b90f723e"
+      },
+      {
+        "file": "/Volumes/external/projects/governance-platform/config/app.json",
+        "sha256": "fd5f867c6b3e959fa360a938e892cf6d49e3f3ef3d481a070fdebfb10442fb91"
+      },
+      {
+        "file": "/Volumes/external/projects/governance-platform/config/modules.json",
+        "sha256": "2d2f1204cc321611301ee731555cf03867d2b6b9ad42823afd52e0d455e1506b"
+      },
+      {
+        "file": "/Volumes/external/projects/governance-platform/config/merged-features.json",
+        "sha256": "5e51d98bbee03f6f0faea926f1b1cd146d21de256c182c4540752404839fc404"
+      },
+      {
+        "file": "/Volumes/external/projects/governance-platform/reports/feature-map.json",
+        "sha256": "efc7dffa1709442c49486150ce39beca6d731ec28e1dc6d026560e5114672ec7"
+      },
+      {
+        "file": "/Volumes/external/projects/governance-platform/reports/build.json",
+        "sha256": "594e0d9841b6647ca9346744b27a99b8087f8c595437e5cd31d6fb3c646f9ac5"
+      },
+      {
+        "file": "/Volumes/external/projects/governance-platform/reports/verification.json",
+        "sha256": "01b9f6dbada50b1215d58999cabd09460bbc1ba39142844e980395c89ccde850"
+      },
+      {
+        "file": "/Volumes/external/projects/governance-platform/reports/row-popup-verification.json",
+        "sha256": "2c94c13f12b146e53f46d77a94a5012885050836c2ac4849c21e5497a77dcd2e"
+      }
+    ],
+    "featuresReviewed": 220,
+    "fieldDefinitionsReviewed": 656,
+    "mappedSourceEntries": 231,
+    "sources": [
+      "ai-agent-governance-control-tower",
+      "ai-board-governance-briefing-assistant",
+      "ai-product-compliance-evidence-vault",
+      "ai-regulatory-change-impact-mapper",
+      "ai_regulatory_compliance",
+      "AIAutomatedatagovernance",
+      "AIExportControlSanctionsScreener",
+      "AIGDPRDataMappingPrivacyManager",
+      "AIGovernanceModelOps",
+      "AIHIPAATrainingComplianceAuditor",
+      "AiRegulatoryCompliance",
+      "third-party-risk-grc-suite"
+    ]
+  },
+  {
+    "id": "security-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/security-platform/README.md",
+        "sha256": "4c641ada996cab8afc4b5355c65b1d61cbd6c6c6fa724624d55432dc80fd7787"
+      },
+      {
+        "file": "/Volumes/external/projects/security-platform/FEATURE_STATUS.md",
+        "sha256": "76974e987ed471665a471a075df69d895521f716bce657f82be0d6d3c464e7a6"
+      },
+      {
+        "file": "/Volumes/external/projects/security-platform/apps.txt",
+        "sha256": "8d3a1e9d8a467a35e993a87f52c437a5bedcb8afb28b659b279d485300d894d2"
+      },
+      {
+        "file": "/Volumes/external/projects/security-platform/config/app.json",
+        "sha256": "caeb78cb2896ec13ee421e2fa2a5a40cbaa281fe165bf67463ecf9c9af13c343"
+      },
+      {
+        "file": "/Volumes/external/projects/security-platform/config/modules.json",
+        "sha256": "72eeed89bf59debed7439b061ffa24893333bfc877db421b34d278702274ff3b"
+      },
+      {
+        "file": "/Volumes/external/projects/security-platform/config/merged-features.json",
+        "sha256": "803ea9d82e5082be8ad6da16f0010ccb1b63e2df2367d4bcecc04a66407b1126"
+      },
+      {
+        "file": "/Volumes/external/projects/security-platform/reports/feature-map.json",
+        "sha256": "5cf586a0901e85f4f39e9751ed4f07106b02bde51c1380529742b637313bbfac"
+      },
+      {
+        "file": "/Volumes/external/projects/security-platform/reports/build.json",
+        "sha256": "88ebebc00f2e0e96d03a96e140274974abd64508aa204a8ef9832b5faf6ef309"
+      },
+      {
+        "file": "/Volumes/external/projects/security-platform/reports/verification.json",
+        "sha256": "6bf3965f3ec0a82f09b9391767635528ef266d0a48934937ef751ec956696db8"
+      },
+      {
+        "file": "/Volumes/external/projects/security-platform/reports/row-popup-verification.json",
+        "sha256": "ae832a7013d20ef1e0ae851e65f6a74a591aafbb7792efbd0dad6e1cf81dc1d6"
+      }
+    ],
+    "featuresReviewed": 248,
+    "fieldDefinitionsReviewed": 736,
+    "mappedSourceEntries": 267,
+    "sources": [
+      "AIAutonomousPenTestingAgent",
+      "AICyberSOCCopilot",
+      "AIDeepfakeDetectionPlatform",
+      "AIDetectcombatmisinformatio",
+      "AIDigitalIdentityVerifiableCredentials",
+      "AIMonitorrealtimeaudi",
+      "AIOTSecOpsForICS",
+      "AIPersonalSafetyLoneWorkerMonitor",
+      "counter-swarm-defense",
+      "security_detection"
+    ]
+  },
+  {
+    "id": "insurance-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/insurance-platform/README.md",
+        "sha256": "19d83fc37cf4e0577ed2289f8a17391afd4c9c81bcb1510071a4ea83e96d1613"
+      },
+      {
+        "file": "/Volumes/external/projects/insurance-platform/FEATURE_STATUS.md",
+        "sha256": "71ccf0074a7fa278c89ef54d71c23bcdf426a09aebcbd0fbbf122669d680b6bb"
+      },
+      {
+        "file": "/Volumes/external/projects/insurance-platform/apps.txt",
+        "sha256": "d96a128aab11e85a71d913938bb0270fd1433631372c746f32000e1b77c5d6d6"
+      },
+      {
+        "file": "/Volumes/external/projects/insurance-platform/config/app.json",
+        "sha256": "14f42b001a682fc5ae98a3e3a21a13f3b7494a63b830133ea8a6b46ee43271e5"
+      },
+      {
+        "file": "/Volumes/external/projects/insurance-platform/config/modules.json",
+        "sha256": "6b609c71cd1f8bf9ccb811533400565eaf8cd08a20a7d92f0f628827b4ee5497"
+      },
+      {
+        "file": "/Volumes/external/projects/insurance-platform/config/merged-features.json",
+        "sha256": "af49a4f5df20730b8406176bd371258aec63d4159dd972006e573e3d029e6a9d"
+      },
+      {
+        "file": "/Volumes/external/projects/insurance-platform/reports/feature-map.json",
+        "sha256": "d0cae1171525e31e0d90fb09b223e8c6791a9961c3737f1f1740602748e05654"
+      },
+      {
+        "file": "/Volumes/external/projects/insurance-platform/reports/build.json",
+        "sha256": "e7e27368b184c947922800b915fdbd6c62961f5ffc9ccb37a801e2a3fcbe6f5b"
+      },
+      {
+        "file": "/Volumes/external/projects/insurance-platform/reports/verification.json",
+        "sha256": "66d80279839a78c77d6f55715e66225ba2b0eb22d39ea49cc6e9e3002eb4551c"
+      },
+      {
+        "file": "/Volumes/external/projects/insurance-platform/reports/row-popup-verification.json",
+        "sha256": "7db0738ef63258dc86e38ac61c591b040282bd303e236f6e9e6b663da87313a3"
+      }
+    ],
+    "featuresReviewed": 404,
+    "fieldDefinitionsReviewed": 2182,
+    "mappedSourceEntries": 496,
+    "sources": [
+      "ai-business-interruption-claim-recovery",
+      "ai-captive-insurance-collateral-reconciliation",
+      "ai-cargo-loss-damage-claims-recovery",
+      "ai-catastrophe-reinsurance-recoverable-management",
+      "ai-claims-litigation-early-warning-system",
+      "ai-commercial-insurance-contingent-commission-audit",
+      "ai-commercial-insurance-premium-audit",
+      "ai-crop-insurance-claim-recovery",
+      "ai-cyber-insurance-incident-claim-recovery",
+      "ai-insurance-agent-commission-chargeback-reconciliation",
+      "ai-insurance-broker-commission-reconciliation",
+      "ai-insurance-product-form-filing",
+      "ai-premium-audit-return-premium-recovery",
+      "ai-reinsurance-bordereaux-treaty-reconciliation",
+      "ai-reinsurance-collateral-trust-funding-reconciliation",
+      "ai-surety-bond-claim-indemnity-recovery",
+      "ai-title-insurance-closing-fee-audit",
+      "ai-trade-credit-insurance-policy-operations",
+      "ai-unemployment-insurance-rate-audit",
+      "AIInsuranceClaimsAdjuster",
+      "AIInsuranceUnderwritingAgent",
+      "claims-subrogation-recovery-suite",
+      "insuranceAgenc",
+      "workers-comp-claims-bill-review-suite"
+    ]
+  },
+  {
+    "id": "procurement-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/procurement-platform/README.md",
+        "sha256": "0827c7e69373f08adc31fe6352282c62e8f0e636dc3707be09a05da9dbf6e661"
+      },
+      {
+        "file": "/Volumes/external/projects/procurement-platform/FEATURE_STATUS.md",
+        "sha256": "efaad18f57a1dccd6d227e95853126dbfc48aa79ca49546b1f0e3679ec33291b"
+      },
+      {
+        "file": "/Volumes/external/projects/procurement-platform/apps.txt",
+        "sha256": "3ef1e28e55561c6c8d6b94e69ae4a64e937591272581191969e55eece8df90e7"
+      },
+      {
+        "file": "/Volumes/external/projects/procurement-platform/config/app.json",
+        "sha256": "735639a5c89c174c861598e032aa975730495e57324189946da5ddd88b6bb6b0"
+      },
+      {
+        "file": "/Volumes/external/projects/procurement-platform/config/modules.json",
+        "sha256": "24f3c8450abfbbb7663b4eba3a11943ca777eb9bd8e5fe991b15c2d6f8a3ea80"
+      },
+      {
+        "file": "/Volumes/external/projects/procurement-platform/config/merged-features.json",
+        "sha256": "136a5d0b1db7d648c457de63420890a6362b4e640ea422ac5ff3e6fbe9caad84"
+      },
+      {
+        "file": "/Volumes/external/projects/procurement-platform/reports/feature-map.json",
+        "sha256": "db320fe21615426f72eb8dd61bf763b3cdb18dddc1fd5767aa21fe39aff1cf3d"
+      },
+      {
+        "file": "/Volumes/external/projects/procurement-platform/reports/build.json",
+        "sha256": "3e00d04a44bb5ec61ef657fcf3cdf79ba0ff2dd850bd9ddd5aeff1020e8d7523"
+      },
+      {
+        "file": "/Volumes/external/projects/procurement-platform/reports/verification.json",
+        "sha256": "471aafec975868712dd0214cb6118a0f9f43136ba02221f427c1f83476d7d809"
+      },
+      {
+        "file": "/Volumes/external/projects/procurement-platform/reports/row-popup-verification.json",
+        "sha256": "2bd8dc150373090b64967c3a1af47ff6e9819488b52af4c5a8b728744f9b9b7b"
+      }
+    ],
+    "featuresReviewed": 282,
+    "fieldDefinitionsReviewed": 1143,
+    "mappedSourceEntries": 303,
+    "sources": [
+      "ai-cloud-marketplace-private-offer-reconciliation",
+      "ai-data-center-colocation-invoice-sla-recovery",
+      "ai-packaging-material-index-price-audit",
+      "ai-procurement-contract-price-compliance-recovery",
+      "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "ai-saas-license-cloud-commitment-recovery",
+      "ai-software-procurement-negotiator",
+      "ai-supplier-rebate-accrual-recovery",
+      "ai-vendor-contract-risk-monitor",
+      "ai_procurement_management",
+      "AIDueDiligenceAssistant",
+      "AIMandADealRoom",
+      "AIProposalSOWGenerator",
+      "AIStrategicSourcingNegotiation",
+      "AIVendorRiskPerformanceScorer",
+      "oracle"
+    ]
+  },
+  {
+    "id": "manufacturing-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/manufacturing-platform/README.md",
+        "sha256": "40a4b33d2c0d32abff099c986513a1bd0ef50f393a6eb412299ebe7fcecefc2c"
+      },
+      {
+        "file": "/Volumes/external/projects/manufacturing-platform/FEATURE_STATUS.md",
+        "sha256": "10e32d8d065f20059adde306f2786bfb290b773878ee606af4000c0aa3477bda"
+      },
+      {
+        "file": "/Volumes/external/projects/manufacturing-platform/apps.txt",
+        "sha256": "86f1aebf0a03612256786b0a78d58e0de4cd810a60fe6440e796764c05965249"
+      },
+      {
+        "file": "/Volumes/external/projects/manufacturing-platform/config/app.json",
+        "sha256": "27743031a7a931d3a420d0f0dcdba2bbf2ef8f21c8ac4ecf33e2432b681728d5"
+      },
+      {
+        "file": "/Volumes/external/projects/manufacturing-platform/config/modules.json",
+        "sha256": "0b94a9a35958e15d36512795b8e15d36b8c0f49792415bcbe78518963d29120b"
+      },
+      {
+        "file": "/Volumes/external/projects/manufacturing-platform/config/merged-features.json",
+        "sha256": "dacb99b3aafe5cc8500724da2bf62b36de78cbda604b82760c3ea1cafdd58d05"
+      },
+      {
+        "file": "/Volumes/external/projects/manufacturing-platform/reports/feature-map.json",
+        "sha256": "3e7be190077bdd935a910c6c5afe78f943d024668325881a6eda89e9a3dd7562"
+      },
+      {
+        "file": "/Volumes/external/projects/manufacturing-platform/reports/build.json",
+        "sha256": "acda3fb386641f8368c972c2506a34e2528286524a83e9213d5d2e66161fe582"
+      },
+      {
+        "file": "/Volumes/external/projects/manufacturing-platform/reports/verification.json",
+        "sha256": "596791b67524f1c6541a370866ad25391efd9c0a20013065951d40adeb7b4e51"
+      },
+      {
+        "file": "/Volumes/external/projects/manufacturing-platform/reports/row-popup-verification.json",
+        "sha256": "fd6a6b93088c4af32b546664c51650922292f69cb175ebae68d8d63a9fdcad4f"
+      }
+    ],
+    "featuresReviewed": 400,
+    "fieldDefinitionsReviewed": 1473,
+    "mappedSourceEntries": 435,
+    "sources": [
+      "ai-calibration-metrology-compliance",
+      "ai-chemical-feedstock-formula-price-audit",
+      "ai-chemical-process-safety-moc-hazop",
+      "ai-contract-manufacturing-yield-scrap-recovery",
+      "ai-manufacturing-warranty-supplier-recovery",
+      "ai-mro-consignment-vmi-invoice-audit",
+      "ai-supplier-quality-capa-8d",
+      "ai-tooling-mold-amortization-ownership-recovery",
+      "AI3DPrintingOptimizer",
+      "AIAssemblyLineVisualInspector",
+      "AIBillofMaterialsOptimizer",
+      "AICobotTrainer",
+      "AIDigitalTwinPlatform",
+      "AIHardwareIoT",
+      "AIIndustrialIoTAnomalyDetector",
+      "AIManufacturingOps",
+      "AIPrecisionFermentationProcessOptimizer",
+      "AIPredictiveMaintenance",
+      "AIRoboticProcessChoreographer",
+      "AIVisualQAInspector"
+    ]
+  },
+  {
+    "id": "home-care-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/home-care-platform/README.md",
+        "sha256": "326c8e945b3ffae8b211c0c0ba67de7519fa4ddcdbf0c6bb483b286c64dcf125"
+      },
+      {
+        "file": "/Volumes/external/projects/home-care-platform/FEATURE_STATUS.md",
+        "sha256": "f5e83c6ef4a6a266b918506762cdc863c95ebb45ffc99d958139232d1c3fa199"
+      },
+      {
+        "file": "/Volumes/external/projects/home-care-platform/apps.txt",
+        "sha256": "0559c00ec83316f3454a6695b34fc880138d8ba39cf0ef6e4d3a193dbd1a9692"
+      },
+      {
+        "file": "/Volumes/external/projects/home-care-platform/config/app.json",
+        "sha256": "b76d675ded0b476b63191b7e95a9511c1d94b39e411bc1dd0296a4b29d3bdf8f"
+      },
+      {
+        "file": "/Volumes/external/projects/home-care-platform/config/modules.json",
+        "sha256": "5e029ef743811542ad3bfa86c76657a0fc0719e6b434c8952018beb7bf55bd2a"
+      },
+      {
+        "file": "/Volumes/external/projects/home-care-platform/config/merged-features.json",
+        "sha256": "2666a193dd66f263dd0410bb361004bd85fa216c6cb9936ff6ff631e0df1c45b"
+      },
+      {
+        "file": "/Volumes/external/projects/home-care-platform/reports/feature-map.json",
+        "sha256": "d7e5522e9dfdc2e2173aaab2c0893ef2aafdfd680fe97a063348f63dad0a451c"
+      },
+      {
+        "file": "/Volumes/external/projects/home-care-platform/reports/build.json",
+        "sha256": "6c3b10f907695d3a1b0e89c3941384ec9d24057583ac74dc9619b72852358cf7"
+      },
+      {
+        "file": "/Volumes/external/projects/home-care-platform/reports/verification.json",
+        "sha256": "53852be7fe10176c7d5e57c89ef4c5323226e0e696769d3c4a763cfff6037d4e"
+      },
+      {
+        "file": "/Volumes/external/projects/home-care-platform/reports/row-popup-verification.json",
+        "sha256": "54216ab06c723fb237461850458682bd59d52fafdb6b84a873420010c66ce3b0"
+      }
+    ],
+    "featuresReviewed": 122,
+    "fieldDefinitionsReviewed": 365,
+    "mappedSourceEntries": 156,
+    "sources": [
+      "AIAgingInPlaceHomeModificationAssessor",
+      "AIElderCareCompanion",
+      "AIhomecompanion",
+      "AIHospiceCareManager",
+      "ihss_scheduling",
+      "salesforce_ihss_scheduling"
+    ]
+  },
+  {
+    "id": "dental-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/dental-platform/README.md",
+        "sha256": "90e8065640276b93f5b57c9421f52b6c5120e0bc4bb4ba47d2f796f8dd2f2c1c"
+      },
+      {
+        "file": "/Volumes/external/projects/dental-platform/FEATURE_STATUS.md",
+        "sha256": "f6e2f3c536fa3d0165c10fe1327b8cf0fd18dfec45eb5f9a873ada3072161719"
+      },
+      {
+        "file": "/Volumes/external/projects/dental-platform/apps.txt",
+        "sha256": "7525f2155a028443cd98c8c9d3a272e2377495501c74b039f77f9cf041e161ea"
+      },
+      {
+        "file": "/Volumes/external/projects/dental-platform/config/app.json",
+        "sha256": "bbaf787c218edc58e92636a33700953ae555d1fc65a7d77e2b2ac7d22e337f82"
+      },
+      {
+        "file": "/Volumes/external/projects/dental-platform/config/modules.json",
+        "sha256": "8b4d860dd89a5f323d7ea1b1ce10ac5aa31a300d046c6582b3c250578746aa15"
+      },
+      {
+        "file": "/Volumes/external/projects/dental-platform/config/merged-features.json",
+        "sha256": "bc4bb94eb9c1d5cbd8d7ae702accf57db4550d654e56070cbe2db8b67564864a"
+      },
+      {
+        "file": "/Volumes/external/projects/dental-platform/reports/feature-map.json",
+        "sha256": "8d5492ceb2ba7cd000141e1d8b995ba567c279863b3b769ec455eb33bc1f481d"
+      },
+      {
+        "file": "/Volumes/external/projects/dental-platform/reports/build.json",
+        "sha256": "558fa8c0c359a73dcf3f07d2ab10a4aeb8dbe6f6f5e358ce3abd703f1e9a535d"
+      },
+      {
+        "file": "/Volumes/external/projects/dental-platform/reports/verification.json",
+        "sha256": "27bc4807509581e1be486d221f283757cd389d543796861a67ad6732a30970d9"
+      },
+      {
+        "file": "/Volumes/external/projects/dental-platform/reports/row-popup-verification.json",
+        "sha256": "e34ac1202c1d2b4be156fb0c31735eb2ac47b477b2b45f4a821b81bd70064c42"
+      }
+    ],
+    "featuresReviewed": 59,
+    "fieldDefinitionsReviewed": 167,
+    "mappedSourceEntries": 50,
+    "sources": [
+      "AIDentalLabCaseManager",
+      "AIDentalPracticeManager",
+      "dental"
+    ]
+  },
+  {
+    "id": "specialty-care-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/specialty-care-platform/README.md",
+        "sha256": "cf616006df74b7a68f00b9db385f1017717fe914671e260ff389d45dbb237f76"
+      },
+      {
+        "file": "/Volumes/external/projects/specialty-care-platform/FEATURE_STATUS.md",
+        "sha256": "e380b773baf0f352ebd8b5ffeea1dab82dcad5bbf6fb1f4fa99e1ea5029d7858"
+      },
+      {
+        "file": "/Volumes/external/projects/specialty-care-platform/apps.txt",
+        "sha256": "dfe9727dcf00a9c4c84a4fc372bba0daaf91030df81df1e20d414065da81b2fd"
+      },
+      {
+        "file": "/Volumes/external/projects/specialty-care-platform/config/app.json",
+        "sha256": "b97cfbd397a1e172f7f1337f4bc06f20f78f1cbecb9cb27859872b2844c98b96"
+      },
+      {
+        "file": "/Volumes/external/projects/specialty-care-platform/config/modules.json",
+        "sha256": "a47c09c74f53028f3add7f5c52d07fef3320bedab615b8bc8fc7ec6e4c591092"
+      },
+      {
+        "file": "/Volumes/external/projects/specialty-care-platform/config/merged-features.json",
+        "sha256": "9efb09c34e0172956afc97b687a48de054b9c603db3055154a716081e896b1d6"
+      },
+      {
+        "file": "/Volumes/external/projects/specialty-care-platform/reports/feature-map.json",
+        "sha256": "c8c446de52e4f2dcb91f3ad32be008cc9cb2647df88f1d49dcc5a8571bac865c"
+      },
+      {
+        "file": "/Volumes/external/projects/specialty-care-platform/reports/build.json",
+        "sha256": "b0cdce0dd0c7de662a55d501f41932cf4500be00b5a2504576507a7b3e252731"
+      },
+      {
+        "file": "/Volumes/external/projects/specialty-care-platform/reports/verification.json",
+        "sha256": "f023a9956aaf1d781bc536a856a69a0d47d4f6af9976004053fca228ce0f76e0"
+      },
+      {
+        "file": "/Volumes/external/projects/specialty-care-platform/reports/row-popup-verification.json",
+        "sha256": "62abb4479544317946036df117d6e6d015eb80c45d0925391c43b0b123277190"
+      }
+    ],
+    "featuresReviewed": 123,
+    "fieldDefinitionsReviewed": 405,
+    "mappedSourceEntries": 151,
+    "sources": [
+      "ai-operating-room-block-capacity",
+      "AIOptometryAssistant",
+      "AIPhysicalTherapyMovementAnalyzer",
+      "AIRemotePatientMonitoring",
+      "cardiology-remote-monitoring-suite",
+      "dialysis-center-operations-suite",
+      "fertility-ivf-clinic-operations-suite",
+      "infusion-center-operations-suite",
+      "oncology-care-navigation-suite",
+      "physicalThreapy"
+    ]
+  },
+  {
+    "id": "environment-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/environment-platform/README.md",
+        "sha256": "ea5cc18ba426a5ee1771bb782f639df95ec71b3fe3c0507c95cf63e6e89d6785"
+      },
+      {
+        "file": "/Volumes/external/projects/environment-platform/FEATURE_STATUS.md",
+        "sha256": "99ae56ee6384faca4b38804dc7dbe323967d7797f2659b536d277ca21467c5d0"
+      },
+      {
+        "file": "/Volumes/external/projects/environment-platform/apps.txt",
+        "sha256": "be886f99a6407b31569d57184094dea56a9b6fdffa5e2079a94cb0b5fca96d45"
+      },
+      {
+        "file": "/Volumes/external/projects/environment-platform/config/app.json",
+        "sha256": "2d0e38664e17bbd7afb5915dfe0611e2fd006e6320f4f281f02d6609443b94ba"
+      },
+      {
+        "file": "/Volumes/external/projects/environment-platform/config/modules.json",
+        "sha256": "c343a33f4eae6ff8c6167b1e8423e6771239920a2cebe69e27f46690d013a630"
+      },
+      {
+        "file": "/Volumes/external/projects/environment-platform/config/merged-features.json",
+        "sha256": "c07bf8b8fe69ccd6f48965ce9a6c24673f579a652184740fae2cfce862f5830c"
+      },
+      {
+        "file": "/Volumes/external/projects/environment-platform/reports/feature-map.json",
+        "sha256": "f2419b52b1c0130f081f57103e2e03085c7ba28b9c067824593223d66db530d6"
+      },
+      {
+        "file": "/Volumes/external/projects/environment-platform/reports/build.json",
+        "sha256": "61ad18de3644f8cd358ee1ad25231a15fecdc127cb3396db4f922a88bd06bebe"
+      },
+      {
+        "file": "/Volumes/external/projects/environment-platform/reports/verification.json",
+        "sha256": "c1ef0eeb3140556032fd446adde602c02993e7c3e9e93f2b3d6efafda54f7e98"
+      },
+      {
+        "file": "/Volumes/external/projects/environment-platform/reports/row-popup-verification.json",
+        "sha256": "e85ecaa8e6c634faacfa34379be79651e93c83a8b154537bd8163cc8fc66d3c7"
+      }
+    ],
+    "featuresReviewed": 499,
+    "fieldDefinitionsReviewed": 2197,
+    "mappedSourceEntries": 592,
+    "sources": [
+      "ai-air-emissions-permit-operations",
+      "ai-cbam-import-cost-compliance",
+      "ai-conservation-easement-stewardship",
+      "ai-dam-and-levee-safety-program",
+      "ai-industrial-stormwater-npdes-compliance",
+      "ai-industrial-wastewater-pretreatment-control",
+      "ai-occupational-radiation-dose-records",
+      "ai-packaging-epr-compliance",
+      "ai-pfas-tsca-reporting",
+      "ai-radioactive-waste-lifecycle-records",
+      "ai-scrap-metal-recycling-revenue-reconciliation",
+      "ai-ship-recycling-and-hazardous-materials-inventory",
+      "ai-waste-hauling-invoice-contract-audit",
+      "ai-water-rights-allocation-ledger",
+      "ai-wetland-mitigation-bank-operations",
+      "AIBiocharSoilCarbonSequestrationTracker",
+      "AICarbonCreditMarketplaceVerifier",
+      "AIClimateFinanceCarbonRegistry",
+      "AIClimatePatternForecaster",
+      "AICoralReefRestorationTracker",
+      "AIEnvironmentMonitor",
+      "AIESGSustainabilityReporter",
+      "AIRecyclingMRFOps",
+      "AIWasteManagementRouteOptimizer",
+      "AIWaterUtilityManagement",
+      "AIWildlifeAntiPoachingOps",
+      "waste-management-route-compliance-suite",
+      "water-utility-asset-compliance-suite"
+    ]
+  },
+  {
+    "id": "medical-device-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/medical-device-platform/README.md",
+        "sha256": "d7fbb36a9e89303b9355cd3e1c3e049396ef89298d41ea29a2851d5cccbaf3e8"
+      },
+      {
+        "file": "/Volumes/external/projects/medical-device-platform/FEATURE_STATUS.md",
+        "sha256": "f73db0c9e5aba09f2d9759ddf86e4120b796dd50ba3a94450948cdd1524edac4"
+      },
+      {
+        "file": "/Volumes/external/projects/medical-device-platform/apps.txt",
+        "sha256": "78ea3c931cb3ca6b319d3261ff059e84e7c8404a0dfceffcae1a5cd33e864a02"
+      },
+      {
+        "file": "/Volumes/external/projects/medical-device-platform/config/app.json",
+        "sha256": "f06cfcfd09c7dd6b2f2f0caf9bf738cfb43ee2a868a9d366f926d02d383359cf"
+      },
+      {
+        "file": "/Volumes/external/projects/medical-device-platform/config/modules.json",
+        "sha256": "34c8fcabddd79ff1359b31ef77b602bfb9ff312acd34ec259e1a5757899b5b25"
+      },
+      {
+        "file": "/Volumes/external/projects/medical-device-platform/config/merged-features.json",
+        "sha256": "338337c5f1111f9dc5ca7549ea7dc87857158eddcf95ae7b584736f8cc95ce6f"
+      },
+      {
+        "file": "/Volumes/external/projects/medical-device-platform/reports/feature-map.json",
+        "sha256": "1beb92907d899231356751ea3c74a29574f044eb73d8c9c507451ed749722a2f"
+      },
+      {
+        "file": "/Volumes/external/projects/medical-device-platform/reports/build.json",
+        "sha256": "d071d15bbab22a9ce1fe66e843e496f9d712e2b6fa7a6e6dd0ddba901b9e6b13"
+      },
+      {
+        "file": "/Volumes/external/projects/medical-device-platform/reports/verification.json",
+        "sha256": "0ed37db95178a8fa8f31c27b4501cae06fc6da447928eb283ecc23180891b318"
+      },
+      {
+        "file": "/Volumes/external/projects/medical-device-platform/reports/row-popup-verification.json",
+        "sha256": "8e7cad9180b7040db93e28153b6b999dadb218ca942f3e0ef9dbc1318eed0a4b"
+      }
+    ],
+    "featuresReviewed": 37,
+    "fieldDefinitionsReviewed": 107,
+    "mappedSourceEntries": 27,
+    "sources": [
+      "ai-medical-device-postmarket-surveillance",
+      "AIMedicalDeviceComplianceManager"
+    ]
+  },
+  {
+    "id": "clinical-research-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/clinical-research-platform/README.md",
+        "sha256": "1482ca143acec64980e5877472e1eec6d1bf3d6fa8f9bd16ebe284687edbc5af"
+      },
+      {
+        "file": "/Volumes/external/projects/clinical-research-platform/FEATURE_STATUS.md",
+        "sha256": "2a3a3e0388f1aa04ae9bf46daea5d69ef5cbf7018b9049a5db555e801f46e718"
+      },
+      {
+        "file": "/Volumes/external/projects/clinical-research-platform/apps.txt",
+        "sha256": "5a83a1934f48b7d2f77692cd6fd0a3fb0af4b08efb2e5c9081d75904098c97a4"
+      },
+      {
+        "file": "/Volumes/external/projects/clinical-research-platform/config/app.json",
+        "sha256": "9ae3b9b58ce771627f555e17c19a1bc602b109934ee048b62dfc749a5dc8ea50"
+      },
+      {
+        "file": "/Volumes/external/projects/clinical-research-platform/config/modules.json",
+        "sha256": "3970dcab7efce1ce80b27d1d5ff3c7e35ee929e45ff6b135360b953ff299d791"
+      },
+      {
+        "file": "/Volumes/external/projects/clinical-research-platform/config/merged-features.json",
+        "sha256": "a7484c189ddcc010e1e7e2b5fec013e6b1884071026d83a06f47254f9522651d"
+      },
+      {
+        "file": "/Volumes/external/projects/clinical-research-platform/reports/feature-map.json",
+        "sha256": "415eeb93373f115fa147d40aadbe75f55b39b4ff14654e910202dad9152fdc07"
+      },
+      {
+        "file": "/Volumes/external/projects/clinical-research-platform/reports/build.json",
+        "sha256": "bbbe447681a8cbad027c771a6c2c1a7ff0b49d700a9d690106363d6c174c4dd1"
+      },
+      {
+        "file": "/Volumes/external/projects/clinical-research-platform/reports/verification.json",
+        "sha256": "79ee99037b5eb50c136d9a5e96092f4a107cc8a404a5393bb55e282c69dbfaaa"
+      },
+      {
+        "file": "/Volumes/external/projects/clinical-research-platform/reports/row-popup-verification.json",
+        "sha256": "f520ab6fc10a673d138dd359db1913948685b50ed25d585b9dbe486e7ff6936f"
+      }
+    ],
+    "featuresReviewed": 268,
+    "fieldDefinitionsReviewed": 892,
+    "mappedSourceEntries": 369,
+    "sources": [
+      "ai-clinical-research-medicare-coverage-billing-compliance",
+      "ai-clinical-trial-site-budget-payment-reconciliation",
+      "ai-personalized-medicine",
+      "AIAcceleratedrug",
+      "AIAutomatepharmaceutical",
+      "AIClinicalTrialMatching",
+      "AIClinicalTrialSuite",
+      "AIPharmaTrialDesigner",
+      "AIpoweredembryo",
+      "alzheimers-research-care-operations-hub",
+      "medical-affairs-mlr-review-suite",
+      "pharmacovigilance-safety-case-suite",
+      "tetrascience"
+    ]
+  },
+  {
+    "id": "lab-traceability-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/lab-traceability-platform/README.md",
+        "sha256": "8f46f59503bb3d2b1d1792b9dc1e72f101f8308bfcbbb171fdaa11c875caf799"
+      },
+      {
+        "file": "/Volumes/external/projects/lab-traceability-platform/FEATURE_STATUS.md",
+        "sha256": "a1834fd45cf1d65f3ed4595cd7218b5e7dbdc8daee61aa905c7e78acfb12a16b"
+      },
+      {
+        "file": "/Volumes/external/projects/lab-traceability-platform/apps.txt",
+        "sha256": "32ace6db5c0c5a032c1ee4a2fb8949f27e801593f5bbc0aeab61a9af8c364f22"
+      },
+      {
+        "file": "/Volumes/external/projects/lab-traceability-platform/config/app.json",
+        "sha256": "08a11beb8f6d107c52265e01f6434dc778068b9b4866740f10f812dc3054350d"
+      },
+      {
+        "file": "/Volumes/external/projects/lab-traceability-platform/config/modules.json",
+        "sha256": "7f20746b58fd66f55428d6118bda531e55e8ec9c930390599cf30bf8e63d6c11"
+      },
+      {
+        "file": "/Volumes/external/projects/lab-traceability-platform/config/merged-features.json",
+        "sha256": "63505fa0d717896f1a2cd78c7061f2ae23fc715c7369142061b3e2f298842826"
+      },
+      {
+        "file": "/Volumes/external/projects/lab-traceability-platform/reports/feature-map.json",
+        "sha256": "efac354ac73132746ef9475dadfb7bd3611b5602c621804f960725562622edbd"
+      },
+      {
+        "file": "/Volumes/external/projects/lab-traceability-platform/reports/build.json",
+        "sha256": "b0cd38d2eb16954ac9a9369dff0cbe2a2bf055233b398da545f257fe62a1cd01"
+      },
+      {
+        "file": "/Volumes/external/projects/lab-traceability-platform/reports/verification.json",
+        "sha256": "f72b94558d1fbaec4749afb9e91e83b564fe71033c2452aceafa36784d95a608"
+      },
+      {
+        "file": "/Volumes/external/projects/lab-traceability-platform/reports/row-popup-verification.json",
+        "sha256": "2af30864416b225898a8d4a71ef716a9ca344b038362f05ae2a8a8039fba306a"
+      }
+    ],
+    "featuresReviewed": 115,
+    "fieldDefinitionsReviewed": 662,
+    "mappedSourceEntries": 123,
+    "sources": [
+      "ai-biobank-consent-and-specimen-access",
+      "ai-donor-milk-bank-traceability",
+      "ai-forensic-laboratory-evidence-operations",
+      "ai-organ-procurement-logistics-coordinator",
+      "ai-sterile-processing-instrument-traceability",
+      "ai-tissue-and-eye-bank-operations",
+      "AIBloodBankDonationCenter"
+    ]
+  },
+  {
+    "id": "pharmacy-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/pharmacy-platform/README.md",
+        "sha256": "de65d1f1c8accb238566937afe4086753c38e114efa8793d7c918721aa17577a"
+      },
+      {
+        "file": "/Volumes/external/projects/pharmacy-platform/FEATURE_STATUS.md",
+        "sha256": "240f733b6939beb931e7b95e6fb9ac0349bb6fd310484e7bf77c077ccddb7973"
+      },
+      {
+        "file": "/Volumes/external/projects/pharmacy-platform/apps.txt",
+        "sha256": "5f4c8455d2b00dcdd45ea4b57bef15f8888dc9dc2c0e630eb6d477ce55d3ed44"
+      },
+      {
+        "file": "/Volumes/external/projects/pharmacy-platform/config/app.json",
+        "sha256": "6369e2aa54c44335315aa27c5f01742c7edde0637a87fa6ab8b055b7e5058202"
+      },
+      {
+        "file": "/Volumes/external/projects/pharmacy-platform/config/modules.json",
+        "sha256": "c4566b3b6a568705c0c1b7f089cb2acefd9efdc26cb9ac8093fea8dd0b59a6f2"
+      },
+      {
+        "file": "/Volumes/external/projects/pharmacy-platform/config/merged-features.json",
+        "sha256": "b38272f285f13a5591f462187ea68a5e8736cc4b4043f3e670723dc9db384b54"
+      },
+      {
+        "file": "/Volumes/external/projects/pharmacy-platform/reports/feature-map.json",
+        "sha256": "4dbc409d572d5146ff2bc1ca1462767f40bfb6a459aec674662edc26bb0a4e54"
+      },
+      {
+        "file": "/Volumes/external/projects/pharmacy-platform/reports/build.json",
+        "sha256": "89a95c915744f767df3c6178ed9a59c801a8180ac9faa7748c4200a9d45ac7db"
+      },
+      {
+        "file": "/Volumes/external/projects/pharmacy-platform/reports/verification.json",
+        "sha256": "b4dcdb015b6c2b4d4e385b9335671aba0f7316c9abdadbaee510fad1fef5a8d4"
+      },
+      {
+        "file": "/Volumes/external/projects/pharmacy-platform/reports/row-popup-verification.json",
+        "sha256": "2875f91fb8a00c833a958fc551d8b6af3eedd108f59ede974ca209eff0cf0e51"
+      }
+    ],
+    "featuresReviewed": 125,
+    "fieldDefinitionsReviewed": 715,
+    "mappedSourceEntries": 134,
+    "sources": [
+      "ai-340b-contract-pharmacy-audit-recovery",
+      "ai-pbm-contract-rebate-audit",
+      "ai-pharma-government-pricing-rebate-reconciliation",
+      "ai-pharma-wholesaler-chargeback-reconciliation",
+      "ai-pharmacy-acquisition-reimbursement-margin-recovery",
+      "ai-pharmacy-dir-fee-rebate-recovery",
+      "ai-radiopharmacy-production-and-delivery",
+      "ai-specialty-drug-buy-bill-charge-capture",
+      "ai-specialty-pharmacy-manufacturer-rebate-recovery",
+      "AIPharmacyOperationsManager"
+    ]
+  },
+  {
+    "id": "healthcare-revenue-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/healthcare-revenue-platform/README.md",
+        "sha256": "fe58e38292c288bc11cd6e010ad86502183037940d737639ed9a63a86ff33c7f"
+      },
+      {
+        "file": "/Volumes/external/projects/healthcare-revenue-platform/FEATURE_STATUS.md",
+        "sha256": "e5e874337dead4611da6802707893b59a2b4813f71e8e6ef1ac2bf37586a9ff7"
+      },
+      {
+        "file": "/Volumes/external/projects/healthcare-revenue-platform/apps.txt",
+        "sha256": "2900da2498f415a29674f906fc0e965739ae32a7f5deba9e01ccdd5dc7a3608d"
+      },
+      {
+        "file": "/Volumes/external/projects/healthcare-revenue-platform/config/app.json",
+        "sha256": "51f252272405c8cce027dd316e423b88af5072c7109477ed8e0c495d88e6f8f6"
+      },
+      {
+        "file": "/Volumes/external/projects/healthcare-revenue-platform/config/modules.json",
+        "sha256": "a29b3d784042c806523d169c0ff8f203ee4a86e01a52b77a31097e4572c54b11"
+      },
+      {
+        "file": "/Volumes/external/projects/healthcare-revenue-platform/config/merged-features.json",
+        "sha256": "54333804a0f158c6f2394991ca51a54b386c2e7eadef4c23ac151f67397a4a9f"
+      },
+      {
+        "file": "/Volumes/external/projects/healthcare-revenue-platform/reports/feature-map.json",
+        "sha256": "eea2df5d941d121166586e2049e71ae3d44d0226089faa108f3336d6aed00032"
+      },
+      {
+        "file": "/Volumes/external/projects/healthcare-revenue-platform/reports/build.json",
+        "sha256": "52834d4eafb3762264ce44312dd2311208ded52297273e07ff1e85d917509516"
+      },
+      {
+        "file": "/Volumes/external/projects/healthcare-revenue-platform/reports/verification.json",
+        "sha256": "f59568f3aebb8dcc7ffd7d1eb4fca19663b16f4b80bd6e9c6078b5481a823663"
+      },
+      {
+        "file": "/Volumes/external/projects/healthcare-revenue-platform/reports/row-popup-verification.json",
+        "sha256": "07c7d1fbeb4c3c2678f70bc7573d95a398b0bef84834cd6fa6f81728b7920fd9"
+      }
+    ],
+    "featuresReviewed": 591,
+    "fieldDefinitionsReviewed": 3377,
+    "mappedSourceEntries": 689,
+    "sources": [
+      "ai-ambulance-payer-denial-recovery",
+      "ai-behavioral-health-parity-claims-audit",
+      "ai-clinical-appeals-external-review",
+      "ai-clinical-documentation-integrity-coding-query",
+      "ai-dental-ppo-underpayment-recovery",
+      "ai-dialysis-esrd-bundle-reimbursement-recovery",
+      "ai-dme-rental-reimbursement-recovery",
+      "ai-employer-stop-loss-claims-recovery",
+      "ai-fqhc-wrap-payment-reconciliation",
+      "ai-health-plan-vendor-guarantee-claims-audit",
+      "ai-healthcare-coordination-benefits-recovery",
+      "ai-healthcare-payer-contract-underpayment-recovery",
+      "ai-home-health-evv-claims-recovery",
+      "ai-home-infusion-authorization-reimbursement",
+      "ai-hospice-cap-liability-reimbursement",
+      "ai-hospital-implant-charge-capture-recovery",
+      "ai-hospital-observation-status-revenue-integrity",
+      "ai-hospital-price-transparency-compliance",
+      "ai-hospital-provider-based-department-billing-integrity",
+      "ai-hospital-transfer-drg-reimbursement-recovery",
+      "ai-laboratory-test-reimbursement-recovery",
+      "ai-medicaid-duplicate-coverage-payment-recovery",
+      "ai-medicaid-supplemental-payment-reconciliation",
+      "ai-medical-device-chargeback-rebate-reconciliation",
+      "ai-medicare-advantage-quality-bonus-revenue-reconciliation",
+      "ai-medicare-cost-report-reimbursement-recovery",
+      "ai-medicare-radv-hcc-evidence-validator",
+      "ai-medicare-secondary-payer-lien-resolution",
+      "ai-nicu-case-rate-outlier-reconciliation",
+      "ai-no-surprises-idr-operations",
+      "ai-organ-transplant-case-rate-reconciliation",
+      "ai-physician-capitation-settlement-reconciliation",
+      "ai-prior-authorization-operations-hub",
+      "ai-provider-enrollment-revalidation-revenue-protection",
+      "ai-provider-network-directory-accuracy",
+      "ai-rural-health-clinic-cost-report-recovery",
+      "ai-skilled-nursing-pdpm-reimbursement-integrity",
+      "ai-value-based-care-shared-savings-reconciliation",
+      "AIHealthcareBillingOptimizer",
+      "payment-integrity-provider-audit-suite"
+    ]
+  },
+  {
+    "id": "finance-risk-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/finance-risk-platform/README.md",
+        "sha256": "23f4fe02138d31044be7fbf5f0eca99277c9969f9dcbf8aa0fa45da37fc40cbe"
+      },
+      {
+        "file": "/Volumes/external/projects/finance-risk-platform/FEATURE_STATUS.md",
+        "sha256": "539481801e75da44b5994574637dcaefb32e3d9a475357e2b6941d2985c36795"
+      },
+      {
+        "file": "/Volumes/external/projects/finance-risk-platform/apps.txt",
+        "sha256": "66ddb430ed8ed2ba156479cbef5fcc847e95cc0de9c39468072b9bbd19808da8"
+      },
+      {
+        "file": "/Volumes/external/projects/finance-risk-platform/config/app.json",
+        "sha256": "21614b5ef892453d2fff1bc6ce077d5bbba7f9beda950ecb8384041e66b39b88"
+      },
+      {
+        "file": "/Volumes/external/projects/finance-risk-platform/config/modules.json",
+        "sha256": "9f195fc76f8aa25bfbb1694a2c952a43031aee6dcd143918f3a60ac7bdb99485"
+      },
+      {
+        "file": "/Volumes/external/projects/finance-risk-platform/config/merged-features.json",
+        "sha256": "b5c726c6ae831bbe6e19492d1b8f739adf458dc070909e951f42d3560692d208"
+      },
+      {
+        "file": "/Volumes/external/projects/finance-risk-platform/reports/feature-map.json",
+        "sha256": "82b7c3d425f57261fb86f76f6afe7902dfd81a583c6b1807a76cf610ed2d8868"
+      },
+      {
+        "file": "/Volumes/external/projects/finance-risk-platform/reports/build.json",
+        "sha256": "e667e3239209d9490872e527b61acdda9a9d65e8a3387e05087516a8e337068f"
+      },
+      {
+        "file": "/Volumes/external/projects/finance-risk-platform/reports/verification.json",
+        "sha256": "212838ef44a33baac67d184864de0e953baa060388e41d6aaf9b472c86112052"
+      },
+      {
+        "file": "/Volumes/external/projects/finance-risk-platform/reports/row-popup-verification.json",
+        "sha256": "9e6569898574b61f90e651fbb62d2ac312941668b45fedc65052848765dc8d52"
+      }
+    ],
+    "featuresReviewed": 266,
+    "fieldDefinitionsReviewed": 1095,
+    "mappedSourceEntries": 294,
+    "sources": [
+      "ai-bnpl-merchant-settlement-reconciliation",
+      "ai-card-network-assessment-fee-audit",
+      "ai-corporate-card-rebate-fee-recovery",
+      "ai-merchant-acquiring-interchange-fee-recovery",
+      "ai-merchant-chargeback-vamp-control-center",
+      "ai-payment-processor-fee-settlement-audit",
+      "AIAMLTransactionMonitoring",
+      "AIAntiFraud",
+      "AIAutomateinternational",
+      "aiFinancePlatform",
+      "AiFinancialReportGenerator",
+      "AIPersonalFinanceMultiAgent",
+      "financialServices"
+    ]
+  },
+  {
+    "id": "investment-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/investment-platform/README.md",
+        "sha256": "7603f8582deff3488ba15c9593b641d76a2e0563695bd824d073efddb3412ef6"
+      },
+      {
+        "file": "/Volumes/external/projects/investment-platform/FEATURE_STATUS.md",
+        "sha256": "a0fc80dbc251a777cc51130dcacaf32da0a9cfbe67cf1dc1f6733c472d680726"
+      },
+      {
+        "file": "/Volumes/external/projects/investment-platform/apps.txt",
+        "sha256": "6367f6b85db88624fc60d7532d9161365b9019d3f35bc97997ada4ef57e3c8ec"
+      },
+      {
+        "file": "/Volumes/external/projects/investment-platform/config/app.json",
+        "sha256": "10e6174d6cf4fce3077f0be7133a518d6f1073b05eab4928a172d36285468234"
+      },
+      {
+        "file": "/Volumes/external/projects/investment-platform/config/modules.json",
+        "sha256": "b0455b9427634038066b9ec33fe72c0b4dcf4a108d40c1bb89ed05b1015c827c"
+      },
+      {
+        "file": "/Volumes/external/projects/investment-platform/config/merged-features.json",
+        "sha256": "0d4699b682019658242505683fae2aba0b1e7b85031b43f0cbfdb2cbb8559aa3"
+      },
+      {
+        "file": "/Volumes/external/projects/investment-platform/reports/feature-map.json",
+        "sha256": "c862b0bc71d93a1d34dca7cce889ab2ced74902b3df94e8bb8fe4ad3a65a318c"
+      },
+      {
+        "file": "/Volumes/external/projects/investment-platform/reports/build.json",
+        "sha256": "4e3aa5f507cc2aa0aeb6cc9a6c6a42081f2a473c90f608504046dbd8a45b4873"
+      },
+      {
+        "file": "/Volumes/external/projects/investment-platform/reports/verification.json",
+        "sha256": "e3d9dfc7fc0962318d9a05ef948d41d505550ce5754784bcbb12190bfdac0aca"
+      },
+      {
+        "file": "/Volumes/external/projects/investment-platform/reports/row-popup-verification.json",
+        "sha256": "4a73aa4cdd21c5a070e1582771da216488c03cddd3c32b5b61ca0a96ba13ae81"
+      }
+    ],
+    "featuresReviewed": 404,
+    "fieldDefinitionsReviewed": 1616,
+    "mappedSourceEntries": 465,
+    "sources": [
+      "ai-401k-revenue-sharing-fee-recapture",
+      "ai-broker-dealer-communications-compliance",
+      "ai-fund-administration-nav-fee-audit",
+      "ai-investment-fund-expense-allocation-control",
+      "ai-municipal-bond-continuing-disclosure",
+      "ai-prime-brokerage-margin-interest-audit",
+      "ai-private-equity-management-fee-offset-audit",
+      "ai-securities-lending-revenue-share-audit",
+      "ai-treasury-bank-fee-earnings-credit-audit",
+      "AIFamilyOfficeManager",
+      "AIVCDealFlowCopilot",
+      "AIWealthManagementRoboAdvisor",
+      "claudeTrading",
+      "investment",
+      "multiverseinvestment",
+      "trading"
+    ]
+  },
+  {
+    "id": "banking-credit-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/banking-credit-platform/README.md",
+        "sha256": "67c24eaa95f47e778fc91085a185636303600fc2a2fb34465ce7677eaadaf8dd"
+      },
+      {
+        "file": "/Volumes/external/projects/banking-credit-platform/FEATURE_STATUS.md",
+        "sha256": "3a6b8ff2c47e674d87c702026b6a055c74ccafd2dc7f34b3383f7a04ebc81a2c"
+      },
+      {
+        "file": "/Volumes/external/projects/banking-credit-platform/apps.txt",
+        "sha256": "f4520c9e5992abe5030df3ead979441a4fead262cf8f8fb481b926cb4c112764"
+      },
+      {
+        "file": "/Volumes/external/projects/banking-credit-platform/config/app.json",
+        "sha256": "683da1d9d26b63c69b07250b43e768945a0eac7bf6f60b256c9c39130162ae3b"
+      },
+      {
+        "file": "/Volumes/external/projects/banking-credit-platform/config/modules.json",
+        "sha256": "510b0bbce291033c0ea8680e3626f63e8690bd14e92478b9123b25b4f8cd232b"
+      },
+      {
+        "file": "/Volumes/external/projects/banking-credit-platform/config/merged-features.json",
+        "sha256": "7a9f86ff8a26ed70d56b96b8957aea980f261c8b5385f5b7319badbdd1b05a8b"
+      },
+      {
+        "file": "/Volumes/external/projects/banking-credit-platform/reports/feature-map.json",
+        "sha256": "d960c8ea6ae9fd07b50493c9715864c18fc6de0e111c9f8830b0aa6982694d8f"
+      },
+      {
+        "file": "/Volumes/external/projects/banking-credit-platform/reports/build.json",
+        "sha256": "fb408a28a6e8e79cb518f7e453a6bef4595355ebccce9f18eacd81b11c7a7dfe"
+      },
+      {
+        "file": "/Volumes/external/projects/banking-credit-platform/reports/verification.json",
+        "sha256": "8dfbd67a38610ccf42ff0d2f0dc6bb12e57bd9a6d003264fa24ec3bdfce474fa"
+      },
+      {
+        "file": "/Volumes/external/projects/banking-credit-platform/reports/row-popup-verification.json",
+        "sha256": "14e4c962521d35b8913050379d85496fddb02ca4fea25aee58e182e85fe652fc"
+      }
+    ],
+    "featuresReviewed": 209,
+    "fieldDefinitionsReviewed": 911,
+    "mappedSourceEntries": 230,
+    "sources": [
+      "ai-consumer-lending-fee-refund-compliance",
+      "ai-debt-facility-interest-fee-audit",
+      "ai-mortgage-investor-claim-reimbursement-recovery",
+      "ai-mortgage-servicing-escrow-advance-reconciliation",
+      "ai-private-credit-covenant-monitoring",
+      "ai-securitization-waterfall-trustee-reconciliation",
+      "AICreditRiskAssessmentAgent",
+      "AIDebtCollectionOptimizer",
+      "AIMortgageUnderwritingAssistant",
+      "loan-servicing-loss-mitigation-suite"
+    ]
+  },
+  {
+    "id": "energy-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/energy-platform/README.md",
+        "sha256": "7a1b05dad787ad03a332a73296d0da7884260de59f123e6ead4111a5a9657f53"
+      },
+      {
+        "file": "/Volumes/external/projects/energy-platform/FEATURE_STATUS.md",
+        "sha256": "10c5ab13a34fff245d24be4053b15b958028ab7624ec0096882a82f3f012eed8"
+      },
+      {
+        "file": "/Volumes/external/projects/energy-platform/apps.txt",
+        "sha256": "c1da9387e6a90f8bb825990109ad13c6eb84d3600ff55bf8d3a89d507a50448b"
+      },
+      {
+        "file": "/Volumes/external/projects/energy-platform/config/app.json",
+        "sha256": "e6cb5d6c5a5eb81569ddac0e62042281e2d9e0d347f0eacb7d234b22738084a2"
+      },
+      {
+        "file": "/Volumes/external/projects/energy-platform/config/modules.json",
+        "sha256": "170489c1356b3271dd40e55c50a2c972b9f349c0e035ed3f5fa0fce40ffe4ae8"
+      },
+      {
+        "file": "/Volumes/external/projects/energy-platform/config/merged-features.json",
+        "sha256": "c7ae726b1d2b6a4f0ef15d5ace91d7f32868b1215e7c495b98444186eb7c4b8e"
+      },
+      {
+        "file": "/Volumes/external/projects/energy-platform/reports/feature-map.json",
+        "sha256": "6b8d5f5c02c221376b7871eccf52054f7d84b0f4c1c85e81e1e9ed018463c6f7"
+      },
+      {
+        "file": "/Volumes/external/projects/energy-platform/reports/build.json",
+        "sha256": "070f7b896e5964de27c94c3b8b0fef2532fcedb10a7f07c56a73b359f2c3d8f9"
+      },
+      {
+        "file": "/Volumes/external/projects/energy-platform/reports/verification.json",
+        "sha256": "1109f5e13480280fdddca7235600828d3f1cf4eeba12fc3063369760919fc61c"
+      },
+      {
+        "file": "/Volumes/external/projects/energy-platform/reports/row-popup-verification.json",
+        "sha256": "60db00f42522db0ddd9182048b6cf8e1e02078d191d531ead37ed3887c8caa33"
+      }
+    ],
+    "featuresReviewed": 469,
+    "fieldDefinitionsReviewed": 2363,
+    "mappedSourceEntries": 525,
+    "sources": [
+      "ai-battery-passport-compliance",
+      "ai-battery-storage-tolling-settlement",
+      "ai-commercial-utility-bill-tariff-recovery",
+      "ai-community-solar-subscriber-credit-reconciliation",
+      "ai-demand-response-capacity-payment-recovery",
+      "ai-electricity-demand-data-center-load-planner",
+      "ai-ev-charging-roaming-settlement-reconciliation",
+      "ai-grid-interconnection-queue-management",
+      "ai-industrial-gas-invoice-contract-audit",
+      "ai-midstream-gathering-processing-deduction-audit",
+      "ai-municipal-utility-franchise-fee-audit",
+      "ai-natural-gas-imbalance-pipeline-settlement",
+      "ai-oil-gas-joint-interest-billing-audit",
+      "ai-oil-gas-royalty-owner-audit",
+      "ai-oilfield-service-ticket-invoice-audit",
+      "ai-pipeline-integrity-phmsa-compliance",
+      "ai-renewable-energy-certificate-settlement",
+      "ai-renewable-ppa-settlement-curtailment-recovery",
+      "ai-solar-om-performance-guarantee-recovery",
+      "ai-underground-storage-tank-compliance",
+      "ai-utility-pole-attachment-rent-recovery",
+      "ai-water-utility-nonrevenue-water-recovery",
+      "AIBatteryLifecycleManager",
+      "AIEnergyGridOptimizer",
+      "AIOilGasWellProductionForecaster",
+      "AISmartHomeEnergyOptimizer",
+      "AIWindSolarFarmOps"
+    ]
+  },
+  {
+    "id": "crypto-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/crypto-platform/README.md",
+        "sha256": "62c6a781568410aeb349219c73d6e7ec7aa6c2a28d8297cc3dda7e1b5ccc19a7"
+      },
+      {
+        "file": "/Volumes/external/projects/crypto-platform/FEATURE_STATUS.md",
+        "sha256": "03cbaad59dcf95ba6d669d60ed99779b867b3d019f2f2074b5ba4d5ec8f4c8ff"
+      },
+      {
+        "file": "/Volumes/external/projects/crypto-platform/apps.txt",
+        "sha256": "4ae747bd4096a54c51ec97876d111a147e8bd43533f7544d34e74d135cafcf27"
+      },
+      {
+        "file": "/Volumes/external/projects/crypto-platform/config/app.json",
+        "sha256": "34d52a3605e863a6fde0851371e18987e04162a5b7f61620e8bfabd56712d588"
+      },
+      {
+        "file": "/Volumes/external/projects/crypto-platform/config/modules.json",
+        "sha256": "65da36426abfe1335cfaff0e15b646e670dc3f7294b7eb023d1a45991e5e1a9d"
+      },
+      {
+        "file": "/Volumes/external/projects/crypto-platform/config/merged-features.json",
+        "sha256": "5a9301ab083f39df49dc8412a355316ca6fa186d7b28ee94c7f1ebfe9f527d92"
+      },
+      {
+        "file": "/Volumes/external/projects/crypto-platform/reports/feature-map.json",
+        "sha256": "606c4c92ee1f087284e2872285f2bb5074451d7a70420937eb92e2833e8a616b"
+      },
+      {
+        "file": "/Volumes/external/projects/crypto-platform/reports/build.json",
+        "sha256": "d4ba2b82e4faaf13182a2641710a56cfd39e853401bc71b440775413369b1a25"
+      },
+      {
+        "file": "/Volumes/external/projects/crypto-platform/reports/verification.json",
+        "sha256": "d40d4788a6615d9701ae2d0a925f26162cf230d91b67152b55c8b89ce3f13612"
+      },
+      {
+        "file": "/Volumes/external/projects/crypto-platform/reports/row-popup-verification.json",
+        "sha256": "7ddec1adadecca1985f8c37488f3af778008e1e52fd87b46ebb02f8beba26178"
+      }
+    ],
+    "featuresReviewed": 78,
+    "fieldDefinitionsReviewed": 228,
+    "mappedSourceEntries": 66,
+    "sources": [
+      "aave-protocol-v2",
+      "AIDAOGovernanceAssistant",
+      "AISmartContractAuditor",
+      "bitcoin",
+      "enzyme-bot",
+      "enzyme-fork-smart-contracts",
+      "enzyme-fund-create",
+      "enzymeprotocol",
+      "erol-enzyme-aave-fork-protocol-more",
+      "my-aave-next-figma",
+      "smart-contract-work"
+    ]
+  },
+  {
+    "id": "telecom-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/telecom-platform/README.md",
+        "sha256": "6f6dfa9c31f7ec5934911ad3ed8619e7eccf84c7cf21beafbcb835df404f3c8a"
+      },
+      {
+        "file": "/Volumes/external/projects/telecom-platform/FEATURE_STATUS.md",
+        "sha256": "24b2e8b6c4171787fe35793eca0c689f080170dd9a07f6228bcaad534586514a"
+      },
+      {
+        "file": "/Volumes/external/projects/telecom-platform/apps.txt",
+        "sha256": "783479e13ce76ae34977b5057990cdbb5a892aa34a2e9d628c05a69009344ca6"
+      },
+      {
+        "file": "/Volumes/external/projects/telecom-platform/config/app.json",
+        "sha256": "27f3dc86d8d3fe0e71fe70202bd12de27932c2642f3d089861b03f880fc512fb"
+      },
+      {
+        "file": "/Volumes/external/projects/telecom-platform/config/modules.json",
+        "sha256": "07bdd28c2375825e94ead4edf3186f4f703583d46f2304b0353d31c13fbd06bd"
+      },
+      {
+        "file": "/Volumes/external/projects/telecom-platform/config/merged-features.json",
+        "sha256": "bbd16fbd79190b238bb54b7b73606f6c94af310f1b932a49a6db2148d2281b5c"
+      },
+      {
+        "file": "/Volumes/external/projects/telecom-platform/reports/feature-map.json",
+        "sha256": "ea3dbdd153c3221cad8435e810363e43f5f0ba6cff901fc7254da67ee919e4c9"
+      },
+      {
+        "file": "/Volumes/external/projects/telecom-platform/reports/build.json",
+        "sha256": "289ecd6b8079974d2e98e8623841312d4af86deca57477db8bf017075c29ba6c"
+      },
+      {
+        "file": "/Volumes/external/projects/telecom-platform/reports/verification.json",
+        "sha256": "5a56149d07341c134e6fe874acefc5bd36a2c53bfdeee5efb6947ec76362149e"
+      },
+      {
+        "file": "/Volumes/external/projects/telecom-platform/reports/row-popup-verification.json",
+        "sha256": "5b10a87fdaf1b736aa2eea8ab22f3a1fea726b475b15be9280386c8793180a24"
+      }
+    ],
+    "featuresReviewed": 181,
+    "fieldDefinitionsReviewed": 833,
+    "mappedSourceEntries": 180,
+    "sources": [
+      "ai-enterprise-telecom-expense-circuit-recovery",
+      "ai-telecom-number-porting-operations",
+      "ai-telecom-revenue-assurance-cdr-reconciliation",
+      "ai-telecom-wholesale-interconnect-settlement",
+      "AINetworkascodeplatform",
+      "AITelecomCustomerExperienceManager",
+      "AITelecomNetworkCapacityPlanner"
+    ]
+  },
+  {
+    "id": "memorial-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/memorial-platform/README.md",
+        "sha256": "9277fd8d935cfb4f57edac7a25e2171f9ad192b8d676e5cf7a7ea3fee4be9d1d"
+      },
+      {
+        "file": "/Volumes/external/projects/memorial-platform/FEATURE_STATUS.md",
+        "sha256": "bd81d012ed26c046ac58b0e59588a4bdaeef16c17ec8d20c7fc3f0c8cdeb7992"
+      },
+      {
+        "file": "/Volumes/external/projects/memorial-platform/apps.txt",
+        "sha256": "0eb39bc6b8e7ee2beb8d3a721ff6616acb4ebd5840504d0717f5e2a575cdab2e"
+      },
+      {
+        "file": "/Volumes/external/projects/memorial-platform/config/app.json",
+        "sha256": "a8b9d643c7584791bc55b20c896cc24f690c4f99539d35a8036a0947d969d7dc"
+      },
+      {
+        "file": "/Volumes/external/projects/memorial-platform/config/modules.json",
+        "sha256": "0503931e54a61bf8f5bb7df0324fdbe056afed6c599ef29485be8928fbc7baf5"
+      },
+      {
+        "file": "/Volumes/external/projects/memorial-platform/config/merged-features.json",
+        "sha256": "68f38f52a24428f24245bd66c4a0485b5e92cb7f1b93417865d27dfe9c2d72a3"
+      },
+      {
+        "file": "/Volumes/external/projects/memorial-platform/reports/feature-map.json",
+        "sha256": "9e000d2e3d4cfeb26162cddcb253dea6cf58b1fcf19f4c5d65e3d1fd7efaecae"
+      },
+      {
+        "file": "/Volumes/external/projects/memorial-platform/reports/build.json",
+        "sha256": "d9111349e08be6b15ffdcd33dd06dd7416e4ccc7526de2dd80bbceba4602b9e4"
+      },
+      {
+        "file": "/Volumes/external/projects/memorial-platform/reports/verification.json",
+        "sha256": "12a01df710e1d8ce22af165b1314fe9442517b921f4967851e063031bc038b1a"
+      },
+      {
+        "file": "/Volumes/external/projects/memorial-platform/reports/row-popup-verification.json",
+        "sha256": "865b9d61ccab4526c3085f26d63d568ed918c34043137924417e69583fb731b0"
+      }
+    ],
+    "featuresReviewed": 109,
+    "fieldDefinitionsReviewed": 548,
+    "mappedSourceEntries": 101,
+    "sources": [
+      "ai-international-funeral-repatriation-coordinator",
+      "AICemeteryMemorialParkManager",
+      "AIFuneralHomeOperationsManager",
+      "AIFuneralMemorialCreator"
+    ]
+  },
+  {
+    "id": "semiconductor-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/semiconductor-platform/README.md",
+        "sha256": "2678469bc60545f16cd0ea429e3d48f1c4b02d8f7da20d7971208537aad1b487"
+      },
+      {
+        "file": "/Volumes/external/projects/semiconductor-platform/FEATURE_STATUS.md",
+        "sha256": "57ca12c37db0a66d2461250a40711ce0a28702d588e79ec7ef839b2c270ecebb"
+      },
+      {
+        "file": "/Volumes/external/projects/semiconductor-platform/apps.txt",
+        "sha256": "ef0ae8ffcaaadaffd94657f8488e51f17ba65a480c1c62f8e66adfe1858669fb"
+      },
+      {
+        "file": "/Volumes/external/projects/semiconductor-platform/config/app.json",
+        "sha256": "f4d7dd8f11f9a6e32d121688f47989ce6ff8acaa9e8dfe82e74b071b17019095"
+      },
+      {
+        "file": "/Volumes/external/projects/semiconductor-platform/config/modules.json",
+        "sha256": "0d9c015388ba2965b9e0249b2cc62ec8b64eb460c64a0a693f299355bdf8c5e4"
+      },
+      {
+        "file": "/Volumes/external/projects/semiconductor-platform/config/merged-features.json",
+        "sha256": "443fba24504e9e2d0014c0dc0ae72cbf47b6b5bc716c5840df790416c9bdc423"
+      },
+      {
+        "file": "/Volumes/external/projects/semiconductor-platform/reports/feature-map.json",
+        "sha256": "afc5adea80cd332818250b336235ed0facc2ffe76c9e761477539758a9134613"
+      },
+      {
+        "file": "/Volumes/external/projects/semiconductor-platform/reports/build.json",
+        "sha256": "4a375e79dade17eda879424869090a4c85b440601eb825ac7a3764a5db53a617"
+      },
+      {
+        "file": "/Volumes/external/projects/semiconductor-platform/reports/verification.json",
+        "sha256": "5866dcb66fb7cd21e81aa55448dd3194b2cef75dc4d8a28d105de560b31fe10d"
+      },
+      {
+        "file": "/Volumes/external/projects/semiconductor-platform/reports/row-popup-verification.json",
+        "sha256": "e60989235c7f0890c8274a473593acd19b8f2b1fab1b68fc6ca2a7acb138c6d8"
+      }
+    ],
+    "featuresReviewed": 142,
+    "fieldDefinitionsReviewed": 588,
+    "mappedSourceEntries": 150,
+    "sources": [
+      "ai-electronics-component-price-variance-audit",
+      "ai-semiconductor-foundry-yield-settlement-recovery",
+      "ai-semiconductor-mask-nre-charge-audit",
+      "AISemiconductorFabYieldOptimizer",
+      "chip_design",
+      "hardware-supply-chain",
+      "inference-chips-for-agent-workflows",
+      "librelane",
+      "supply-chain-2-semiconductors"
+    ]
+  },
+  {
+    "id": "safety-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/safety-platform/README.md",
+        "sha256": "500434a205755b6474147da6f743eb1d32f4df1e69b24dd5894823f885f8430b"
+      },
+      {
+        "file": "/Volumes/external/projects/safety-platform/FEATURE_STATUS.md",
+        "sha256": "bd02175e659fcfb6209142506088c02695a21946e746ed8d4e946b4c6ec1f494"
+      },
+      {
+        "file": "/Volumes/external/projects/safety-platform/apps.txt",
+        "sha256": "f16165b00291466c6990f2de0e3f1b7566aac1ccfa32806d47d8ebbf3d7f03d0"
+      },
+      {
+        "file": "/Volumes/external/projects/safety-platform/config/app.json",
+        "sha256": "1c1d2d9ca3f9c62ff4527d182a4c7859aa54a0e6330c202f5d0438d59e66e9d3"
+      },
+      {
+        "file": "/Volumes/external/projects/safety-platform/config/modules.json",
+        "sha256": "2ce0ec04086872172b79f4e1f1764ab6d9515288249f5b54336f06b3c7c5b179"
+      },
+      {
+        "file": "/Volumes/external/projects/safety-platform/config/merged-features.json",
+        "sha256": "54fbbe586a3b1e84240a4f78b174343f6bd38a00b0cd9cf7d53d00c17a93e3c0"
+      },
+      {
+        "file": "/Volumes/external/projects/safety-platform/reports/feature-map.json",
+        "sha256": "4fe902c1d321977fb89027de558a58e3ede530e66ef224ec51ca108a930f5406"
+      },
+      {
+        "file": "/Volumes/external/projects/safety-platform/reports/build.json",
+        "sha256": "c74c1f43afb96b322c8c72f9e63b38c83cb42c0cf38ffb85c9ac8d4bf33788cd"
+      },
+      {
+        "file": "/Volumes/external/projects/safety-platform/reports/verification.json",
+        "sha256": "8c7088219c35e0da157859b79d0748abf4e35cd4017cad4ae48cbc062badf9c0"
+      },
+      {
+        "file": "/Volumes/external/projects/safety-platform/reports/row-popup-verification.json",
+        "sha256": "e61fff47242089ce2a5d3fd9c56ee84165494d3f35090a4242441ddb6a818e89"
+      }
+    ],
+    "featuresReviewed": 167,
+    "fieldDefinitionsReviewed": 496,
+    "mappedSourceEntries": 188,
+    "sources": [
+      "AIBuildingSafetyInspector",
+      "AICrisisCommunicationAgent",
+      "AIDisasterResponseCoordinator",
+      "AIFactoryFloorSafetyMonitor",
+      "AISchoolSafetyThreatAssessment",
+      "AIWildfirePredictionResponse"
+    ]
+  },
+  {
+    "id": "civic-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/civic-platform/README.md",
+        "sha256": "fe5d5ec08b28e0e739dbac111a98cccb16e25a61cb30a9550f3db2e40bb8a587"
+      },
+      {
+        "file": "/Volumes/external/projects/civic-platform/FEATURE_STATUS.md",
+        "sha256": "17ace53a911fbb8a2dc0dac0685cf7e154bbe3d04ee775b9e65b08381d16972a"
+      },
+      {
+        "file": "/Volumes/external/projects/civic-platform/apps.txt",
+        "sha256": "42206840a9a5604beabbb60d73240892701460f662b26f5e7fb803f9a7933708"
+      },
+      {
+        "file": "/Volumes/external/projects/civic-platform/config/app.json",
+        "sha256": "38a1efdb8ab7947974d32d00223c4f0f3baacc09331e3d268ab39a94115b342a"
+      },
+      {
+        "file": "/Volumes/external/projects/civic-platform/config/modules.json",
+        "sha256": "fbc264bde51b6d51a0283a349a418c132708cc42481466eb4d0ab27111fe6c53"
+      },
+      {
+        "file": "/Volumes/external/projects/civic-platform/config/merged-features.json",
+        "sha256": "5b014355406fcc48591f8043ebc2302e4fe15ffb8c37b5dcf60d4e44c7988214"
+      },
+      {
+        "file": "/Volumes/external/projects/civic-platform/reports/feature-map.json",
+        "sha256": "025d3ae189cbf1d5e7891aa702ef230fa65f870ed152413a902d0328ee2c468b"
+      },
+      {
+        "file": "/Volumes/external/projects/civic-platform/reports/build.json",
+        "sha256": "daf328fdb1b8c02da593906c50cd52ba98b2ed02ad111d2b62653f0ff0500681"
+      },
+      {
+        "file": "/Volumes/external/projects/civic-platform/reports/verification.json",
+        "sha256": "40b9ba2848983477a73c3f8292bbaa717e7958cbdb864b6b5b01e16234ad475f"
+      },
+      {
+        "file": "/Volumes/external/projects/civic-platform/reports/row-popup-verification.json",
+        "sha256": "9725b65fd7f4f0077f41c9479759bf6579eb585799d4acaea4c0519eab724fed"
+      }
+    ],
+    "featuresReviewed": 320,
+    "fieldDefinitionsReviewed": 1223,
+    "mappedSourceEntries": 349,
+    "sources": [
+      "ai-federal-contract-indirect-rate-reconciliation",
+      "ai-government-contract-incurred-cost-compliance",
+      "ai-jury-administration-and-service-scheduling",
+      "ai-medicaid-redetermination-operations",
+      "ai-victim-compensation-case-operations",
+      "AICitizenchatbot",
+      "AIElectionIntegrityMonitor",
+      "AIElectionPollWorkerOps",
+      "AIInparkdigitalassistant",
+      "AIPublicTransitOptimizer",
+      "AISmartCityTrafficSignal",
+      "AIUrbanPlanningZoningSimulator",
+      "government_contracts",
+      "government_contracts_v2"
+    ]
+  },
+  {
+    "id": "aviation-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/aviation-platform/README.md",
+        "sha256": "bc402768d4e186327b2d98aaae3f89eedfcd12ba15ca8b4fbbac8ac2fc5c5502"
+      },
+      {
+        "file": "/Volumes/external/projects/aviation-platform/FEATURE_STATUS.md",
+        "sha256": "645d0cd43abc63048426300d01ba7384abc83e5f8e489f03d884e45d7c1cc8c6"
+      },
+      {
+        "file": "/Volumes/external/projects/aviation-platform/apps.txt",
+        "sha256": "89302152f204474da763d4de7ff09645ec3a54914edc44f2164010f802dce43b"
+      },
+      {
+        "file": "/Volumes/external/projects/aviation-platform/config/app.json",
+        "sha256": "990129344a4be4c2502393adde5d16e6bc92b49f75cd109964090edf7883c00c"
+      },
+      {
+        "file": "/Volumes/external/projects/aviation-platform/config/modules.json",
+        "sha256": "8d49599dd19a1961c26ea790ede1dc1483e53d55752e9a5c0003eb315b537d59"
+      },
+      {
+        "file": "/Volumes/external/projects/aviation-platform/config/merged-features.json",
+        "sha256": "3eacfa91d547ccb60381c9dc34056beabda6248b1aa72cb9ea9b5d31203f19db"
+      },
+      {
+        "file": "/Volumes/external/projects/aviation-platform/reports/feature-map.json",
+        "sha256": "0e21d74465a53d01ec30fde27018648b57cb6857c4c2608430bd02b99a193f71"
+      },
+      {
+        "file": "/Volumes/external/projects/aviation-platform/reports/build.json",
+        "sha256": "425657d016327c4cbb9ed368787a98281109987c8c3e3b1ae0ce0f42a4a4cb87"
+      },
+      {
+        "file": "/Volumes/external/projects/aviation-platform/reports/verification.json",
+        "sha256": "a5b8908f8a0a205bd43e7b3d441fcfae2b2fc982411f159da747e444134fc7d0"
+      },
+      {
+        "file": "/Volumes/external/projects/aviation-platform/reports/row-popup-verification.json",
+        "sha256": "7d4c2e56f10d8cc954edc271bc0f3710a0b0b94d4b5c06298996e111510c5ae7"
+      }
+    ],
+    "featuresReviewed": 229,
+    "fieldDefinitionsReviewed": 955,
+    "mappedSourceEntries": 279,
+    "sources": [
+      "ai-airline-unused-ticket-refund-recovery",
+      "ai-aviation-mro-rotable-warranty-recovery",
+      "AIAerospaceMRO",
+      "AIAirportAirTrafficOperations",
+      "AIAutonomousDroneOperations",
+      "AIClassifytravelersecurity",
+      "AIDroneDeliveryLastMile",
+      "AIInventoryDroneOps",
+      "DroneScheduling"
+    ]
+  },
+  {
+    "id": "mining-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/mining-platform/README.md",
+        "sha256": "4500698b9f53248b0eda38700dc5dbfc3031451c8629285958ddad59e5b56d85"
+      },
+      {
+        "file": "/Volumes/external/projects/mining-platform/FEATURE_STATUS.md",
+        "sha256": "2cdaf49945338421564b321ba1b71a331aa9de46319a0ac998b5c1205fb9ff8c"
+      },
+      {
+        "file": "/Volumes/external/projects/mining-platform/apps.txt",
+        "sha256": "a6da053537eec38373153ac53ab89da03b2e22fe90050e87a5d3f8fc09421b5c"
+      },
+      {
+        "file": "/Volumes/external/projects/mining-platform/config/app.json",
+        "sha256": "299b437a9ec5a07104356d92faeb362c1acb1e0a37822cc38a83e8acd151d544"
+      },
+      {
+        "file": "/Volumes/external/projects/mining-platform/config/modules.json",
+        "sha256": "836b551d05a9b3c7f6778497f19530202d6afc465249a6ede654893ebb16e1df"
+      },
+      {
+        "file": "/Volumes/external/projects/mining-platform/config/merged-features.json",
+        "sha256": "707c682a3e1045d87c8d2fe770a79f7b40ce3ad3fd077f8de8d4b826e732edd8"
+      },
+      {
+        "file": "/Volumes/external/projects/mining-platform/reports/feature-map.json",
+        "sha256": "81f14a56babb9165f66ed72e0b27e3e798528b4a053d43af6785bd14b6e426b3"
+      },
+      {
+        "file": "/Volumes/external/projects/mining-platform/reports/build.json",
+        "sha256": "ddbb185f6b27d63044804e74a791a129406338c7cc0651ebbca7c36b7449ed30"
+      },
+      {
+        "file": "/Volumes/external/projects/mining-platform/reports/verification.json",
+        "sha256": "6b98dacbe726bf4649496f4b279ac84fe18aafdf2c0f35db3769420dce037592"
+      },
+      {
+        "file": "/Volumes/external/projects/mining-platform/reports/row-popup-verification.json",
+        "sha256": "a878ce8b186760429e179084d682217a3f29019711606a3f80f547168c558177"
+      }
+    ],
+    "featuresReviewed": 100,
+    "fieldDefinitionsReviewed": 341,
+    "mappedSourceEntries": 103,
+    "sources": [
+      "ai-mining-royalty-settlement-reconciliation",
+      "AIMineralExplorationGeology",
+      "AIMiningOperationsOptimizer",
+      "mining-safety-compliance-operations-suite"
+    ]
+  },
+  {
+    "id": "hospital-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/hospital-platform/README.md",
+        "sha256": "182f836e94d58cec73e5d2ab385e106421164cfa3e8d4fdd1bcd332f0f4d1a8d"
+      },
+      {
+        "file": "/Volumes/external/projects/hospital-platform/FEATURE_STATUS.md",
+        "sha256": "139ca28f458a2ceff9d7525242427e42fc49e279edd97fa666ffcefd4bd59de2"
+      },
+      {
+        "file": "/Volumes/external/projects/hospital-platform/apps.txt",
+        "sha256": "f1a089ed6c4fb3928448cc9236e69a0332e1f9c667b78342eb663eee3bb3b36a"
+      },
+      {
+        "file": "/Volumes/external/projects/hospital-platform/config/app.json",
+        "sha256": "e832bc658b4c648aac9b83a8a91f497860226aa43dbb4773e749a11a54c2e36e"
+      },
+      {
+        "file": "/Volumes/external/projects/hospital-platform/config/modules.json",
+        "sha256": "7d40e96fd04911002bb252d5d3a5617b8462010b92f9b6938ed97ebbad0aa71d"
+      },
+      {
+        "file": "/Volumes/external/projects/hospital-platform/config/merged-features.json",
+        "sha256": "f4227a090b4c478fc6d3865f373b1cab602f7636dcacb598ea82bac1db21c9e7"
+      },
+      {
+        "file": "/Volumes/external/projects/hospital-platform/reports/feature-map.json",
+        "sha256": "7b25c305b2b753876ab7551f84961af0ef2e5c2dbb48062c48cde196f08c8e72"
+      },
+      {
+        "file": "/Volumes/external/projects/hospital-platform/reports/build.json",
+        "sha256": "113ae05c805abdbd304c08958472a3eb4a7880633d878220754b815da3d4be8d"
+      },
+      {
+        "file": "/Volumes/external/projects/hospital-platform/reports/verification.json",
+        "sha256": "d7ebd49f45320bdf5adcd4cd2c1db650c46eb4d3a3b40ff2d5e70483c44e827c"
+      },
+      {
+        "file": "/Volumes/external/projects/hospital-platform/reports/row-popup-verification.json",
+        "sha256": "04594a4e02a682cdafd26f705b7cf50483eef1c1c70248569e251bbdf7644eee"
+      }
+    ],
+    "featuresReviewed": 408,
+    "fieldDefinitionsReviewed": 1437,
+    "mappedSourceEntries": 488,
+    "sources": [
+      "AIAmbulanceEMSDispatch",
+      "AIAutomateroutingmedical",
+      "AIDrugInteractionChecker",
+      "AIHospitalBedResourceOptimizer",
+      "AIPathologySlideAnalyzer",
+      "AIPatientTriageforER",
+      "AIPredictdisease",
+      "AIPublicHealthEpidemiologyTracker",
+      "AIRadiologyReportGenerator",
+      "healthcare"
+    ]
+  },
+  {
+    "id": "rail-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/rail-platform/README.md",
+        "sha256": "bfbac9b780d0c0c6f56a2644b90f3feebbb793696a40fb6c9c55e6641cf11d7b"
+      },
+      {
+        "file": "/Volumes/external/projects/rail-platform/FEATURE_STATUS.md",
+        "sha256": "da26266a7dc6ff06f3d5ad60681a586c80832c62033e5d3a5bf599e6865deb0b"
+      },
+      {
+        "file": "/Volumes/external/projects/rail-platform/apps.txt",
+        "sha256": "fbdc46e310091eeea423f5fd373d7cef9f3995c26bbf576c6582f7c75bc590e6"
+      },
+      {
+        "file": "/Volumes/external/projects/rail-platform/config/app.json",
+        "sha256": "cbfc2bc0c48a92307352af34937fb4cf667fdfdfc84673c402effbb68ea00bd6"
+      },
+      {
+        "file": "/Volumes/external/projects/rail-platform/config/modules.json",
+        "sha256": "fcda2f2d5a41bfe64ca08f0106b920f445897fcd6fcc21ece88b118d029ac156"
+      },
+      {
+        "file": "/Volumes/external/projects/rail-platform/config/merged-features.json",
+        "sha256": "d9a14777f62d6217313780f2b5bfce270e544b4be7f4e900d527ce01f5eb49f6"
+      },
+      {
+        "file": "/Volumes/external/projects/rail-platform/reports/feature-map.json",
+        "sha256": "4c09967cb7e19294065aa2e6054b3153879b1207fa012a32f44fed9d0e7b8f90"
+      },
+      {
+        "file": "/Volumes/external/projects/rail-platform/reports/build.json",
+        "sha256": "e8a75e079cb91382ce35db92decc0582f0cbde7e6e18b4006c81643f0547bd60"
+      },
+      {
+        "file": "/Volumes/external/projects/rail-platform/reports/verification.json",
+        "sha256": "db5ebbe0c2a38aeee0c991043669574964641dad8d1e07c5131fede6d3147133"
+      },
+      {
+        "file": "/Volumes/external/projects/rail-platform/reports/row-popup-verification.json",
+        "sha256": "408418debbaf25a3945d7399f91c01523d0c33dcf17c0f1fe268257146dcbeb9"
+      }
+    ],
+    "featuresReviewed": 67,
+    "fieldDefinitionsReviewed": 384,
+    "mappedSourceEntries": 57,
+    "sources": [
+      "ai-rail-crossing-inventory-and-coordination",
+      "ai-rail-demurrage-accessorial-recovery",
+      "ai-railcar-leasing-mileage-repair-settlement",
+      "rail-maintenance-safety-operations-suite"
+    ]
+  },
+  {
+    "id": "space-platform",
+    "filesRead": [
+      {
+        "file": "/Volumes/external/projects/space-platform/README.md",
+        "sha256": "2814414cfeaefa611fad66ceb780362b623508d48e4853569ae5e2397ef2d659"
+      },
+      {
+        "file": "/Volumes/external/projects/space-platform/FEATURE_STATUS.md",
+        "sha256": "ecf9433ba4961eb4638b4cc4019b04ce6b52b7f88030123ba36fe3fbdf140465"
+      },
+      {
+        "file": "/Volumes/external/projects/space-platform/apps.txt",
+        "sha256": "072fe3b561652820df4fdc16889e7a886766be6b86082c41f4daf417d84841f3"
+      },
+      {
+        "file": "/Volumes/external/projects/space-platform/config/app.json",
+        "sha256": "4391caf0dbbf44a7d8e68307d2434ddcec46aea4e58fe03472cf94320661ac6c"
+      },
+      {
+        "file": "/Volumes/external/projects/space-platform/config/modules.json",
+        "sha256": "2e9c1dff6340f41a223e8266ecf30d412a9821345c2f04af0c16b82ddd1a8aac"
+      },
+      {
+        "file": "/Volumes/external/projects/space-platform/config/merged-features.json",
+        "sha256": "81fabe02154396a97e303b092f79994aeb5b75f2a899b6da6facaf4ec9b54335"
+      },
+      {
+        "file": "/Volumes/external/projects/space-platform/reports/feature-map.json",
+        "sha256": "0d55d5391638cd766ba24294908991323c30db684e72c3fff8958dec32f3060c"
+      },
+      {
+        "file": "/Volumes/external/projects/space-platform/reports/build.json",
+        "sha256": "82a27c444fb8e9b4c7e64eaaca3863b9c6ab43ef3455d2b3919e31d2402bf2f7"
+      },
+      {
+        "file": "/Volumes/external/projects/space-platform/reports/verification.json",
+        "sha256": "3c3166cc168885355872a8f5b9b5542ce4941e2fdf7286d79da78c2d3f7091b8"
+      },
+      {
+        "file": "/Volumes/external/projects/space-platform/reports/row-popup-verification.json",
+        "sha256": "b0ab8612cf665241da76b5add0c3a038e1f5c9455cef3d922f731bc458b19b43"
+      }
+    ],
+    "featuresReviewed": 147,
+    "fieldDefinitionsReviewed": 437,
+    "mappedSourceEntries": 148,
+    "sources": [
+      "AISatelliteImageryAnalyzer",
+      "AISpaceDebrisTracker",
+      "AISpaceportOps",
+      "electronics-in-space",
+      "industrial-capabilities-in-space"
+    ]
+  }
+]

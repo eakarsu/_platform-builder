@@ -1,0 +1,5623 @@
+{
+  "asOf": "2026-09-07T16:59:57.945265+00:00",
+  "basis": "Organic growth across the full discovery-to-retention funnel; editorial hypothesis, not HeyCatch-generated scores",
+  "items": [
+    {
+      "rank": 1,
+      "id": "field-services-platform",
+      "title": "Home & field services",
+      "buyer": "Small trade contractors",
+      "focusedOffer": "Estimate preparation and follow-up",
+      "organicAsset": "Worked estimate examples and job-pricing guides",
+      "activation": "Save an estimate linked to a customer",
+      "mainGap": "Customer approval, delivery and complete quoting rules",
+      "sourceApps": 9,
+      "nativePages": 224,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "job-quotes",
+          "title": "Job Quotes & Estimation",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "material-estimate",
+          "title": "Material estimate",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "quote-estimate",
+          "title": "Quote estimate",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "jobquotes-without-quote",
+          "title": "jobquotes without quote",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "quotes",
+          "title": "Quotes & Estimation",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "quote-estimator",
+          "title": "AI Quote Estimator",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "quote-generator",
+          "title": "AI Quote Generator",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "dashboard-ai-quote-generator",
+          "title": "Quote Generator",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "dashboard-estimates",
+          "title": "Estimates",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "aiestimate",
+          "title": "Estimate",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "quote-request",
+          "title": "Quote request",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "quote",
+          "title": "Quote",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 2,
+      "id": "beauty-platform",
+      "title": "Salon, spa & beauty operations",
+      "buyer": "Independent salon owners",
+      "focusedOffer": "Appointment and rebooking administration",
+      "organicAsset": "Salon scheduling templates and rebooking guides",
+      "activation": "Save a booking linked to a customer",
+      "mainGap": "Conflict detection, public booking and reminder delivery",
+      "sourceApps": 5,
+      "nativePages": 164,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "rebook-suggest",
+          "title": "Rebooking Automation",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "bookings",
+          "title": "Bookings",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "schedules",
+          "title": "Schedules",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "booking-calendar",
+          "title": "Booking calendar",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "rebook-queue",
+          "title": "Rebook queue",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "public-online-booking-widget-api",
+          "title": "public online booking widget api",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "smart-booking",
+          "title": "Smart booking",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "staff-schedule",
+          "title": "My Schedule",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "booking-assistant",
+          "title": "Booking Assistant",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "schedule-optimizer",
+          "title": "Schedule Optimizer",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 3,
+      "id": "pet-services-platform",
+      "title": "Pet care & veterinary operations",
+      "buyer": "Mobile groomers",
+      "focusedOffer": "Grooming quotes and visit records",
+      "organicAsset": "Grooming quote examples and preparation checklists",
+      "activation": "Save a grooming quote and visit record",
+      "mainGap": "Public booking, dispatch execution and notifications",
+      "sourceApps": 5,
+      "nativePages": 192,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "grooming",
+          "title": "Grooming",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "boarding-grooming-module-add-on-for-multi-service-clinics",
+          "title": "Boarding/grooming module add-on for multi-service...",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "grooming-preference",
+          "title": "Grooming preference",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "grooming-session",
+          "title": "Grooming session",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "grooming-quote",
+          "title": "Grooming quote",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "grooming-quote-line",
+          "title": "Grooming quote line",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "grooming-order",
+          "title": "Grooming order",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "dispatch-assignment",
+          "title": "Dispatch assignment",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 4,
+      "id": "nonprofit-platform",
+      "title": "Nonprofit, grants & community",
+      "buyer": "Grant consultants",
+      "focusedOffer": "Proposal source and review organization",
+      "organicAsset": "Worked proposal outlines and evidence checklists",
+      "activation": "Link a source document to a proposal record",
+      "mainGap": "Reliable source intake, citations, export and reviewer access",
+      "sourceApps": 14,
+      "nativePages": 311,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "proposal",
+          "title": "Proposal",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "source-document",
+          "title": "Source Document",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "tools-governance-proposal",
+          "title": "Governance proposal",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "grants",
+          "title": "Grants",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "grant-assistant",
+          "title": "Grant Application Assistant",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "grant-recommend",
+          "title": "Grant Recommendations",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "agentic-grant-prospecting-scanning-grant",
+          "title": "agentic grant prospecting scanning grant",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "proposals",
+          "title": "Proposals",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "outline",
+          "title": "Proposal Outline",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "generate",
+          "title": "Generate Proposal",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "match",
+          "title": "Match Grants",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "review",
+          "title": "Review Proposal",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 5,
+      "id": "professional-services-platform",
+      "title": "Professional services & agency delivery",
+      "buyer": "Small agencies and consultants",
+      "focusedOffer": "Client deliverable tracking",
+      "organicAsset": "Client handoff templates and delivery walkthroughs",
+      "activation": "Save a deliverable linked to a client",
+      "mainGap": "Client portal permissions and acceptance workflow",
+      "sourceApps": 7,
+      "nativePages": 189,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "service-delivery",
+          "title": "Service Delivery",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "deliverable-generator",
+          "title": "Deliverable generator",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "deliverable-storage",
+          "title": "Deliverable storage",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "deliverable-acceptance-tracking",
+          "title": "Deliverable acceptance tracking",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 6,
+      "id": "commerce-platform",
+      "title": "E-commerce, marketplaces & subscriptions",
+      "buyer": "Small online merchants",
+      "focusedOffer": "Fulfillment charge review",
+      "organicAsset": "Worked fee-reconciliation examples and merchant checklists",
+      "activation": "Save inputs and run a registered calculation",
+      "mainGap": "Real statement imports and evidence validation",
+      "sourceApps": 13,
+      "nativePages": 308,
+      "registeredCalculations": 15,
+      "sourceEvidence": [
+        {
+          "id": "fulfillment-agreement-library",
+          "title": "Fulfillment agreement library",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "warehouse-loss-detection",
+          "title": "Warehouse loss detection",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "provider-claim-generation",
+          "title": "Provider claim generation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "fulfillment-inventory-ledger",
+          "title": "Fulfillment inventory ledger",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 1
+        },
+        {
+          "id": "fulfillment-fee-recalculation",
+          "title": "Fulfillment fee recalculation",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 1
+        },
+        {
+          "id": "claim-package-and-submission",
+          "title": "Claim package and submission",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 1
+        },
+        {
+          "id": "integrations-with-logistics-fulfillment-platforms-shippo-shipstation",
+          "title": "integrations with logistics fulfillment platforms shippo shipstation",
+          "mode": "integration",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 7,
+      "id": "sports-fitness-platform",
+      "title": "Sports, fitness & class businesses",
+      "buyer": "Independent coaches and class studios",
+      "focusedOffer": "Class enrollment and attendance records",
+      "organicAsset": "Class-planning templates and attendance guides",
+      "activation": "Create a class and attendance record",
+      "mainGap": "Capacity, recurring schedules and member booking",
+      "sourceApps": 6,
+      "nativePages": 196,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "classes",
+          "title": "Classes",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "enrollment",
+          "title": "Enrollment",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "attendance",
+          "title": "Attendance",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "trial-classes",
+          "title": "Trial Classes",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "makeup-classes",
+          "title": "Makeup Classes",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "class-scheduling-optimizer",
+          "title": "Smart Class Scheduling Optimizer",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "class-description",
+          "title": "Class Description Generator",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "attendance-lacks-ai-no-show-churn-prediction",
+          "title": "Attendance lacks ai no show churn prediction",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "parent-portal-for-attendance-grades-messaging",
+          "title": "No parent portal for attendance grades messaging",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 8,
+      "id": "developer-platform",
+      "title": "Developer, automation & API tools",
+      "buyer": "Small web development agencies",
+      "focusedOffer": "Accessibility remediation tracking",
+      "organicAsset": "Annotated accessibility fixes and remediation checklists",
+      "activation": "Record an issue and its remediation evidence",
+      "mainGap": "Actual scanning and verification engines are not migrated",
+      "sourceApps": 20,
+      "nativePages": 386,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "form-accessibility-auditor",
+          "title": "Form Accessibility Auditor",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "remediation-priority-ranker",
+          "title": "Remediation Priority Ranker",
+          "mode": "records",
+          "fieldCount": 1,
+          "calculators": 0
+        },
+        {
+          "id": "media-accessibility-checker",
+          "title": "Media Accessibility Checker",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "accessibility-readability-score",
+          "title": "Accessibility Readability Score",
+          "mode": "records",
+          "fieldCount": 1,
+          "calculators": 0
+        },
+        {
+          "id": "accessibility-monitoring-dashboard",
+          "title": "Accessibility Monitoring Dashboard",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "remediation-assistant",
+          "title": "AI Remediation Assistant",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "scores",
+          "title": "Accessibility Scores",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "website-accessibility-scanner",
+          "title": "Website Accessibility Scanner",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "accessibility-report-generator",
+          "title": "Accessibility Report Generator",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "remediation-plan-creator",
+          "title": "Remediation Plan Creator",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "pdf-accessibility-checker",
+          "title": "PDF Accessibility Checker",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "form-accessibility-analyzer",
+          "title": "Form Accessibility Analyzer",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 9,
+      "id": "marketing-platform",
+      "title": "Marketing, brand & reputation",
+      "buyer": "Small marketing agencies",
+      "focusedOffer": "Campaign and content review records",
+      "organicAsset": "Content briefs and transparent campaign-review examples",
+      "activation": "Create a campaign or content review record",
+      "mainGap": "Channel execution and live attribution; differentiate from HeyCatch",
+      "sourceApps": 16,
+      "nativePages": 311,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "partner-campaign-analytics",
+          "title": "Partner campaign analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "campaign-preapproval",
+          "title": "Campaign preapproval",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "brand-compliance-validation",
+          "title": "Brand compliance validation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "campaign-roi-and-recovery-analytics",
+          "title": "Campaign ROI and recovery analytics",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "campaign-and-media-plan-registry",
+          "title": "Campaign and media-plan registry",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "campaign-agency-and-channel-analytics",
+          "title": "Campaign agency and channel analytics",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "campaign-creative-registry",
+          "title": "Campaign creative registry",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "campaign-publisher-analytics",
+          "title": "Campaign publisher analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "campaign-order-ingestion",
+          "title": "Campaign order ingestion",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "invoice-campaign-matching",
+          "title": "Invoice campaign matching",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "network-campaign-analytics",
+          "title": "Network campaign analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "brand-voice-check",
+          "title": "Brand Voice Checker",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 10,
+      "id": "media-platform",
+      "title": "Content, publishing, audio & video",
+      "buyer": "Independent creators and small publishers",
+      "focusedOffer": "Production and rights record organization",
+      "organicAsset": "Production checklists and rights-metadata templates",
+      "activation": "Save a content asset and associated rights record",
+      "mainGap": "Actual generation, rendering and publishing are not migrated",
+      "sourceApps": 23,
+      "nativePages": 497,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "rights-and-contract-library",
+          "title": "Rights and contract library",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "work-title-and-asset-registry",
+          "title": "Work title and asset registry",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "territory-and-rights-validation",
+          "title": "Territory and rights validation",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "rights-ownership-mapping",
+          "title": "Rights ownership mapping",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "music-assets",
+          "title": "Music assets & rights",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "music-review",
+          "title": "Music rights & moderation review",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "music-publication-requests",
+          "title": "Music publication requests",
+          "mode": "integration",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "rights-clearance",
+          "title": "AI Rights Clearance",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "licenses",
+          "title": "Rights & Licenses",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "media-assets",
+          "title": "Media Assets",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "consent-rights-check",
+          "title": "Consent Rights",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "assets",
+          "title": "Assets",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 11,
+      "id": "document-platform",
+      "title": "Documents, knowledge & meetings",
+      "buyer": "Consultants and knowledge workers",
+      "focusedOffer": "Document and meeting follow-up records",
+      "organicAsset": "Meeting-to-action templates and document review examples",
+      "activation": "Attach a document and save a review note",
+      "mainGap": "Reliable extraction, meeting ingestion and validated AI output",
+      "sourceApps": 12,
+      "nativePages": 198,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "documents",
+          "title": "Documents",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "meeting-extractor",
+          "title": "Meeting Extractor",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "document-spans",
+          "title": "Document spans",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "api-documentation",
+          "title": "AI API Documentation",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "summarize",
+          "title": "Summarizer",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "features-api-documentation",
+          "title": "Api documentation",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "join-meeting",
+          "title": "Join Meeting",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "meetings",
+          "title": "Meetings",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "meeting-coach",
+          "title": "Meeting Coach",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "meeting-views",
+          "title": "Meeting Views",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "meeting-quality-score",
+          "title": "Meeting Quality Score",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "next-meeting-optimizer",
+          "title": "Next Meeting Optimizer",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 12,
+      "id": "sales-platform",
+      "title": "Sales, CRM & customer success",
+      "buyer": "Small sales teams",
+      "focusedOffer": "Lead and outreach review tracking",
+      "organicAsset": "Lead follow-up worksheets and review examples",
+      "activation": "Save a lead and reviewed outreach draft",
+      "mainGap": "CRM synchronization, permissions and actual delivery",
+      "sourceApps": 13,
+      "nativePages": 247,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "crm-opportunity-ingestion",
+          "title": "CRM opportunity ingestion",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "lead-scores",
+          "title": "Lead Scorer",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "ai-multilingual-outreach-generation",
+          "title": "Multilingual outreach generation",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "leads",
+          "title": "Governed leads",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "outreach",
+          "title": "Outreach review",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "outreach-preference",
+          "title": "Outreach preference",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "sales-lead",
+          "title": "Sales lead",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "sales-outreach",
+          "title": "Sales outreach",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "ownership-reviews",
+          "title": "Lead ownership reviews",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "outreach-review",
+          "title": "Outreach review records",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "outreach-delivery-requests",
+          "title": "Outreach delivery requests",
+          "mode": "integration",
+          "fieldCount": 4,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 13,
+      "id": "events-platform",
+      "title": "Events, venues & cultural institutions",
+      "buyer": "Small event and venue operators",
+      "focusedOffer": "Event preparation and handoff records",
+      "organicAsset": "Event run sheets and venue-preparation guides",
+      "activation": "Save an event and preparation checklist",
+      "mainGap": "Guest registration, capacity controls and provider workflows",
+      "sourceApps": 7,
+      "nativePages": 186,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "ticketing-agreement-library",
+          "title": "Ticketing agreement library",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "event-seat-inventory",
+          "title": "Event seat inventory",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "venue-promoter-split",
+          "title": "Venue promoter split",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "ticketing-statement-audit",
+          "title": "Ticketing statement audit",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "event-channel-analytics",
+          "title": "Event channel analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "venues",
+          "title": "Venues",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "event-suggestions",
+          "title": "AI Event Suggestions",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "ticketing",
+          "title": "Ticketing & Admissions",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "ticket-pricing",
+          "title": "Ticket pricing",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "performance-outcome-prediction-for-ticket-sales-and-review",
+          "title": "performance outcome prediction for ticket sales and review",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "integration-with-ticketing-platforms-eventbrite-brown-paper",
+          "title": "integration with ticketing platforms eventbrite brown paper",
+          "mode": "integration",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "event-recommender",
+          "title": "AI Event Recommender",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 14,
+      "id": "design-platform",
+      "title": "Design, fashion & visual assets",
+      "buyer": "Small creative studios",
+      "focusedOffer": "Design asset and client feedback organization",
+      "organicAsset": "Annotated design reviews and brand asset checklists",
+      "activation": "Save an asset and client review record",
+      "mainGap": "Real creative generation, rendering and client access",
+      "sourceApps": 8,
+      "nativePages": 191,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "api-asset-library",
+          "title": "3D Asset Library",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "brand-asset-creator",
+          "title": "Brand Asset Creator",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "brand-consistency-guardrails-enforcing-u",
+          "title": "brand consistency guardrails enforcing u",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "designs",
+          "title": "My Designs",
+          "mode": "integration",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "agentic-design-consultant-generating-cus",
+          "title": "agentic design consultant generating cus",
+          "mode": "integration",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "design-cost-prediction-across-furniture",
+          "title": "design cost prediction across furniture",
+          "mode": "integration",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "design-code-compliance",
+          "title": "Design code compliance",
+          "mode": "integration",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "ailogo-brand-kit-generator",
+          "title": "Logo brand kit generator work",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 15,
+      "id": "property-platform",
+      "title": "Property, leasing & facilities",
+      "buyer": "Small commercial property teams",
+      "focusedOffer": "CAM charge review",
+      "organicAsset": "Worked CAM calculations and lease-review checklists",
+      "activation": "Run a registered CAM calculation with supplied inputs",
+      "mainGap": "Reliable lease extraction, charge evidence and complete audit workflow",
+      "sourceApps": 21,
+      "nativePages": 516,
+      "registeredCalculations": 20,
+      "sourceEvidence": [
+        {
+          "id": "lease-ingestion",
+          "title": "Lease & Amendment Ingestion",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 1
+        },
+        {
+          "id": "clause-abstraction",
+          "title": "CAM Clause Abstraction",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 1
+        },
+        {
+          "id": "effective-rules",
+          "title": "Effective-Dated Lease Rules",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 1
+        },
+        {
+          "id": "pro-rata",
+          "title": "Pro-Rata Share Validation",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 1
+        },
+        {
+          "id": "lease-renewal-commission",
+          "title": "Lease renewal commission",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "lease-amendment-library",
+          "title": "Lease amendment library",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "leases",
+          "title": "Lease Abstraction",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "compare",
+          "title": "Lease Comparison",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "security",
+          "title": "Security Cameras",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "securityalertanalysis-cameraalarm-summari",
+          "title": "securityalertanalysis cameraalarm summari",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "autorenewal-lease-management",
+          "title": "autorenewal lease management",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "campaigns",
+          "title": "Campaigns",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 16,
+      "id": "restaurant-platform",
+      "title": "Restaurants, catering & food operations",
+      "buyer": "Independent restaurant operators",
+      "focusedOffer": "Supplier-charge and operational record review",
+      "organicAsset": "Worked charge calculations and purchasing checklists",
+      "activation": "Run a registered source calculation on saved inputs",
+      "mainGap": "Customer ordering, payment and provider acceptance are separate gaps",
+      "sourceApps": 21,
+      "nativePages": 346,
+      "registeredCalculations": 16,
+      "sourceEvidence": [
+        {
+          "id": "billing",
+          "title": "Invoices & billing",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "billback-calculation",
+          "title": "Billback calculation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "cost",
+          "title": "Cost Analysis AI",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "costs",
+          "title": "Cost Analytics",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "food-costs",
+          "title": "Food Costs",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "ingredient-costs",
+          "title": "Costs",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "cost-analysis",
+          "title": "AI Cost Analysis",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 17,
+      "id": "education-platform",
+      "title": "Education, assessment & training",
+      "buyer": "Independent educators and training providers",
+      "focusedOffer": "Course and learner progress records",
+      "organicAsset": "Lesson templates and assessment-organization guides",
+      "activation": "Save a course or assessment record",
+      "mainGap": "Learner access, grading rules and delivery workflows",
+      "sourceApps": 24,
+      "nativePages": 425,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "assessment-measure",
+          "title": "Assessment Measure",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "assessment-gap-review",
+          "title": "Assessment gap review",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "source-course",
+          "title": "Source Course",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "target-course",
+          "title": "Target Course",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "course-evidence-extraction",
+          "title": "Course evidence extraction",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "assessments",
+          "title": "Assessments",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "assessment-event",
+          "title": "Assessment Event",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "event-design",
+          "title": "Draft: Assessment Designer",
+          "mode": "integration",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "student-case",
+          "title": "Student Case",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "student-document",
+          "title": "Student Document",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "student-request",
+          "title": "Student Request",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "student-communication",
+          "title": "Student Communication",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 18,
+      "id": "accounting-platform",
+      "title": "Accounting, AP/AR & audit",
+      "buyer": "Small bookkeeping practices",
+      "focusedOffer": "Invoice exception review organization",
+      "organicAsset": "Duplicate-invoice review checklists and reconciliation examples",
+      "activation": "Record an invoice exception and review evidence",
+      "mainGap": "Ledger imports and actual duplicate-detection/reconciliation engines",
+      "sourceApps": 15,
+      "nativePages": 239,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "billing",
+          "title": "Invoices & billing",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "invoice-and-payment-ingestion",
+          "title": "Invoice and payment ingestion",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "exact-duplicate-detection",
+          "title": "Exact duplicate detection",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "fuzzy-invoice-matching",
+          "title": "Fuzzy invoice matching",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "split-invoice-detection",
+          "title": "Split-invoice detection",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "duplicate-expense-analysis",
+          "title": "Duplicate expense analysis",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "statement-to-ledger-reconciliation",
+          "title": "Statement-to-ledger reconciliation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "general-ledger-reconciliation",
+          "title": "General-ledger reconciliation",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "invoice-and-receivable-ingestion",
+          "title": "Invoice and receivable ingestion",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "recovered-cash-reconciliation",
+          "title": "Recovered cash reconciliation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "duplicate-device-billing",
+          "title": "Duplicate device billing",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "invoice-recalculation",
+          "title": "Invoice recalculation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 19,
+      "id": "construction-platform",
+      "title": "Construction, design & project delivery",
+      "buyer": "Small subcontractors",
+      "focusedOffer": "Project and field evidence organization",
+      "organicAsset": "Project handoff templates and evidence checklists",
+      "activation": "Save a project record and supporting file",
+      "mainGap": "Mobile field intake and specialized project/payroll rules",
+      "sourceApps": 15,
+      "nativePages": 397,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "matters",
+          "title": "Work items & projects",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "payroll-project",
+          "title": "Payroll Project",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "payroll-line",
+          "title": "Payroll Line",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "weekly-payroll",
+          "title": "Weekly Payroll",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "payroll-packet-draft",
+          "title": "Payroll packet draft",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "project-cash-forecasting",
+          "title": "Project cash forecasting",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "project-trade-analytics",
+          "title": "Project trade analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "project-risk-dashboard",
+          "title": "Projects: Risk Metrics",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "api-ai-cash-flow-projection",
+          "title": "Cash Flow Projection",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "api-ai-site-vision",
+          "title": "Vision-Based Site Inspection",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "projects-full",
+          "title": "Projects full",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "predictive-project-completion",
+          "title": "Predictive project completion",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 20,
+      "id": "retail-platform",
+      "title": "Retail, inventory & rental operations",
+      "buyer": "Independent shops and rental operators",
+      "focusedOffer": "Inventory and supplier record organization",
+      "organicAsset": "Stock-review templates and purchasing guides",
+      "activation": "Save an item and supplier-related record",
+      "mainGap": "Stock movement integrity, checkout and accounting synchronization",
+      "sourceApps": 18,
+      "nativePages": 364,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "restock-eligibility",
+          "title": "Restock eligibility",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-claim-package",
+          "title": "Supplier claim package",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-response-workflow",
+          "title": "Supplier response workflow",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "inventory-optimizer",
+          "title": "Inventory Optimizer",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-bulk-buy-advisor-aggregating-pu",
+          "title": "supplier bulk buy advisor aggregating pu",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "suppliers",
+          "title": "Suppliers",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-risk",
+          "title": "Supplier Risk",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "dead-stock",
+          "title": "Dead Stock",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-disruption-simulator",
+          "title": "Supplier Disruption Simulator",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "agentic-inventory-manager-autonomously-p",
+          "title": "agentic inventory manager autonomously p",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-performance-reliability-trackin",
+          "title": "supplier performance reliability trackin",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "file-upload-for-supplier-docs",
+          "title": "file upload for supplier docs",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 21,
+      "id": "auto-platform",
+      "title": "Automotive sales, repair & inspections",
+      "buyer": "Independent repair shops",
+      "focusedOffer": "Repair and warranty evidence records",
+      "organicAsset": "Repair-order checklists and warranty evidence examples",
+      "activation": "Save a repair or claim evidence record",
+      "mainGap": "Workshop scheduling, OEM rules and live claim submission",
+      "sourceApps": 7,
+      "nativePages": 146,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "vin-and-warranty-eligibility",
+          "title": "VIN and warranty eligibility",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "repair-order-ingestion",
+          "title": "Repair-order ingestion",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "repair-timelines",
+          "title": "Repair Timelines",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "vehicles",
+          "title": "Vehicles",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "agentic-vehicle-health-monitoring",
+          "title": "Agentic vehicle health monitoring",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "real-vehicle-api-integration-bmw-connecteddrive",
+          "title": "No real vehicle API integration (BMW ConnectedDrive, Tesla API, OBD2)",
+          "mode": "integration",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "warranty",
+          "title": "Warranty Info",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "vehicle-history",
+          "title": "Vehicle History",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "vision-based-damage-assessment-from-photos-with-repair-cost",
+          "title": "vision based damage assessment from photos with repair cost",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "predictive-maintenance-flagging-vehicles-by-age-mileage-condition",
+          "title": "predictive maintenance flagging vehicles by age mileage condition",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "repair-shop-network-with-quality-ratings",
+          "title": "repair shop network with quality ratings",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "vin-decoder-integration-for-auto-populated-vehicle-profiles",
+          "title": "vin decoder integration for auto populated vehicle profiles",
+          "mode": "integration",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 22,
+      "id": "hospitality-platform",
+      "title": "Hotels, travel & recreation stays",
+      "buyer": "Small lodging operators",
+      "focusedOffer": "Property operations and guest preparation",
+      "organicAsset": "Guest-preparation guides and housekeeping templates",
+      "activation": "Save a property or operational task record",
+      "mainGap": "Reservation availability and channel/payment integration",
+      "sourceApps": 8,
+      "nativePages": 249,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "property-room-registry",
+          "title": "Property room registry",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "property-brand-economics",
+          "title": "Property brand economics",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "account-property-mapping",
+          "title": "Account property mapping",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "property-account-analytics",
+          "title": "Property account analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "property-and-channel-registry",
+          "title": "Property and channel registry",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "guests",
+          "title": "Guests",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "housekeeping",
+          "title": "Housekeeping",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "guest-ltv",
+          "title": "Guest ltv",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "guest-segmentation",
+          "title": "Guest segmentation",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "guest-lifecycle-ai-predicting-ltv-and",
+          "title": "guest lifecycle ai predicting ltv and",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "guest-segmentation-ai",
+          "title": "guest segmentation ai",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "file-upload-for-guest-documents",
+          "title": "file upload for guest documents",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 23,
+      "id": "product-platform",
+      "title": "Product, projects & engineering operations",
+      "buyer": "Small software product teams",
+      "focusedOffer": "Feedback and delivery review organization",
+      "organicAsset": "Release checklists and issue-review walkthroughs",
+      "activation": "Save a product issue and review record",
+      "mainGap": "Repository synchronization and actual engineering analytics",
+      "sourceApps": 11,
+      "nativePages": 190,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "pull-request",
+          "title": "Pull Request",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "review-cycle",
+          "title": "Review Cycle",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "feedback-signal",
+          "title": "Feedback Signal",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "design-review",
+          "title": "Design Review",
+          "mode": "integration",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "feedback",
+          "title": "Feedback",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "feedback-without-sentiment",
+          "title": "Feedback without `/sentiment",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "customer-feedback",
+          "title": "Customer Feedback",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "sentimentdriven-sprint-review",
+          "title": "sentimentdriven sprint review",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 24,
+      "id": "personal-legacy-platform",
+      "title": "Personal history & family legacy",
+      "buyer": "Family history organizers",
+      "focusedOffer": "Family history record collection",
+      "organicAsset": "Interview prompts and family-history examples",
+      "activation": "Save a family record with an attachment",
+      "mainGap": "Family sharing, durable export and specialized visualization",
+      "sourceApps": 4,
+      "nativePages": 113,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "relationships",
+          "title": "Family Relationships",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "history",
+          "title": "History",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "family-tree-community",
+          "title": "Family tree community",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "family-trees",
+          "title": "Family Trees",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "historical-records",
+          "title": "Historical Records",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "family-tree-visualization-ui-module",
+          "title": "family tree visualization ui module",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 25,
+      "id": "business-operations-platform",
+      "title": "Business operations & organizational knowledge",
+      "buyer": "Small operations teams",
+      "focusedOffer": "Decision and task evidence tracking",
+      "organicAsset": "Decision-log templates and operations handoff examples",
+      "activation": "Save a decision or work item with evidence",
+      "mainGap": "Useful source connectors and differentiated decision workflows",
+      "sourceApps": 9,
+      "nativePages": 159,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "sources",
+          "title": "Sources",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "insights",
+          "title": "Insights",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "decision-replay",
+          "title": "Decision replay",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "source-onboarding",
+          "title": "Source onboarding",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "decision-brief",
+          "title": "Decision Brief",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "source-feed",
+          "title": "Source Feed",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "brief-draft",
+          "title": "Draft: Decision Brief Drafter",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "decisions",
+          "title": "Decisions",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "source-connectors",
+          "title": "Source connectors",
+          "mode": "integration",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "query-route-to-source",
+          "title": "Query route to source",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 26,
+      "id": "workforce-platform",
+      "title": "HR, workforce & talent operations",
+      "buyer": "Small HR consultancies",
+      "focusedOffer": "Recruiting and workforce record review",
+      "organicAsset": "Hiring checklists and interview-planning templates",
+      "activation": "Save a candidate or workforce review record",
+      "mainGap": "Applicant access, employment rules and HR-system integrations",
+      "sourceApps": 12,
+      "nativePages": 309,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "employee-dependent-census",
+          "title": "Employee dependent census",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "employee",
+          "title": "Employee",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "employee-surveys",
+          "title": "Employee Surveys",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "aiemployee-benefits-optimizer",
+          "title": "Employee benefits optimizer work",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "exit-interviews",
+          "title": "Exit Interviews",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "candidates",
+          "title": "Candidates",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "interviews",
+          "title": "Interviews",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "interviewanalysis-transcribe-sentiment-re",
+          "title": "Interview Analysis",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "sentiment-analyzer",
+          "title": "AI Employee Sentiment Analyzer",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "exit-interview",
+          "title": "AI Exit Interview Analyzer",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "interview-scheduler",
+          "title": "AI Interview Scheduler",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "hr-interview-scheduler",
+          "title": "Interview scheduler",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 27,
+      "id": "childcare-platform",
+      "title": "Childcare & daycare operations",
+      "buyer": "Small daycare operators",
+      "focusedOffer": "Child activity and parent handoff records",
+      "organicAsset": "Daily activity templates and parent handoff examples",
+      "activation": "Save a child activity record",
+      "mainGap": "Parent/staff permissions and real communications",
+      "sourceApps": 2,
+      "nativePages": 83,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "audit",
+          "title": "Activity & audit trail",
+          "mode": "audit",
+          "fieldCount": 0,
+          "calculators": 0
+        },
+        {
+          "id": "children",
+          "title": "Child Profiles",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "milestones",
+          "title": "Development Milestones",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "activities",
+          "title": "Activity Planning",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "predictive-child-development-flagging",
+          "title": "CF: PredictiveChildDevelopme",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 28,
+      "id": "wellness-platform",
+      "title": "Mental health, nutrition & wellness",
+      "buyer": "Independent nonclinical wellness coaches",
+      "focusedOffer": "Coaching and meal-planning records",
+      "organicAsset": "Coach-created planning templates and routine trackers",
+      "activation": "Save a coaching plan and review note",
+      "mainGap": "Separate nonclinical scope and validate specialized advice workflows",
+      "sourceApps": 7,
+      "nativePages": 121,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "personalized-health-coaching-generating",
+          "title": "personalized health coaching generating",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "meal-plans",
+          "title": "Meal plans",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "fitness-meal-preps",
+          "title": "Fitness meal preps",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "nutrition",
+          "title": "Nutrition",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "nutrition-balances",
+          "title": "Nutrition Balancer",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "meal-prep-plan",
+          "title": "Meal Prep Plan",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "nutritionistintheloop-meal-planning",
+          "title": "nutritionistintheloop meal planning",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "costminimizing-meal-planner",
+          "title": "costminimizing meal planner",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "family-meal-consensus",
+          "title": "family meal consensus",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "budgetoptimizer-costaware-nutrition-goals",
+          "title": "budgetoptimizer costaware nutrition goals",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "mealprepplan-batch-cooking-recommendation",
+          "title": "mealprepplan batch cooking recommendation",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "meal-photo-recognition",
+          "title": "meal photo recognition",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 29,
+      "id": "agriculture-platform",
+      "title": "Agriculture, fisheries & food production",
+      "buyer": "Small farm operators",
+      "focusedOffer": "Farm operational and purchasing records",
+      "organicAsset": "Seasonal planning templates and input-cost worksheets",
+      "activation": "Save a farm or purchasing record",
+      "mainGap": "Field data intake and actual agricultural calculations",
+      "sourceApps": 18,
+      "nativePages": 338,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "farm-account-registry",
+          "title": "Farm account registry",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "purchase-transaction-ingestion",
+          "title": "Purchase transaction ingestion",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "farm-supplier-analytics",
+          "title": "Farm supplier analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "audit-crop-rotation",
+          "title": "Crop rotation",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "audit-multi-tenant-farms",
+          "title": "Multi tenant farms",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "crop-diseases",
+          "title": "Crop diseases",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "farm-chat",
+          "title": "Farm chat",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "farms",
+          "title": "Farms",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "cross-farm-benchmark",
+          "title": "Cross-Farm Benchmarking",
+          "mode": "records",
+          "fieldCount": 1,
+          "calculators": 0
+        },
+        {
+          "id": "multi-modal-crop-health-assessment",
+          "title": "Multi modal crop health assessment",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "farmer-decision-support",
+          "title": "Farmer decision support",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "farm-management-lacks-ai-yield-forecasting-endpoint",
+          "title": "Farm management lacks ai yield forecasting endpoint",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 30,
+      "id": "ai-data-platform",
+      "title": "AI agents, data & model operations",
+      "buyer": "Small AI development teams",
+      "focusedOffer": "Evaluation and evidence organization",
+      "organicAsset": "Reproducible evaluation checklists and experiment logs",
+      "activation": "Save an evaluation record and evidence",
+      "mainGap": "Actual model execution, ingestion and evaluation runners",
+      "sourceApps": 21,
+      "nativePages": 449,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "base-models",
+          "title": "Base Models",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "custom-models",
+          "title": "Custom Models",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "evaluations",
+          "title": "Evaluations",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "model-comparisons",
+          "title": "Model Comparisons",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "marketplace",
+          "title": "Model Marketplace",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "on-device-models",
+          "title": "On-Device Models",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "model-router-select",
+          "title": "AI \u00b7 Model Router",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "model-cache",
+          "title": "Model cache",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "dashboard-benchmarks",
+          "title": "Model Benchmarks",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "dashboard-models",
+          "title": "Model Registry",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "api-ai-model-recommendation",
+          "title": "Model Recommendation",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "api-ai-custom-model-register",
+          "title": "Register Custom Model",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 31,
+      "id": "legal-platform",
+      "title": "Legal practice & legal questions",
+      "buyer": "Small law practices",
+      "focusedOffer": "Matter and document review organization",
+      "organicAsset": "Matter checklists and reviewed document examples",
+      "activation": "Attach a document to a matter and save a review note",
+      "mainGap": "Client confidentiality controls, source-grounded legal workflows and reviewer roles",
+      "sourceApps": 26,
+      "nativePages": 575,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "matters",
+          "title": "Matters & cases",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "contract-review",
+          "title": "Contract review",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "research",
+          "title": "Legal research & citations",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "matter-and-budget-registry",
+          "title": "Matter and budget registry",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "firm-matter-and-savings-analytics",
+          "title": "Firm matter and savings analytics",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "limited-integration-with-court-calendars-legal-research-lexi",
+          "title": "Limited integration with court calendars legal research lexi",
+          "mode": "integration",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "matter-note",
+          "title": "Matter note",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 32,
+      "id": "games-platform",
+      "title": "Games & interactive entertainment",
+      "buyer": "Small game-production teams",
+      "focusedOffer": "Playtest and tournament organization",
+      "organicAsset": "Playtest templates and tournament planning guides",
+      "activation": "Save a playtest or match record",
+      "mainGap": "Playable experiences and specialized game engines are not migrated",
+      "sourceApps": 6,
+      "nativePages": 90,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "players",
+          "title": "Players",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "matches",
+          "title": "Matches",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "tournaments",
+          "title": "Tournaments",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "tournament-brief",
+          "title": "Tournament brief",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "sponsorship-match",
+          "title": "Sponsorship match",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "player-profiles",
+          "title": "Player Profiles",
+          "mode": "records",
+          "fieldCount": 9,
+          "calculators": 0
+        },
+        {
+          "id": "player-retention-intervention-ai",
+          "title": "player retention intervention ai",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 33,
+      "id": "tax-platform",
+      "title": "Tax preparation, compliance & recovery",
+      "buyer": "Small tax practices",
+      "focusedOffer": "Tax evidence and review organization",
+      "organicAsset": "Evidence-collection checklists for one narrow tax workflow",
+      "activation": "Save an evidence item and review record",
+      "mainGap": "Jurisdiction-specific calculations, authoritative rules and filing integration",
+      "sourceApps": 28,
+      "nativePages": 391,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "taxpaid-removal-ingestion",
+          "title": "Taxpaid removal ingestion",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "proof-of-export-evidence",
+          "title": "Proof-of-export evidence",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "destruction-loss-evidence",
+          "title": "Destruction loss evidence",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "territory-tax-treatment",
+          "title": "Territory tax treatment",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "evidence-packet-generation",
+          "title": "Evidence packet generation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "business-purpose-evidence",
+          "title": "Business purpose evidence",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "tax-authority-query-workflow",
+          "title": "Tax authority query workflow",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "tax-life-method-assignment",
+          "title": "Tax life method assignment",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "book-to-tax-reconciliation",
+          "title": "Book-to-tax reconciliation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "tax-schedule-generation",
+          "title": "Tax schedule generation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "amended-return-support",
+          "title": "Amended return support",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "tax-benefit-analytics",
+          "title": "Tax benefit analytics",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 34,
+      "id": "scientific-research-platform",
+      "title": "Scientific research & experiment knowledge",
+      "buyer": "Small research groups",
+      "focusedOffer": "Experiment and evidence organization",
+      "organicAsset": "Reproducibility checklists and experiment templates",
+      "activation": "Save an experiment with a supporting file",
+      "mainGap": "Reproducible execution, scientific validation and collaboration",
+      "sourceApps": 3,
+      "nativePages": 75,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "hypotheses",
+          "title": "Hypotheses",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "experiments",
+          "title": "Experiments",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "results",
+          "title": "Results",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 35,
+      "id": "logistics-platform",
+      "title": "Logistics, warehouse & transport",
+      "buyer": "Small freight and warehouse consultants",
+      "focusedOffer": "Freight-charge review",
+      "organicAsset": "Worked charge calculations and shipment evidence checklists",
+      "activation": "Run a registered source calculation",
+      "mainGap": "Carrier/warehouse imports and complete reconciliation workflows",
+      "sourceApps": 31,
+      "nativePages": 565,
+      "registeredCalculations": 15,
+      "sourceEvidence": [
+        {
+          "id": "storage-position-recalculation",
+          "title": "Storage position recalculation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "labor-charge-audit",
+          "title": "Labor charge audit",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "chargeable-weight-calculation",
+          "title": "Chargeable weight calculation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "security-surcharge-audit",
+          "title": "Security surcharge audit",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "fuel-surcharge-validation",
+          "title": "Fuel surcharge validation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "minimum-charge-calculation",
+          "title": "Minimum charge calculation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "storage-agreement-library",
+          "title": "Storage agreement library",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "blast-freezing-charge",
+          "title": "Blast freezing charge",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "energy-surcharge-validation",
+          "title": "Energy surcharge validation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "split-charge-validation",
+          "title": "Split charge validation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "flip-charge-validation",
+          "title": "Flip charge validation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "storage-yard-charge-control",
+          "title": "Storage yard charge control",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 36,
+      "id": "governance-platform",
+      "title": "Governance, privacy & compliance",
+      "buyer": "Small compliance consultancies",
+      "focusedOffer": "Control and evidence review tracking",
+      "organicAsset": "Control-mapping templates and evidence preparation guides",
+      "activation": "Save a control or assessment with evidence",
+      "mainGap": "Validated rule mappings and independent reviewer permissions",
+      "sourceApps": 12,
+      "nativePages": 220,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "agent-governance-control-tower",
+          "title": "Agent governance control tower work",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "regulatory-change-impact-mapper",
+          "title": "Regulatory change impact mapper work",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "regulations",
+          "title": "Regulations",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "assessments",
+          "title": "Assessments",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "control-attestation-queue",
+          "title": "Control attestation queue",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "controlled-items",
+          "title": "Controlled items",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "regulatory-updates",
+          "title": "Regulatory updates",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "privacy-impact-assessments",
+          "title": "Privacy Impact Assessments",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "controls",
+          "title": "Controls",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "control-mapper",
+          "title": "Control mapper",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "access-control",
+          "title": "Access Control",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "generate-assessment",
+          "title": "Assessment Builder",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 37,
+      "id": "security-platform",
+      "title": "Cybersecurity & digital trust",
+      "buyer": "Small security service providers",
+      "focusedOffer": "Remediation and incident evidence tracking",
+      "organicAsset": "Incident-review checklists and remediation walkthroughs",
+      "activation": "Save an incident and supporting evidence",
+      "mainGap": "Live telemetry, detection execution and trusted permissions",
+      "sourceApps": 10,
+      "nativePages": 248,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "alerts",
+          "title": "Alerts",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "incidents",
+          "title": "Incidents",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "triage-alerts",
+          "title": "Triage alerts",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "remediation-estimator",
+          "title": "Remediation estimator",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "post-incident-report",
+          "title": "Post incident report",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "weather",
+          "title": "Weather Alerts",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "ics-alerts",
+          "title": "ICS Alerts",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "ics-incidents",
+          "title": "ICS Incidents",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "triage-ics-alert",
+          "title": "AI \u00b7 Triage ICS Alert",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "classify-incident",
+          "title": "AI \u00b7 Classify Incident",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "computer-vision-incident-detection",
+          "title": "Computer vision incident detection",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "incident-analysis",
+          "title": "Incident Analysis",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 38,
+      "id": "insurance-platform",
+      "title": "Insurance policy, claims & recovery",
+      "buyer": "Independent insurance consultants",
+      "focusedOffer": "Claim evidence organization",
+      "organicAsset": "Claim-file preparation guides and evidence templates",
+      "activation": "Save a claim evidence and review record",
+      "mainGap": "Coverage interpretation, claim rules and carrier integration",
+      "sourceApps": 24,
+      "nativePages": 404,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "policy-endorsement-and-sublimit-library",
+          "title": "Policy endorsement and sublimit library",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "physical-damage-evidence",
+          "title": "Physical damage evidence",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "claim-documentation-package",
+          "title": "Claim documentation package",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "claim-scenario-analytics",
+          "title": "Claim scenario analytics",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "damage-photo-and-survey-evidence",
+          "title": "Damage photo and survey evidence",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "claim-filing-deadline-control",
+          "title": "Claim filing deadline control",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "claim-packet-generation",
+          "title": "Claim packet generation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "claim-loss-ingestion",
+          "title": "Claim loss ingestion",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "claims-litigation-early-warning-system",
+          "title": "Claims litigation early warning system work",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "policy-premium-ingestion",
+          "title": "Policy premium ingestion",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "carrier-claim-package",
+          "title": "Carrier claim package",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "evidence",
+          "title": "Evidence & Documents",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 39,
+      "id": "procurement-platform",
+      "title": "Procurement & supplier management",
+      "buyer": "Small procurement consultancies",
+      "focusedOffer": "Supplier and purchasing review tracking",
+      "organicAsset": "Supplier-review templates and contract checklists",
+      "activation": "Save a supplier review with evidence",
+      "mainGap": "ERP imports, actual pricing engines and approval controls",
+      "sourceApps": 16,
+      "nativePages": 282,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "supplier-dispute-workflow",
+          "title": "Supplier dispute workflow",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "material-supplier-analytics",
+          "title": "Material supplier analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-contract-library",
+          "title": "Supplier contract library",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "purchase-order-ingestion",
+          "title": "Purchase-order ingestion",
+          "mode": "records",
+          "fieldCount": 10,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-exception-workbench",
+          "title": "Supplier exception workbench",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-and-category-leakage-analytics",
+          "title": "Supplier and category leakage analytics",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "return-to-vendor-linkage",
+          "title": "Return-to-vendor linkage",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-claim-workflow",
+          "title": "Supplier claim workflow",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "buyer-supplier-analytics",
+          "title": "Buyer supplier analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "vendor-registry",
+          "title": "Technology Vendor Registry",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "invoice-reconciliation",
+          "title": "Invoice & Purchase-Order Reconciliation",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-agreement-library",
+          "title": "Supplier agreement library",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 40,
+      "id": "manufacturing-platform",
+      "title": "Manufacturing, quality & maintenance",
+      "buyer": "Small manufacturing consultants",
+      "focusedOffer": "Quality and maintenance evidence records",
+      "organicAsset": "Maintenance planning and inspection templates",
+      "activation": "Save an inspection or maintenance record",
+      "mainGap": "Machine/ERP data and verified quality rules",
+      "sourceApps": 20,
+      "nativePages": 400,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "off-spec-quality-credits",
+          "title": "Off-spec quality credits",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "quality-rejection-chargeback",
+          "title": "Quality rejection chargeback",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "maintenance-responsibility",
+          "title": "Maintenance responsibility",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "quality-scoring",
+          "title": "Quality Scoring",
+          "mode": "records",
+          "fieldCount": 9,
+          "calculators": 0
+        },
+        {
+          "id": "maintenance-logs",
+          "title": "Maintenance Logs",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "quality-checkpoints",
+          "title": "Quality Checkpoints",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "quality-analysis",
+          "title": "AI Quality Analysis",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "predictive-maintenance",
+          "title": "AI Predictive Maintenance",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "predictive-maintenance-scheduler",
+          "title": "Predictive Maintenance Scheduler",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "quality-checkpoint-auto-designer",
+          "title": "Quality Checkpoint Auto-Designer",
+          "mode": "integration",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "maintenance",
+          "title": "Maintenance Scheduling",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "predictive",
+          "title": "Predictive Maintenance",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 41,
+      "id": "home-care-platform",
+      "title": "Home care, hospice & elder care",
+      "buyer": "Small home-care agencies",
+      "focusedOffer": "Care coordination record organization",
+      "organicAsset": "Administrative handoff templates and staffing guides",
+      "activation": "Save a care plan or incident record",
+      "mainGap": "Care consent, access controls and dispatch execution",
+      "sourceApps": 6,
+      "nativePages": 122,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "care-enrollments",
+          "title": "Care enrollments",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "care-plans",
+          "title": "Care plans",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "care-incidents",
+          "title": "Care incidents",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "api-ai-care-plan-narrative",
+          "title": "Generate Care Plan Narrative",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 42,
+      "id": "dental-platform",
+      "title": "Dental practice & laboratories",
+      "buyer": "Small dental practices",
+      "focusedOffer": "Recall and lab-case administration",
+      "organicAsset": "Recall-process guides and lab handoff checklists",
+      "activation": "Save a patient administration or case record",
+      "mainGap": "Practice-system integration, patient controls and live scheduling",
+      "sourceApps": 3,
+      "nativePages": 59,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "aidental-lab-case-manager",
+          "title": "Dental lab case manager work",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "patients",
+          "title": "Patients",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "recalls",
+          "title": "Recall Campaigns",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "perio-recall-readiness",
+          "title": "Perio Recall",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "identify-recall-candidates",
+          "title": "Identify Recall Candidates",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "patient-risk-scoring",
+          "title": "Patient Risk Scoring",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "patient-risk-stratification",
+          "title": "Patient risk stratification",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "missing-predict-treatment-outcome-identify-recall-candidates",
+          "title": "Missing predict treatment outcome identify recall candidates",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "patient-portal-is-scaffolded-but-reminder-system-incomplete",
+          "title": "Patient portal is scaffolded but reminder system incomplete",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "patient",
+          "title": "Patient",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "patient-consent",
+          "title": "Patient consent",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 43,
+      "id": "specialty-care-platform",
+      "title": "Specialty clinic operations",
+      "buyer": "Small outpatient practices",
+      "focusedOffer": "Specialty clinic administrative records",
+      "organicAsset": "Intake and administrative handoff checklists",
+      "activation": "Save an administrative intake record",
+      "mainGap": "Clinical validity, patient permissions and practice integrations",
+      "sourceApps": 10,
+      "nativePages": 123,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "patients",
+          "title": "Patients",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "prescriptions",
+          "title": "Prescriptions",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "appointments",
+          "title": "Appointments",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "recalls",
+          "title": "Patient Recalls",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "agentic-patient-follow-up",
+          "title": "agentic patient follow up",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "prescription-conflict-checking",
+          "title": "prescription conflict checking",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "patients-without-patient",
+          "title": "patients without patient",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "appointments-without-schedule",
+          "title": "appointments without schedule",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "patient-portal-for-self",
+          "title": "patient portal for self",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "appointments-without-appointment",
+          "title": "Appointments without `/appointment",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "exercise-prescription",
+          "title": "Exercise prescription",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "appointment-optimize",
+          "title": "Appointment optimize",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 44,
+      "id": "environment-platform",
+      "title": "Environment, water, waste & carbon",
+      "buyer": "Environmental consultancies",
+      "focusedOffer": "Inspection and environmental evidence tracking",
+      "organicAsset": "Inspection checklists and monitoring report examples",
+      "activation": "Save a measurement or inspection record",
+      "mainGap": "Jurisdiction-specific rules and validated monitoring calculations",
+      "sourceApps": 28,
+      "nativePages": 499,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "emission-facility",
+          "title": "Emission Facility",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "emission-unit",
+          "title": "Emission Unit",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "permit-condition",
+          "title": "Permit Condition",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "emission-factor",
+          "title": "Emission Factor",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "emission-report",
+          "title": "Emission Report",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "permit-condition-extraction",
+          "title": "Permit condition extraction",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "engineering-inspection",
+          "title": "Engineering Inspection",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "permit-limit-extraction",
+          "title": "Permit limit extraction",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "package-inspection",
+          "title": "Package Inspection",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "permit-restriction-extraction",
+          "title": "Permit restriction extraction",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "emissions-tracker",
+          "title": "Emissions Tracker",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "scopes-emissions",
+          "title": "Scopes emissions",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 45,
+      "id": "medical-device-platform",
+      "title": "Medical-device quality & compliance",
+      "buyer": "Small device-quality consultancies",
+      "focusedOffer": "CAPA and standards evidence records",
+      "organicAsset": "Quality evidence templates and CAPA walkthroughs",
+      "activation": "Save a CAPA record with supporting evidence",
+      "mainGap": "Validated quality processes, signatures and change controls",
+      "sourceApps": 2,
+      "nativePages": 37,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "standards",
+          "title": "Standards",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "risk-assessments",
+          "title": "Risk Assessments",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "capa",
+          "title": "CAPA",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "cat-standards",
+          "title": "AI Standards",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "cat-risk",
+          "title": "AI Risk Mgmt",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "cat-capa",
+          "title": "AI CAPA",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 46,
+      "id": "clinical-research-platform",
+      "title": "Clinical research & life sciences",
+      "buyer": "Small study administration teams",
+      "focusedOffer": "Study evidence and document review records",
+      "organicAsset": "Study administration checklists and evidence templates",
+      "activation": "Save a study review and supporting document",
+      "mainGap": "Study permissions, protocol logic and validated integrations",
+      "sourceApps": 13,
+      "nativePages": 268,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "study-protocol-registry",
+          "title": "Study protocol registry",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "participant-enrollment",
+          "title": "Participant enrollment",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "study-billing-analytics",
+          "title": "Study billing analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "protocol-and-site-registry",
+          "title": "Protocol and site registry",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "study-profitability-analytics",
+          "title": "Study profitability analytics",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "protocols",
+          "title": "Protocols",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "protocol-analysis",
+          "title": "Protocol Analysis",
+          "mode": "records",
+          "fieldCount": 1,
+          "calculators": 0
+        },
+        {
+          "id": "protocol-optimizer",
+          "title": "Protocol Optimizer",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "protocol-version-diff",
+          "title": "Protocol Version Diff",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "draft-protocol",
+          "title": "Draft protocol",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "protocol-version-graph",
+          "title": "Protocol version graph",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "cycle-protocol-optimization",
+          "title": "cycle protocol optimization",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 47,
+      "id": "lab-traceability-platform",
+      "title": "Laboratory, tissue & specimen operations",
+      "buyer": "Small laboratory operators",
+      "focusedOffer": "Specimen and consent record organization",
+      "organicAsset": "Specimen handoff and consent-tracking templates",
+      "activation": "Save a specimen and associated consent record",
+      "mainGap": "Chain-of-custody guarantees and laboratory integrations",
+      "sourceApps": 7,
+      "nativePages": 115,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "biobank-collection",
+          "title": "Biobank Collection",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "consent-version",
+          "title": "Consent Version",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "specimen",
+          "title": "Specimen",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "specimen-placement",
+          "title": "Specimen Placement",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "specimen-access",
+          "title": "Specimen Access",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "consent-restriction-extraction",
+          "title": "Consent restriction extraction",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "consent-record-extraction",
+          "title": "Consent record extraction",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 48,
+      "id": "pharmacy-platform",
+      "title": "Pharmacy operations & drug reimbursement",
+      "buyer": "Pharmacy operations consultants",
+      "focusedOffer": "Reimbursement and purchasing evidence tracking",
+      "organicAsset": "Narrow reimbursement evidence checklists",
+      "activation": "Save a reimbursement exception with evidence",
+      "mainGap": "NDC/pricing logic, dispensing controls and provider connections",
+      "sourceApps": 10,
+      "nativePages": 125,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "contract-customer-registry",
+          "title": "Contract customer registry",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "eligibility-date-validation",
+          "title": "Eligibility date validation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "contract-price-calculation",
+          "title": "Contract price calculation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "chargeback-amount-calculation",
+          "title": "Chargeback amount calculation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "contract-acquisition-cost-calculation",
+          "title": "Contract acquisition-cost calculation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "mac-appeal-eligibility",
+          "title": "MAC appeal eligibility",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "pbm-contract-library",
+          "title": "PBM contract library",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 49,
+      "id": "healthcare-revenue-platform",
+      "title": "Healthcare revenue & payer reconciliation",
+      "buyer": "Revenue-cycle consultants",
+      "focusedOffer": "Payer exception review records",
+      "organicAsset": "Narrow denial evidence guides and review templates",
+      "activation": "Save a payer exception and review evidence",
+      "mainGap": "Payer imports, coding rules and patient-data controls",
+      "sourceApps": 40,
+      "nativePages": 591,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "patient-payer-eligibility",
+          "title": "Patient payer eligibility",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "denial-classification",
+          "title": "Denial classification",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "secondary-payer-coordination",
+          "title": "Secondary payer coordination",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "base-mileage-payer-analytics",
+          "title": "Base mileage payer analytics",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "denial-rate-analytics",
+          "title": "Denial rate analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "payer-procedure-analytics",
+          "title": "Payer procedure analytics",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "patient-eligibility-registry",
+          "title": "Patient eligibility registry",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "denial-appeal-workflow",
+          "title": "Denial appeal workflow",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "product-payer-profitability",
+          "title": "Product payer profitability",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "member-eligibility",
+          "title": "Member eligibility",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "medicare-eligibility-matching",
+          "title": "Medicare eligibility matching",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "claim-payer-order-calculation",
+          "title": "Claim payer-order calculation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 50,
+      "id": "finance-risk-platform",
+      "title": "Financial risk & fraud controls",
+      "buyer": "Risk operations consultants",
+      "focusedOffer": "Fee and exception evidence organization",
+      "organicAsset": "Narrow transaction review checklists",
+      "activation": "Save an exception with supporting evidence",
+      "mainGap": "Validated detection models and transaction integrations",
+      "sourceApps": 13,
+      "nativePages": 266,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "network-fee-library",
+          "title": "Network fee library",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "switch-fee-validation",
+          "title": "Switch fee validation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "token-service-fee-audit",
+          "title": "Token service fee audit",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "account-updater-fee-audit",
+          "title": "Account updater fee audit",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "authorization-fee-control",
+          "title": "Authorization fee control",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "chargeback-fee-validation",
+          "title": "Chargeback fee validation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "foreign-exchange-fee-audit",
+          "title": "Foreign exchange fee audit",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "late-fee-validation",
+          "title": "Late fee validation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "duplicate-fee-detection",
+          "title": "Duplicate fee detection",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "refund-and-reversal-fee-audit",
+          "title": "Refund and reversal fee audit",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "cross-border-and-currency-fee-audit",
+          "title": "Cross-border and currency fee audit",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "chargeback-fee-reconciliation",
+          "title": "Chargeback fee reconciliation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 51,
+      "id": "investment-platform",
+      "title": "Investment & wealth operations",
+      "buyer": "Investment operations consultants",
+      "focusedOffer": "Fee and investment evidence review",
+      "organicAsset": "Fee-review worksheets and recordkeeping checklists",
+      "activation": "Save a fee-review record",
+      "mainGap": "Authoritative financial calculations and account integrations",
+      "sourceApps": 16,
+      "nativePages": 404,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "investment-option-registry",
+          "title": "Investment option registry",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "sub-ta-fee-calculation",
+          "title": "Sub-TA fee calculation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "shareholder-service-fee",
+          "title": "Shareholder service fee",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "gross-to-net-expense-review",
+          "title": "Gross-to-net expense review",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "excess-fee-detection",
+          "title": "Excess fee detection",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "base-administration-fee",
+          "title": "Base administration fee",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "fund-accounting-fee",
+          "title": "Fund accounting fee",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "transfer-agency-fee",
+          "title": "Transfer agency fee",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "performance-fee-support",
+          "title": "Performance fee support",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "expense-category-classification",
+          "title": "Expense category classification",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "co-investment-treatment",
+          "title": "Co-investment treatment",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "fund-expense-analytics",
+          "title": "Fund expense analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 52,
+      "id": "banking-credit-platform",
+      "title": "Lending, mortgage & credit operations",
+      "buyer": "Lending operations consultants",
+      "focusedOffer": "Loan and servicing evidence review",
+      "organicAsset": "Servicing evidence checklists and administrative guides",
+      "activation": "Save a servicing exception record",
+      "mainGap": "Credit/servicing rules and regulated system integration",
+      "sourceApps": 10,
+      "nativePages": 209,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "fee-schedule-versioning",
+          "title": "Fee schedule versioning",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "late-fee-validation",
+          "title": "Late fee validation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "nsf-fee-sequence-analysis",
+          "title": "NSF fee sequence analysis",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "convenience-fee-review",
+          "title": "Convenience fee review",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "duplicate-fee-detection",
+          "title": "Duplicate fee detection",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "product-fee-analytics",
+          "title": "Product fee analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "credit-agreement-library",
+          "title": "Credit agreement library",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "unused-commitment-fee",
+          "title": "Unused commitment fee",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "letter-of-credit-fee-audit",
+          "title": "Letter-of-credit fee audit",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "agent-lender-fee-reconciliation",
+          "title": "Agent lender fee reconciliation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "default-loan-registry",
+          "title": "Default loan registry",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "attorney-fee-validation",
+          "title": "Attorney fee validation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 53,
+      "id": "energy-platform",
+      "title": "Energy assets, grid & utilities",
+      "buyer": "Energy operations consultancies",
+      "focusedOffer": "Asset and settlement evidence tracking",
+      "organicAsset": "Asset review templates and settlement evidence guides",
+      "activation": "Save an asset or settlement review record",
+      "mainGap": "Telemetry, settlement engines and utility integration",
+      "sourceApps": 27,
+      "nativePages": 469,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "battery-asset-registry",
+          "title": "Battery asset registry",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "dispatch-instruction-ingestion",
+          "title": "Dispatch instruction ingestion",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "settlement-statement-matching",
+          "title": "Settlement statement matching",
+          "mode": "records",
+          "fieldCount": 9,
+          "calculators": 0
+        },
+        {
+          "id": "asset-market-analytics",
+          "title": "Asset market analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "site-asset-registry",
+          "title": "Site asset registry",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "partner-settlement-reconciliation",
+          "title": "Partner settlement reconciliation",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "residue-gas-settlement",
+          "title": "Residue gas settlement",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "asset-eligibility-registry",
+          "title": "Asset eligibility registry",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "invoice-settlement-matching",
+          "title": "Invoice settlement matching",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "asset-and-meter-registry",
+          "title": "Asset and meter registry",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "iso-settlement-ingestion",
+          "title": "ISO settlement ingestion",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "invoice-and-settlement-matching",
+          "title": "Invoice and settlement matching",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 54,
+      "id": "crypto-platform",
+      "title": "Crypto & decentralized finance",
+      "buyer": "DAO operations teams",
+      "focusedOffer": "Governance proposal records",
+      "organicAsset": "Proposal review templates and public governance examples",
+      "activation": "Save a proposal and review evidence",
+      "mainGap": "Wallet/chain execution and genuine analysis engines",
+      "sourceApps": 11,
+      "nativePages": 78,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "analyze-proposal-language",
+          "title": "Proposal Language Analyzer",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "auto-generate-proposal",
+          "title": "Auto-Generate Proposal Draft",
+          "mode": "records",
+          "fieldCount": 5,
+          "calculators": 0
+        },
+        {
+          "id": "dao-summary",
+          "title": "DAO Health Snapshot",
+          "mode": "records",
+          "fieldCount": 1,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 55,
+      "id": "telecom-platform",
+      "title": "Telecom networks & customer operations",
+      "buyer": "Telecom cost consultants",
+      "focusedOffer": "Circuit and invoice evidence review",
+      "organicAsset": "Circuit inventory worksheets and invoice-review guides",
+      "activation": "Save a circuit or invoice exception record",
+      "mainGap": "Carrier imports, network operations and pricing engines",
+      "sourceApps": 7,
+      "nativePages": 181,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "billing",
+          "title": "Invoices & billing",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "carrier-contract-and-tariff-library",
+          "title": "Carrier contract and tariff library",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "circuit-and-number-inventory",
+          "title": "Circuit and number inventory",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "carrier-invoice-ingestion",
+          "title": "Carrier invoice ingestion",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "carrier-dispute-workflow",
+          "title": "Carrier dispute workflow",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "carrier-submission",
+          "title": "Carrier Submission",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "carrier-rejection",
+          "title": "Carrier Rejection",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "carrier-rejection-classification",
+          "title": "Carrier rejection classification",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "carrier-route-registry",
+          "title": "Carrier route registry",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "invoice-generation",
+          "title": "Invoice generation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "counterparty-invoice-audit",
+          "title": "Counterparty invoice audit",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "route-carrier-analytics",
+          "title": "Route carrier analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 56,
+      "id": "memorial-platform",
+      "title": "Funeral, cemetery & memorial operations",
+      "buyer": "Small funeral and memorial operators",
+      "focusedOffer": "Case document and handoff organization",
+      "organicAsset": "Sensitive case-administration checklists",
+      "activation": "Save a case and supporting document",
+      "mainGap": "Provider handoffs, jurisdiction rules and family permissions",
+      "sourceApps": 4,
+      "nativePages": 109,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "documents",
+          "title": "Documents",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "repatriation-case",
+          "title": "Repatriation Case",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "consular-document",
+          "title": "Consular Document",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "case-expense",
+          "title": "Case Expense",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "document-requirement",
+          "title": "Document Requirement",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "consular-document-extraction",
+          "title": "Consular document extraction",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "document-translation-draft",
+          "title": "Document translation draft",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "memorial-events",
+          "title": "Memorial Events",
+          "mode": "records",
+          "fieldCount": 11,
+          "calculators": 0
+        },
+        {
+          "id": "memorial-products",
+          "title": "Memorial Products",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "memorial-pages",
+          "title": "Memorial Pages",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "memorial-donations",
+          "title": "Memorial Donations",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "timeline-events",
+          "title": "Memorial Timeline",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 57,
+      "id": "semiconductor-platform",
+      "title": "Semiconductors & hardware development",
+      "buyer": "Small hardware consultancies",
+      "focusedOffer": "Component and supplier evidence review",
+      "organicAsset": "Component sourcing and engineering handoff checklists",
+      "activation": "Save a component or supplier review record",
+      "mainGap": "Engineering validation and supplier-system data",
+      "sourceApps": 9,
+      "nativePages": 142,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "component-master-registry",
+          "title": "Component master registry",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "approved-supplier-mapping",
+          "title": "Approved supplier mapping",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "quote-agreement-library",
+          "title": "Quote agreement library",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-dispute-workflow",
+          "title": "Supplier dispute workflow",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "part-supplier-analytics",
+          "title": "Part supplier analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "product-node-and-supplier-analytics",
+          "title": "Product node and supplier analytics",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "supplier",
+          "title": "Supplier Recommendation",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "supplier-risk",
+          "title": "Supplier Risk Score",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "suppliers",
+          "title": "Suppliers",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "components",
+          "title": "Components",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 58,
+      "id": "safety-platform",
+      "title": "Emergency response & safety",
+      "buyer": "Small safety consultancies",
+      "focusedOffer": "Inspection and corrective-action evidence",
+      "organicAsset": "Site inspection templates and training handoff guides",
+      "activation": "Save an inspection and corrective-action record",
+      "mainGap": "Validated safety workflows and operational response integration",
+      "sourceApps": 6,
+      "nativePages": 167,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "inspections",
+          "title": "Site Inspections",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "incidents",
+          "title": "Incident Reports",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "equipment",
+          "title": "Equipment Inspections",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "training",
+          "title": "Safety Training",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "crisis-incidents",
+          "title": "Crisis Incidents",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "incident-timelines",
+          "title": "Incident Timeline",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "incident-predict",
+          "title": "Incident Predict",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "staff-training-personalization",
+          "title": "staff training personalization",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "limited-training-compliance-tracking",
+          "title": "limited training compliance tracking",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "training-scenario-generator",
+          "title": "Training Scenario Generator",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 59,
+      "id": "civic-platform",
+      "title": "Government & civic administration",
+      "buyer": "Small public-sector contractors",
+      "focusedOffer": "Administrative project evidence organization",
+      "organicAsset": "Administrative evidence templates and procurement guides",
+      "activation": "Save a project evidence record",
+      "mainGap": "Procurement adoption, permissions and public-system integration",
+      "sourceApps": 14,
+      "nativePages": 320,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "matters",
+          "title": "Work items & projects",
+          "mode": "records",
+          "fieldCount": 4,
+          "calculators": 0
+        },
+        {
+          "id": "contract-clause-library",
+          "title": "Contract clause library",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "contract-rate-analytics",
+          "title": "Contract rate analytics",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "api-permits",
+          "title": "Permits",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "permit-guide",
+          "title": "Permit guide",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "permit-eligibility",
+          "title": "Permit eligibility",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "budgets",
+          "title": "Budget & Contracts",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "api-building-permits",
+          "title": "Building Permits",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "predictive-permit-approval-ml",
+          "title": "predictive permit approval ml",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "lifecycle-matters",
+          "title": "Contract Matters",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "contract-suite-smart-contract",
+          "title": "Smart-Contract Assurance",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "contract-suite-sports",
+          "title": "Sports Contracts",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 60,
+      "id": "aviation-platform",
+      "title": "Aviation, drones & airport operations",
+      "buyer": "Aviation administrative consultancies",
+      "focusedOffer": "Ticket or maintenance evidence review",
+      "organicAsset": "Narrow aviation administration checklists",
+      "activation": "Save an administrative exception record",
+      "mainGap": "Authoritative aviation rules and airline/maintenance integrations",
+      "sourceApps": 9,
+      "nativePages": 229,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "airline-tmc-agreement-library",
+          "title": "Airline TMC agreement library",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "ticket-exchange-ingestion",
+          "title": "Ticket exchange ingestion",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "unused-ticket-detection",
+          "title": "Unused ticket detection",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "airline-refund-workflow",
+          "title": "Airline refund workflow",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "airline-route-analytics",
+          "title": "Airline route analytics",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "maintenance",
+          "title": "Maintenance",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "airline",
+          "title": "Airline Partners",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "predictive-maintenance",
+          "title": "Predictive Maintenance",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "maintenance-repairs",
+          "title": "Maintenance & Repairs",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "maintenance-logs",
+          "title": "Maintenance Logs",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "maintenance-events",
+          "title": "Maintenance Events",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "maintenance-forecast",
+          "title": "AI \u00b7 Maintenance Forecast",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 61,
+      "id": "mining-platform",
+      "title": "Mining & mineral operations",
+      "buyer": "Mining services consultancies",
+      "focusedOffer": "Production and lease evidence organization",
+      "organicAsset": "Production evidence worksheets and lease checklists",
+      "activation": "Save a production or lease review record",
+      "mainGap": "Assay/production integrations and verified calculations",
+      "sourceApps": 4,
+      "nativePages": 100,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "mineral-lease-library",
+          "title": "Mineral lease library",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "mine-production-ingestion",
+          "title": "Mine production ingestion",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "assay-grade-validation",
+          "title": "Assay grade validation",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "assay-results",
+          "title": "Assay Results",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "assay-trend",
+          "title": "AI \u00b7 Assay Trend",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "assay-anomaly-narrate",
+          "title": "Assay anomaly narrate",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "production-logs",
+          "title": "Production Logs",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "production-forecast",
+          "title": "Production Forecast",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 62,
+      "id": "hospital-platform",
+      "title": "Hospital, diagnostics & emergency care",
+      "buyer": "Hospital administrative teams",
+      "focusedOffer": "Administrative incident and staffing records",
+      "organicAsset": "Administrative handoff checklists for one department",
+      "activation": "Save an administrative record",
+      "mainGap": "Institutional procurement, clinical systems and role controls",
+      "sourceApps": 10,
+      "nativePages": 408,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "staffing-optimization",
+          "title": "Staffing Optimization",
+          "mode": "records",
+          "fieldCount": 2,
+          "calculators": 0
+        },
+        {
+          "id": "community-paramedicine",
+          "title": "Community Paramedicine",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "units",
+          "title": "Units",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "incidents",
+          "title": "Incidents",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "unit-selection",
+          "title": "Unit selection",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "incident-prediction",
+          "title": "Incident prediction",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "resources-without-staffing",
+          "title": "Resources without `/staffing",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "staffing-optimize",
+          "title": "Staffing Optimize",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "predict-herd-immunity-threshold",
+          "title": "Predict Herd Immunity Threshold",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 63,
+      "id": "rail-platform",
+      "title": "Rail operations & safety",
+      "buyer": "Rail infrastructure consultants",
+      "focusedOffer": "Crossing inspection evidence records",
+      "organicAsset": "Crossing inspection evidence templates",
+      "activation": "Save a crossing inspection record",
+      "mainGap": "Verified safety workflows and infrastructure data integration",
+      "sourceApps": 4,
+      "nativePages": 67,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "crossing-program",
+          "title": "Crossing Program",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "rail-crossing",
+          "title": "Rail Crossing",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "crossing-owner",
+          "title": "Crossing Owner",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "crossing-inspection",
+          "title": "Crossing Inspection",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "crossing-project",
+          "title": "Crossing Project",
+          "mode": "records",
+          "fieldCount": 7,
+          "calculators": 0
+        },
+        {
+          "id": "inventory-change",
+          "title": "Inventory Change",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "crossing-submission",
+          "title": "Crossing Submission",
+          "mode": "records",
+          "fieldCount": 6,
+          "calculators": 0
+        },
+        {
+          "id": "inspection-change-extraction",
+          "title": "Inspection change extraction",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        },
+        {
+          "id": "inventory-discrepancy-packet",
+          "title": "Inventory discrepancy packet",
+          "mode": "records",
+          "fieldCount": 8,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    },
+    {
+      "rank": 64,
+      "id": "space-platform",
+      "title": "Space operations & simulation",
+      "buyer": "Small space-data consultancies",
+      "focusedOffer": "Observation and analysis record organization",
+      "organicAsset": "Reproducibility notes and observation planning templates",
+      "activation": "Save an observation or analysis record",
+      "mainGap": "Actual imagery processing, simulations and domain engines",
+      "sourceApps": 5,
+      "nativePages": 147,
+      "registeredCalculations": 0,
+      "sourceEvidence": [
+        {
+          "id": "map",
+          "title": "Map",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "temporal-analysis",
+          "title": "Temporal analysis",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "temporalanalysis-multidate-trends",
+          "title": "temporalanalysis multidate trends",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "map-integration-leafletmapbox-backend-lay",
+          "title": "map integration leafletmapbox backend lay",
+          "mode": "integration",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "debris-analysis",
+          "title": "Debris Analysis",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "orbital-map",
+          "title": "Orbital Map (SGP4)",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "sensor-fusion-combining-optical-radar-observations-via-ml",
+          "title": "sensor fusion combining optical radar observations via ml",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "ai-driven-debris-characterization-from-limited-observations-frontend",
+          "title": "ai driven debris characterization from limited observations frontend",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        },
+        {
+          "id": "sensor-fusion-ml-for-observation-confidence",
+          "title": "sensor fusion ml for observation confidence",
+          "mode": "records",
+          "fieldCount": 3,
+          "calculators": 0
+        }
+      ],
+      "confidence": "provisional; demand and conversion not measured",
+      "readiness": "local workspace; public funnel and specialized workflow work required"
+    }
+  ]
+}
