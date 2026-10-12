@@ -40,11 +40,13 @@ async function openRouterFetch(options = {}, transport = globalThis.fetch) {
   else options.signal?.addEventListener('abort', abort, { once: true });
   const timer = setTimeout(abort, timeoutMs);
   try {
+    controller.signal.throwIfAborted();
     const response = await transport(ENDPOINT, {
       method: 'POST', headers, body: JSON.stringify(body), signal: controller.signal,
     });
     // Read under the same timeout. Do not expose provider bodies, prompts or keys in errors.
     const text = await response.text();
+    controller.signal.throwIfAborted();
     if (!response.ok) throw new AIRequestError(`AI provider returned HTTP ${response.status}.`, 'AI_PROVIDER_ERROR', response.status);
     let data;
     try { data = JSON.parse(text); }

@@ -17,5 +17,8 @@
     "test:ai-merge": "node scripts/assistant-merge-all.cjs",
     "report:ai-merge": "node scripts/report-assistant-merge.mjs",
     "test:floating-ai": "node scripts/floating-assistant-all.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0"
   }
 }
