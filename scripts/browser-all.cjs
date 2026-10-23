@@ -1,4 +1,4 @@
-const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'/Volumes/external/projects/homeservices/node_modules/@playwright/test');
+const {chromium}=require(process.env.PLAYWRIGHT_MODULE||require('node:path').join(__dirname,'../../homeservices/node_modules/@playwright/test'));
 const fs=require('node:fs/promises'),path=require('node:path'),os=require('node:os'),assert=require('node:assert/strict'),{pathToFileURL}=require('node:url');
 const builder=path.resolve(__dirname,'..'),root=path.dirname(builder);
 (async()=>{

@@ -6,4 +6,6 @@ export const modules=JSON.parse(await readFile(new URL('../config/modules.json',
 export const features=JSON.parse(await readFile(new URL('../config/merged-features.json',import.meta.url))).map(f=>({...f,ai:!['report','audit'].includes(f.mode)&&(f.ai||/\b(ai|assistant|generator|analyzer|predictor|optimizer|summarizer)\b/i.test(f.title))}));
 export const assistants=groupAssistants(features);
 export const appConfig=JSON.parse(await readFile(new URL('../config/app.json',import.meta.url)));
+let featurePack={insights:[]};try{featurePack=JSON.parse(await readFile(new URL('../config/feature-pack.json',import.meta.url)));}catch(e){if(e.code!=='ENOENT')throw e;}
+export {featurePack};
 export async function readiness(module){return {id:module.id,status:'Source reference; native workspace active',issues:[],listening:false};}

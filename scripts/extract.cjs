@@ -1,5 +1,5 @@
 const fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto');
-const ts=require(process.env.TYPESCRIPT_MODULE||'/Users/erolakarsu/projects/smallLawFirm/node_modules/typescript');
+const ts=require(process.env.TYPESCRIPT_MODULE||require('node:path').join(__dirname,'../../smallLawFirm/node_modules/typescript'));
 const root=path.resolve(__dirname,'../..'),build=path.resolve(__dirname,'..');
 const inventory=JSON.parse(fs.readFileSync(path.join(build,'reports/inventory.json'))),groups=JSON.parse(fs.readFileSync(path.join(build,'reports/build-manifest.json'))),selected=new Set(groups.flatMap(g=>g.sources));
 const result=[];

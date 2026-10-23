@@ -2,13 +2,13 @@ import http from 'node:http';
 import {readFile} from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
-import {modules,features,readiness,ROOT,appConfig,assistants} from '../scripts/workspace.mjs';
+import {modules,features,readiness,ROOT,appConfig,assistants,featurePack} from '../scripts/workspace.mjs';
 import {openStore} from './runtime/store.mjs';
 import {workspaceAPI} from './runtime/api.mjs';
 const publicDir=fileURLToPath(new URL('./public/',import.meta.url));
 const files=new Map([['/',['index.html','text/html']],['/app.js',['app.js','text/javascript']],['/assistant.js',['assistant.js','text/javascript']],['/floating-assistant.js',['floating-assistant.js','text/javascript']],['/ai-limits.js',['ai-limits.js','text/javascript']],['/style.css',['style.css','text/css']]]);
 export function createHub({databasePath=process.env.WORKSPACE_DB||path.join(ROOT,'data/workspace.sqlite'),complete}={}){
- const store=openStore(databasePath,features),api=workspaceAPI(store,{complete,assistants,features,app:appConfig});
+ const store=openStore(databasePath,features),api=workspaceAPI(store,{complete,assistants,features,app:appConfig,featurePack});
  const server=http.createServer(async(req,res)=>{
   res.setHeader('X-Content-Type-Options','nosniff');res.setHeader('Cache-Control','no-store');
   res.setHeader('Content-Security-Policy',"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; base-uri 'none'; frame-ancestors 'none'");
@@ -18,7 +18,7 @@ export function createHub({databasePath=process.env.WORKSPACE_DB||path.join(ROOT
    if(!['GET','HEAD'].includes(req.method)){res.writeHead(405,{Allow:'GET, HEAD'});res.end();return;}
    const pathname=url.pathname;
    if(['/api/catalog','/api/status','/api/health'].includes(pathname)){
-    const data=pathname==='/api/catalog'?{modules,features,assistants,app:appConfig}:pathname==='/api/status'?await Promise.all(modules.map(readiness)):{status:'ok',service:appConfig.id,mode:'merged-workspace'};
+    const data=pathname==='/api/catalog'?{modules,features,assistants,app:appConfig,featurePack}:pathname==='/api/status'?await Promise.all(modules.map(readiness)):{status:'ok',service:appConfig.id,mode:'merged-workspace'};
     res.writeHead(200,{'Content-Type':'application/json'});res.end(req.method==='HEAD'?undefined:JSON.stringify(data));return;
    }
    if(pathname==='/favicon.ico'){res.writeHead(204);res.end();return;}

@@ -1,9 +1,10 @@
 import {WORD_LIMIT,MAX_INPUT_CHARACTERS,MAX_OUTPUT_TOKENS,LONG_ANSWER_TIMEOUT_MS,countWords} from '../public/ai-limits.js';
 import {WorkspaceError,exportCSV} from './store.mjs';
 import {answerQuestion} from './assistant.mjs';
+import {insightCatalog,buildInsight,providerConfigured} from './insights.mjs';
 import {createChatCompletion} from '../../packages/ai-client/index.cjs';
 async function body(req){let value='',size=0;for await(const chunk of req){size+=chunk.length;if(size>3*1024*1024)throw new WorkspaceError('Request is too large.',413);value+=chunk;}try{return JSON.parse(value);}catch{throw new WorkspaceError('Invalid JSON.');}}
-export function workspaceAPI(store,{complete=createChatCompletion,assistants=[],features=[],app={}}={}){
+export function workspaceAPI(store,{complete=createChatCompletion,assistants=[],features=[],app={},featurePack={insights:[]}}={}){
  let busy=false;let requests=[];
  return async(req,res,url)=>{
   const pathname=url.pathname;
@@ -15,6 +16,8 @@ export function workspaceAPI(store,{complete=createChatCompletion,assistants=[],
   const send=(data,status=200)=>{if(signal.aborted||res.destroyed||res.writableEnded)return true;res.writeHead(status,{'Content-Type':'application/json'});res.end(JSON.stringify(data));return true;};
   try{
    signal.throwIfAborted();
+   const authToken=process.env.WORKSPACE_AUTH_TOKEN?.trim();
+   if(authToken){const supplied=req.headers.authorization?.replace(/^Bearer\s+/i,'')||req.headers['x-workspace-token'];if(supplied!==authToken)throw new WorkspaceError('Authentication required.',401);}
    if(!['GET','HEAD'].includes(req.method)){
     const origin=req.headers.origin;
     if(req.headers['x-legal-workspace']!=='1'||(origin&&origin!==`http://${req.headers.host}`))throw new WorkspaceError('Request must originate from this workspace.',403);
@@ -23,7 +26,10 @@ export function workspaceAPI(store,{complete=createChatCompletion,assistants=[],
    const isGet=['GET','HEAD'].includes(req.method);
    if(pathname==='/api/workspace/summary'&&isGet)return send(store.summary());
    if(pathname==='/api/workspace/audit'&&isGet)return send(store.audit());
-   if(pathname==='/api/workspace/settings'&&isGet)return send({aiConfigured:Boolean(complete!==createChatCompletion||(process.env.OPENROUTER_API_KEY&&process.env.OPENROUTER_MODEL)),model:process.env.OPENROUTER_MODEL||'',storage:'Local workspace',externalIntegrationsConnected:false});
+   if(pathname==='/api/workspace/settings'&&isGet)return send({aiConfigured:Boolean(complete!==createChatCompletion||(process.env.OPENROUTER_API_KEY&&process.env.OPENROUTER_MODEL)),aiProviderConfigured:providerConfigured(),authRequired:Boolean(process.env.WORKSPACE_AUTH_TOKEN?.trim()),model:process.env.OPENROUTER_MODEL||'',storage:'Local workspace',externalIntegrationsConnected:false});
+   if(pathname==='/api/workspace/insights'&&isGet)return send(insightCatalog(features,app,featurePack.insights));
+   const insight=pathname.match(/^\/api\/workspace\/insights\/([a-z0-9-]+)$/);
+   if(insight&&req.method==='POST'){await body(req).catch(()=>({}));return send(await buildInsight(store,features,app,insight[1],complete,{signal},featurePack.insights),201);}
    const floating=pathname.match(/^\/api\/workspace\/assistant\/(ask|answers)(?:\/([a-z0-9-]+))?$/);
    if(floating){
     const ai=features.filter(f=>f.ai),ids=ai.map(f=>f.id),base=ai[0];if(!base)throw new WorkspaceError('AI assistant unavailable.',404);
@@ -54,7 +60,7 @@ export function workspaceAPI(store,{complete=createChatCompletion,assistants=[],
     }
    }
    const records=pathname.match(/^\/api\/workspace\/features\/([a-z0-9-]+)\/records(?:\/(export))?$/);
-   if(records){const f=store.feature(records[1]);if(records[2]&&isGet){res.writeHead(200,{'Content-Type':'text/csv; charset=utf-8','Content-Disposition':`attachment; filename="${f.id}.csv"`});res.end(exportCSV(f,store.list(f.id)));return true;}if(isGet)return send(store.list(f.id,Object.fromEntries(url.searchParams)));if(req.method==='POST'&&!records[2])return send(store.create(f.id,await body(req)),201);}
+   if(records){const f=store.feature(records[1]);if(records[2]&&isGet){const rows=store.list(f.id,Object.fromEntries(url.searchParams));if(url.searchParams.get('format')==='json'){res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Content-Disposition':`attachment; filename="${f.id}.json"`});res.end(JSON.stringify({feature:f.id,exportedAt:new Date().toISOString(),count:rows.length,records:rows},null,2));return true;}res.writeHead(200,{'Content-Type':'text/csv; charset=utf-8','Content-Disposition':`attachment; filename="${f.id}.csv"`});res.end(exportCSV(f,rows));return true;}if(isGet)return send(store.list(f.id,Object.fromEntries(url.searchParams)));if(req.method==='POST'&&!records[2])return send(store.create(f.id,await body(req)),201);}
    const record=pathname.match(/^\/api\/workspace\/records\/([a-z0-9-]+)(?:\/(drafts|ai|attachments|related|calculate|calculations))?$/);
    if(record){const id=record[1],action=record[2];const current=store.get(id);
     if(!action&&isGet)return send(current);

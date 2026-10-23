@@ -1,5 +1,5 @@
 import fs from 'node:fs';import path from 'node:path';import {parseEnv} from 'node:util';
-const root='/Volumes/external/projects',builder=path.join(root,'_platform-builder');
+const builder=path.resolve(path.dirname(new URL(import.meta.url).pathname),'..'),root=path.dirname(builder);
 const plans=JSON.parse(fs.readFileSync(path.join(builder,'reports/build-manifest.json'),'utf8'));
 const skip=new Set(['node_modules','.git','dist','build','.next','.venv','venv','coverage','.build','data','vendor','.cache']);
 const files=[];function walk(dir,depth=0){let list;try{list=fs.readdirSync(dir,{withFileTypes:true});}catch{return;}for(const e of list){if(e.isSymbolicLink())continue;const p=path.join(dir,e.name);if(e.isFile()&&/^\.env(?:\.(?:local|development|production|test)(?:\.local)?)?$/.test(e.name))files.push(p);else if(e.isDirectory()&&depth<3&&!skip.has(e.name)&&!e.name.startsWith('.'))walk(p,depth+1);}}

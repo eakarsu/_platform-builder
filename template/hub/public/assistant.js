@@ -35,7 +35,7 @@ function renderStructured(value,depth=0){
   if(parsed!==undefined)return renderStructured(parsed,depth+1);
   if(/\x60\x60\x60json/i.test(value))return renderAnswer(value);
  }
- const formatted=value===null||value===undefined?'Not supplied':typeof value==='boolean'?(value?'Yes':'No'):String(value);for(const line of formatted.split('\n')){if(!line.trim())continue;const p=node('p');inline(p,line);out.append(p);}return out;
+ const formatted=value===null||value===undefined?'Not supplied':value===''?'Empty':typeof value==='boolean'?(value?'Yes':'No'):String(value);for(const line of formatted.split('\n')){if(!line.trim())continue;const p=node('p');inline(p,line);out.append(p);}return out;
 }
 export function renderAnswer(text){
  text=String(text??'');const out=node('div','answer-markdown'),whole=structuredValue(text.trim());if(whole!==undefined){out.append(renderStructured(whole));return out;}
